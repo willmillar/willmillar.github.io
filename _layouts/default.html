@@ -6,21 +6,33 @@
   <body>
 
     <div class="container content">
-      <div class="masthead">
+
+      {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
+      <nav class="masthead">
         <h3 class="masthead-title">
-          <a href="/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+          <a {% if location == 0 %}class="active" {% endif %}href="/"><!-- {{ site.title }} -->Will Millar</a>
+          <a {% if location == 'projects' %}class="active" {% endif %}href="/projects/">Projects</a>
+          <a {% if location == 'writing' %}class="active" {% endif %}href="/writing/">Writing</a>
+          <a href="#footer">Contact</a>
         </h3>
-      </div>
+      </nav>
 
       {{ content }}
 
-      <div class="footer">
+      <div id="footer">
+        <div class="contact">
+          <h2>Get in touch</h2>
+          <a href="mailto:willmillar@gmail.com">Email</a>
+          <a href="/">Twitter</a>
+          <a href="/">LinkedIn</a>
+        </div>
+
         <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+          &copy; Will Millar {{ site.time | date: '%Y' }}. All rights reserved.
         </p>
       </div>
     </div>
 
   </body>
+
 </html>
