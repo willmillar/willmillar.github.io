@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-04-14T18:55:08-04:00</updated>
+ <updated>2014-04-14T18:58:23-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Digital education concept</title>
-   <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
+   <link href="http://willmillar.com/projects/featured/2014/04/09/gather/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2014/04/09/gather</id>
+   <id>http://willmillar.com/projects/featured/2014/04/09/gather</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
