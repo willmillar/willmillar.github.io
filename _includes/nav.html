@@ -1,5 +1,7 @@
-<ul>
-	<li><a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">{{site.title}}</a></li>
-	<li><a href="{{site.baseurl}}/projects/" class="{% if page.url == '/projects.html' %}current{% endif %}">Projects</a></li>
-	<li><a href="{{site.baseurl}}/blog/" class="{% if page.url == '/blog.html' %}current{% endif %}">Blog</a></li>
-</ul>
+<nav>
+	<ul id="navlist">
+		<li><a id="index" href="/">{{site.title}}</a></li>
+		<li><a href="projects.html">Projects</a></li>
+		<li><a href="blog.html">Blog</a></li>
+	</ul>
+</nav>
