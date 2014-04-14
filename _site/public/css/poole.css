@@ -437,6 +437,6 @@ nav a.first {
   font-weight: 1000;
 }
 
-nav a.active {
-  font-size: 9000;
+a.current {
+  font-size: 200px;
 }

@@ -1,9 +1,5 @@
-{% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
-      <nav class="masthead" role="navigation">
-        <h3 class="masthead-title">
-          <a {% if location == 0 %}class="active" {% endif %}href="/">{{ site.title }}</a>
-          <a {% if location == 'projects' %}class="active" {% endif %}href="/projects/">Projects</a>
-          <a {% if location == 'writing' %}class="active" {% endif %}href="/writing/">Writing</a>
-          <a href="#footer">Contact</a>
-        </h3>
-      </nav>
+<ul>
+	<li><a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">{{site.title}}</a></li>
+	<li><a href="{{site.baseurl}}/projects/" class="{% if page.url == '/projects.html' %}current{% endif %}">Projects</a></li>
+	<li><a href="{{site.baseurl}}/blog/" class="{% if page.url == '/blog.html' %}current{% endif %}">Blog</a></li>
+</ul>
