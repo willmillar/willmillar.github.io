@@ -260,17 +260,6 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
-nav a {
-  font-weight: 100;
-}
-
-nav a.first {
-  font-weight: 1000;
-}
-
-nav a.active {
-  font-size: 9000;
-}
 
 
 /*
@@ -436,4 +425,18 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
+}
+
+/* Navigation */
+
+nav a {
+  font-weight: 100;
+}
+
+nav a.first {
+  font-weight: 1000;
+}
+
+nav a.active {
+  font-size: 9000;
 }
