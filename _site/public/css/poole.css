@@ -256,11 +256,25 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
-  font-weight: 300;
+  font-size: 2.25rem;
+  font-weight: bold;
+  text-align: center;
+  color: #ccc;
+  margin: 1rem 0 2rem 0;
 }
 
+#footer h2 {
+  color: #ccc;
+}
 
+#footer p {
+  color: #ccc;
+  padding: 1.5rem 0 2rem 0;
+}
+
+.back-to-top {
+  margin-top: 10rem;
+}
 
 /*
  * Messages
@@ -284,7 +298,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 34rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -429,14 +443,30 @@ a.pagination-item:hover {
 
 /* Navigation */
 
-nav a {
-  font-weight: 100;
+nav {
+  text-align: center!important;
+  font-size: 1.25rem;
+  padding: 1.25rem;
 }
 
-nav a.first {
-  font-weight: 1000;
+nav a {
+  font-weight: 100;
+  padding: 1%;
+}
+
+nav a:first-child {
+  font-weight: bold;
+}
+
+nav a:hover{
+  text-decoration: none;
+  border-bottom: 2px solid;
 }
 
 a.current {
-  font-size: 200px;
+  border-bottom: 2px solid;
+}
+
+#footer {
+  text-align: center
 }

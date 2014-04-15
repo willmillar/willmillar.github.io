@@ -26,22 +26,6 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
 
-  <!-- Current page highlighting -->
-  <script type="text/javascript">
-    $(document).ready(function() {
-        var pathname = window.location.pathname;
-
-        $("#navlist a").each(function(index) {
-            if (pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1)
-                $(this).addClass("current");
-        });
-
-        if ($("a.current").length == 0)
-            $("a#index").addClass("current");
-    });
-  </script>
-
-
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
@@ -51,13 +35,28 @@
 
     <div class="container content">
 
-      <nav>
-	<ul id="navlist">
-		<li><a id="index" href="/">Will Millar</a></li>
-		<li><a href="projects.html">Projects</a></li>
-		<li><a href="blog.html">Blog</a></li>
-	</ul>
-</nav>
+      <nav class="navigation">
+    
+      
+      
+
+      <a class="first  " href="/">Will Millar</a>
+      </a>
+    
+      
+      
+
+      <a class="  " href="/projects/">Projects</a>
+      </a>
+    
+      
+      
+
+      <a class="  last" href="/blog/">Blog</a>
+      </a>
+    
+    <a href="#footer">Contact</a>
+ </nav>
 
       <div class="post">
   <h1 class="post-title">Example content</h1>
@@ -84,7 +83,6 @@
 <li>Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use <code>&lt;abbr&gt;</code>, with an optional <code>title</code> attribute for the full phrase.</li>
 <li>Citations, like <cite>&mdash; Mark otto</cite>, should use <code>&lt;cite&gt;</code>.</li>
 <li><del>Deleted</del> text should use <code>&lt;del&gt;</code> and <ins>inserted</ins> text should use <code>&lt;ins&gt;</code>.</li>
-<li>Superscript <sup>text</sup> uses <code>&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code>&lt;sub&gt;</code>.</li>
 </ul>
 
 <p>Most of these elements are styled by browsers with few modifications on our part.</p>
@@ -239,8 +237,10 @@
           <a href="/">LinkedIn</a>
         </div>
 
+        <a href="#" class="back-to-top">Back to top</a>
+
         <p>
-          &copy; Will Millar 2014. All rights reserved.
+          &copy; Will Millar 2014. Thanks.
         </p>
       </div>
     </div>

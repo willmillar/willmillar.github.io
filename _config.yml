@@ -22,3 +22,14 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/willmillar/willmillar.github.io
+
+navigation:
+      - text: Will Millar
+        title: Home - Will Millar Experience Designer
+        url: /index.html
+      - text: Projects
+        title: An introduction to the project
+        url: /projects/
+      - text: Blog
+        title: Bloggerino
+        url: /blog/ 

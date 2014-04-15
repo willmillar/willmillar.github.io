@@ -1,7 +1,12 @@
-<nav>
-	<ul id="navlist">
-		<li><a id="index" href="/">{{site.title}}</a></li>
-		<li><a href="projects.html">Projects</a></li>
-		<li><a href="blog.html">Blog</a></li>
-	</ul>
-</nav>
+<nav class="navigation">
+    {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url == link.url or page.layout == link.layout %}
+        {% assign current = 'current' %}
+      {% endif %}
+
+      <a class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}" href="{{ link.url }}">{{ link.text }}</a>
+      </a>
+    {% endfor %}
+    <a href="#footer">Contact</a>
+ </nav>
