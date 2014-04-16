@@ -271,12 +271,16 @@ tbody tr:nth-child(odd) th {
 }
 
 #footer p {
-  color: #ccc;
-  padding: 1rem 0 2rem 0;
+  margin: .5rem 0 0 0;
 }
 
-.back-to-top {
-  padding-top: 1rem;
+#footer p:first-child {
+  margin: 1.5rem 0 0 0;
+}
+
+p.copyright {
+  color: #ccc;
+  padding: 1rem 0 2rem 0;
 }
 
 /*
