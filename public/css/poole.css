@@ -266,8 +266,14 @@ tbody tr:nth-child(odd) th {
   margin: 1rem 0 2rem 0;
 }
 
+#footer {
+  background-color: #ccc;
+  margin-top: 2em;
+  padding-top: 1em;
+}
+
 #footer h1 {
-  color: #ccc;
+  color: #fff;
 }
 
 #footer p {
@@ -279,8 +285,8 @@ tbody tr:nth-child(odd) th {
 }
 
 p.copyright {
-  color: #ccc;
-  padding: 1rem 0 2rem 0;
+  color: #fff;
+  padding: 1rem 0 3rem 0;
 }
 
 /*
