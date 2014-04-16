@@ -23,6 +23,8 @@ version:          1.0.0
 github:
   repo:           https://github.com/willmillar/willmillar.github.io
 
+excerpt_separator: <!--more-->
+
 navigation:
       - text: Will Millar
         title: Home - Will Millar Experience Designer

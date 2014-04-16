@@ -49,12 +49,15 @@ body {
 
 html {
   font-family: "franklin-gothic-urw", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
     font-size: 20px;
+  }
+  nav {
+    font-size: 1.5rem!important;
   }
 }
 
@@ -445,8 +448,8 @@ a.pagination-item:hover {
 
 nav {
   text-align: center!important;
-  font-size: 1.25rem;
-  padding: 1.25rem;
+  font-size: 1.2rem;
+  padding: 1.25rem 0 1.25rem 0;
 }
 
 nav a {
