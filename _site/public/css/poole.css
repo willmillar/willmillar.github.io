@@ -266,17 +266,17 @@ tbody tr:nth-child(odd) th {
   margin: 1rem 0 2rem 0;
 }
 
-#footer h2 {
+#footer h1 {
   color: #ccc;
 }
 
 #footer p {
   color: #ccc;
-  padding: 1.5rem 0 2rem 0;
+  padding: 1rem 0 2rem 0;
 }
 
 .back-to-top {
-  margin-top: 10rem;
+  padding-top: 1rem;
 }
 
 /*
@@ -448,7 +448,7 @@ a.pagination-item:hover {
 
 nav {
   text-align: center!important;
-  font-size: 1rem;
+  font-size: 1.25rem;
   padding: 1.75rem 0 2rem 0;
 }
 
