@@ -121,7 +121,7 @@ p.large {
 
 p.about-text {
   max-width: 28rem;
-  padding: 1rem 0 1rem 0;
+  padding: 1rem;
 }
 
 .read-more {
