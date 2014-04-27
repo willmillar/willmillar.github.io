@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Experience design for Panera Bread, Analog Devices, etc.
+title: Experience design consulting
 category: projects
 ---
 
-Portfolio of consulting projects available upon <a href="#footer">request</a>.
+Portfolio of consulting projects available upon request.

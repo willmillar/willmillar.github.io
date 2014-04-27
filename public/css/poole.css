@@ -125,7 +125,7 @@ p.about-text {
 }
 
 .read-more {
-  color: white;
+  color: #ddd;
   background-color: #3A92C9;
   padding: .25rem 1rem;
   border-radius: 99rem;
@@ -317,7 +317,7 @@ tbody tr:nth-child(odd) th {
 }
 
 p.copyright {
-  color: #fff;
+  color: #ccc;
   padding: 1rem 0 3rem 0;
 }
 

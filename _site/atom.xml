@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-04-26T20:50:10-04:00</updated>
+ <updated>2014-04-26T22:45:24-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>Experience design for Panera Bread, Analog Devices, etc.</title>
+   <title>Experience design consulting</title>
    <link href="http://willmillar.com/projects/2014/04/26/experience-design-consulting/"/>
    <updated>2014-04-26T00:00:00-04:00</updated>
    <id>http://willmillar.com/projects/2014/04/26/experience-design-consulting</id>
-   <content type="html">&lt;p&gt;Portfolio of consulting projects available upon &lt;a href=&quot;#footer&quot;&gt;request&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Portfolio of consulting projects available upon request.&lt;/p&gt;
 </content>
  </entry>
  
@@ -26,7 +26,9 @@
    <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
    <id>http://willmillar.com/projects/2014/04/09/gather</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;hero&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -756,11 +758,11 @@
 
 &lt;!--more--&gt;
 
-&lt;h2&gt;Problem definition&lt;/h2&gt;
+&lt;h2&gt;Defining the problem&lt;/h2&gt;
 
 &lt;p&gt;The Design Research course gave us an open brief which asked that we &amp;quot;identify a target audience in need&amp;quot; and &amp;quot;design a service to help them.&amp;quot; Working from personal experience, our group rallied around the challenges of students transitioning into the workforce.&lt;/p&gt;
 
-&lt;h2&gt;Collaboration &amp;amp; iteration&lt;/h2&gt;
+&lt;h2&gt;Iterative collaboration&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/gather-environment.png&quot;&gt;&lt;/p&gt;
 
