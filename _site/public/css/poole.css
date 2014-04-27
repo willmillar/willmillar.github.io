@@ -63,7 +63,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #ddd;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -287,10 +287,11 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-weight: 700;
   margin: 1rem 0 3rem 0;
+  color: #fff!important;
 }
 
 .secondary {
-  color: #ccc;
+  color: #aaa;
 }
 
 .center-text {
@@ -298,13 +299,13 @@ tbody tr:nth-child(odd) th {
 }
 
 #footer {
-  background-color: #ccc;
+  background-color: #fff;
   margin-top: 3em;
   padding-top: 1em;
 }
 
 #footer h1 {
-  color: #fff;
+  color: #ccc;
 }
 
 #footer p {
