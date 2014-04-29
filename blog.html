@@ -21,7 +21,7 @@ title: Blog
 
     {{ post.excerpt }}
 
-    <p class="center-text"><a class="read-more" href="{{ post.url }}">Read more &rarr;</a>
+    {% include read-more.html %}
 
   </div>
   {% endfor %}

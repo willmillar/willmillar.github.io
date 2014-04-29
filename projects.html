@@ -19,7 +19,9 @@ title: Projects
 
     <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    {% include read-more.html %}
 
   </div>
   {% endfor %}

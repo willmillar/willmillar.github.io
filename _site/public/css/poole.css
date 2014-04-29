@@ -129,6 +129,7 @@ p.about-text {
   background-color: #3A92C9;
   padding: .25rem 1rem;
   border-radius: 99rem;
+  margin: 10rem 0 0;
 }
 
 strong {
@@ -301,11 +302,17 @@ tbody tr:nth-child(odd) th {
 #footer {
   background-color: #fff;
   margin-top: 3.5rem;
+  text-align: center;
   padding-top: 1rem;
 }
 
 #footer h1 {
   color: #ccc;
+  margin-bottom: 0;
+}
+
+#footer h2 {
+  margin: 0 0 1.5rem 0;
 }
 
 #footer p {
@@ -314,6 +321,11 @@ tbody tr:nth-child(odd) th {
 
 #footer p:first-child {
   margin: 1.5rem 0 0 0;
+}
+
+.contact a {
+  padding: 0 .5rem;
+  line-height: 3rem;
 }
 
 p.copyright {
@@ -515,10 +527,6 @@ nav a:hover{
 
 a.current {
   border-bottom: 2px solid;
-}
-
-#footer {
-  text-align: center
 }
 
 /* Custom Image Treatment */
