@@ -132,6 +132,11 @@ p.about-text {
   margin: 10rem 0 0;
 }
 
+.read-more:hover, .read-more:active {
+  opacity: .75;
+  text-decoration: none;
+}
+
 strong {
   color: #303030;
 }
@@ -307,6 +312,15 @@ tbody tr:nth-child(odd) th {
 
 #footer h1 {
   color: #ccc;
+  margin-bottom: 0;
+}
+
+#footer h2 {
+  margin-top: 0;
+}
+
+#footer h2 a {
+  padding: .5rem;
 }
 
 #footer p {
@@ -335,7 +349,6 @@ p.copyright {
   color: #717171;
   background-color: #f9f9f9;
 }
-
 
 /*
  * Container
@@ -402,6 +415,7 @@ p.copyright {
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* Meta data line below post title */
@@ -415,9 +429,9 @@ p.copyright {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top: 3px solid #eee;
   text-align: center;
 }
 .related-posts {
@@ -497,7 +511,7 @@ a.pagination-item:hover {
 nav {
   text-align: center!important;
   font-size: 1.25rem;
-  padding: 1.75rem 0 2rem 0;
+  padding: 1.75rem 0 3rem 0;
 }
 
 nav a {
