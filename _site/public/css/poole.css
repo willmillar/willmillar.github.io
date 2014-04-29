@@ -132,11 +132,6 @@ p.about-text {
   margin: 10rem 0 0;
 }
 
-.read-more:hover, .read-more:active {
-  opacity: .75;
-  text-decoration: none;
-}
-
 strong {
   color: #303030;
 }
@@ -307,17 +302,11 @@ tbody tr:nth-child(odd) th {
 #footer {
   background-color: #fff;
   margin-top: 3.5rem;
-  text-align: center;
   padding-top: 1rem;
 }
 
 #footer h1 {
   color: #ccc;
-  margin-bottom: 0;
-}
-
-#footer h2 {
-  margin: 0 0 1.5rem 0;
 }
 
 #footer p {
@@ -326,11 +315,6 @@ tbody tr:nth-child(odd) th {
 
 #footer p:first-child {
   margin: 1.5rem 0 0 0;
-}
-
-.contact a {
-  padding: 0 .5rem;
-  line-height: 3rem;
 }
 
 p.copyright {
@@ -415,11 +399,6 @@ p.copyright {
 */
   text-align: center;
 }
-
-h2.post-title {
-  margin-bottom: 0;
-}
-
 .page-title,
 .post-title {
   margin-top: 0;
@@ -436,9 +415,9 @@ h2.post-title {
 
 /* Related posts */
 .related {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top: 3px solid #eee;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
   text-align: center;
 }
 .related-posts {
@@ -537,6 +516,10 @@ nav a:hover{
 
 a.current {
   border-bottom: 2px solid;
+}
+
+#footer {
+  text-align: center
 }
 
 /* Custom Image Treatment */
