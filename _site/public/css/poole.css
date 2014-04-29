@@ -132,6 +132,11 @@ p.about-text {
   margin: 10rem 0 0;
 }
 
+.read-more:hover, .read-more:active {
+  opacity: .75;
+  text-decoration: none;
+}
+
 strong {
   color: #303030;
 }
