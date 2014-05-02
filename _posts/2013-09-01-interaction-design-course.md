@@ -63,9 +63,9 @@ We will be **working together in a professional context on "real world" projects
 
 ## Course Projects
 
-- **0. Experience Shift**
-- **1. Website Redesign**
-- **2. Futurecasting Product/Service**
+### 0. Experience Shift**
+### 1. Website Redesign**
+### 2. Futurecasting Product/Service**
 
 [contact]: https://www.schoology.com/page/59583401
 [schoology]: https://www.schoology.com/course/59421575/
