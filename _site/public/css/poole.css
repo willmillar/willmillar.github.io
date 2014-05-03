@@ -69,14 +69,14 @@ body {
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
-a {
+a, a h2 {
   color: #3A92C9;
   text-decoration: none;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  opacity: .5!important;
 }
 
 /* Headings */
@@ -90,29 +90,34 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 1rem;
 }
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   text-align: center;
 }
 h2 {
-  margin-top: 2rem;
-  font-size: 1.75rem;
+  margin-top: 2.5rem;
+  font-size: 2.25rem;
   text-align: center;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1.25rem;
 }
+h6 {
+  font-weight: 100;
+  padding: 10rem auto 0 auto!important;
+  text-align: center;
+}
 
 /* Body text */
-p, li, ul, blockquote {
-  margin: 0rem auto 1rem auto!important;
-  max-width: 34rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+p, li, ul, blockquote, h3, h4, h5, h6 {
+  margin: 0rem auto 1rem auto;
+  max-width: 32rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
 }
 
 p.large {
@@ -130,11 +135,6 @@ p.about-text {
   padding: .25rem 1rem;
   border-radius: 99rem;
   margin: 10rem 0 0;
-}
-
-.read-more:hover, .read-more:active {
-  opacity: .75;
-  text-decoration: none;
 }
 
 strong {
@@ -298,6 +298,7 @@ tbody tr:nth-child(odd) th {
 
 .secondary {
   color: #aaa;
+  font-weight: 100;
 }
 
 .center-text {
@@ -357,7 +358,7 @@ p.copyright {
  */
 
 .container {
-  max-width: 55rem;
+  /*max-width: 55rem;*/
   padding-left:  0;
   padding-right: 0;
   margin-left:  auto;
@@ -435,7 +436,6 @@ p.copyright {
   text-align: center;
 }
 .related-posts {
-  padding-left: 0;
   list-style: none;
 }
 .related-posts h3 {
@@ -547,6 +547,10 @@ a.current {
 
 .post-cover {
   margin-bottom: 1rem;
+}
+
+a .post-cover:hover {
+  color: red!important;
 }
 
 

@@ -3,24 +3,23 @@ layout: default
 title: Will Millar, Experience Designer
 ---
 
-<h1 class="lead secondary">Empathetic design</br>for better experiences.</h1>
+{% include nav.html %}
 
+<h1 class="lead secondary">Empathetic design</br>for better experiences.</h1>
 
 <div class="posts">
   
   {% for post in site.tags.featured %}
   
   <div class="post">
-    <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
-    rgba(220, 220, 223, .6) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover;">
-      <h3 class="secondary center-text">Featured project</h3>
-      <h2 class="post-title">
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h2>
-      <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
-    </div>
+    <a href="{{ post.url }}">
+      <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
+      rgba(220, 220, 223, .3) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
+        <h3 class="secondary center-text">Featured project</h3>
+        <h2 class="post-title">{{ post.title }}</h2>
+        <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      </div>
+    </a>
     <p>{{ post.excerpt | strip_html }}</p>
     {% include read-more.html %}
   </div>

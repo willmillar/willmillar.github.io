@@ -14,6 +14,8 @@ Hi and welcome to CDGD 330: Interaction Design!
 ## Description
 Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.
 
+<!--more-->
+
 An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.
 
 ## Approach

@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-01T21:04:25-04:00</updated>
+ <updated>2014-05-03T17:55:28-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -22,17 +22,17 @@
  </entry>
  
  <entry>
-   <title>Digital education platform</title>
+   <title>Digital education concept</title>
    <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
    <id>http://willmillar.com/projects/2014/04/09/gather</id>
-   <content type="html">&lt;p class=&quot;hero&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -51,6 +51,8 @@
 &lt;h2&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.&lt;/p&gt;
 
@@ -548,25 +550,37 @@
  </entry>
  
  <entry>
-   <title>Student career-matching service</title>
+   <title>Various motion graphics</title>
+   <link href="http://willmillar.com/projects/2012/05/15/motion-graphics/"/>
+   <updated>2012-05-15T00:00:00-04:00</updated>
+   <id>http://willmillar.com/projects/2012/05/15/motion-graphics</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Career-matching concept for students</title>
    <link href="http://willmillar.com/projects/2012/04/01/mathplus/"/>
    <updated>2012-04-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/projects/2012/04/01/mathplus</id>
-   <content type="html">&lt;p class=&quot;hero&quot;&gt;&lt;img src=&quot;/images/gather-environment.png&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mathplus&lt;/em&gt; is a concept service which helps math-inclined students identify potential career paths in high school. It aims to assist students in the job market by introducing them to successful professionals, practical applications for their skills, and example career paths.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Mathplus&lt;/em&gt; is a concept service which helps math-inclined students identify potential career paths in high school. It aims to assist students in the job market by introducing them to successful professionals, practical applications for their skills, and example career paths.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h2&gt;Defining the problem&lt;/h2&gt;
+&lt;h6&gt;Challenge&lt;/h6&gt;
+
+&lt;h2&gt;Students struggle to connect skills and interests to careers&lt;/h2&gt;
 
 &lt;p&gt;The Design Research course gave us an open brief which asked we &amp;quot;identify a target audience in need and design a service to help them.&amp;quot; Working from personal experience, our group rallied around the challenges of students transitioning into the workforce.&lt;/p&gt;
 
-&lt;h2&gt;Iterative collaboration&lt;/h2&gt;
+&lt;h6&gt;Process&lt;/h6&gt;
+
+&lt;h2&gt;Narrowing our target to focus on the problem&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/gather-environment.png&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;The key point in our process was choosing math-inclined students as our audience. After struggling to &amp;quot;solve careers for [all] students,&amp;quot; we found that focusing on a more narrow audenience enabled us to identify individual needs and specific use cases.&lt;/p&gt;
+
+&lt;h6&gt;Solution&lt;/h6&gt;
 
 &lt;h2&gt;Putting it together&lt;/h2&gt;
 
