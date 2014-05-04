@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-03T17:55:28-04:00</updated>
+ <updated>2014-05-03T20:19:25-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -41,18 +41,16 @@
    <link href="http://willmillar.com/blog/2013/09/01/interaction-design-course/"/>
    <updated>2013-09-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/blog/2013/09/01/interaction-design-course</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&quot;mailto:willmillar@gmail.com&quot;&gt;Will Millar&lt;/a&gt;&lt;br&gt;
+   <content type="html">&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&quot;mailto:willmillar@gmail.com&quot;&gt;Will Millar&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Meeting time:&lt;/strong&gt; Tuesdays, 6:30–10:00 PM, Tower 629&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;See Also:&lt;/strong&gt; &lt;a href=&quot;https://www.schoology.com/page/59652379&quot;&gt;&lt;em&gt;Tentative Course Schedule&lt;/em&gt;&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.schoology.com/page/59652657&quot;&gt;&lt;em&gt;Course Policies&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi and welcome to CDGD 330: Interaction Design!&lt;/p&gt;
-
-&lt;h2&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;p&gt;An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.&lt;/p&gt;
 

@@ -2,7 +2,12 @@
 layout: post
 title: Interaction Design (CDGD 330) Syllabus
 category: blog
+picture: none
 ---
+
+Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.
+
+<!--more-->
 
 **Instructor:** [Will Millar](mailto:willmillar@gmail.com)  
 **Meeting time:** Tuesdays, 6:30–10:00 PM, Tower 629
@@ -10,11 +15,6 @@ category: blog
 **See Also:** [*Tentative Course Schedule*](https://www.schoology.com/page/59652379) & [*Course Policies*](https://www.schoology.com/page/59652657)
 
 Hi and welcome to CDGD 330: Interaction Design!
-
-## Description
-Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.
-
-<!--more-->
 
 An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.
 

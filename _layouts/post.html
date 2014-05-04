@@ -3,18 +3,19 @@ layout: default
 ---
 
 <div class="post">
-  <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover;">
     {% include nav.html %}
-    <h1 class="post-title">{{ page.title }}</h1>
-    <span class="post-date">{{ page.date | date: "%b %d, %Y" }}</span>
+    <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <span class="post-date">{{ page.date | date: "%b %d, %Y" }}</span>
     </div>
-    {{ content }}
+  {{ content }}
 </div>
 
+{% if page.category == 'blog' %}
 <div class="related">
-  <h2>More</h2>
+  <h2>More posts</h2>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.categories.blog limit:3 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -26,3 +27,22 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% endif %}
+
+{% if page.category == 'projects' %}
+<div class="related">
+  <h2>More projects</h2>
+  <ul class="related-posts">
+    {% for post in site.categories.projects limit:5 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}</br>
+            <small>{{ post.date | date: "%b %d, %Y" }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
