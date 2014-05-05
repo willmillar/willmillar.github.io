@@ -23,8 +23,6 @@ SapientNitro recently worked with semiconductor manufacturer <a title="Analog.co
 
 
 ###### User experience design
-## AlzForum.org
-
-![AlzForum.org](/images/alzforum.png)
+## <a title="AlzForum.org" target="_blank" href="http://www.alzforum.org/">AlzForum.org</a></h2>
 
 In 2012, SapientNitro worked with <a title="" target="_blank" href="">Fidelity Biosciences</a> to redesign <a title="AlzForum.org" target="_blank" href="http://alzforum.org/">AlzForum.org</a>. The organization was moving to Drupal to offer a cross-platform experience for their users and a more reliable interface for their editors. As a UX designer, I supported the design system, defined detailed interactions, and led the effort for editor documentation.

@@ -12,7 +12,7 @@ Motion has been an important part of my design process going back to my start in
 ###### Freelance outreach marketing
 ## MassArt Graphic Design promotion
 
-*We Are Thinkers And Makers* is a 2012 promotional video for the MassArt Graphic Design program. Fellow undergrad design student Pat Bitchell and I were contracted to design a presentation for an outreach tour to design programs abroad. Our approach featured student interviews and project examples to showcase the talent, community, and resources the program offers.
+*We Are Thinkers And Makers* is a 2012 promotional video for the MassArt Graphic Design program. Classmate Pat Bitchell and I were contracted to design a presentation for an outreach tour to design programs abroad. Our approach featured student interviews and project examples to showcase the talent, community, and resources of MassArt Graphic Design.
 
 <div class='video'><iframe src='https://player.vimeo.com/video/37980364?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
