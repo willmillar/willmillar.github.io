@@ -98,7 +98,7 @@ h1 {
 }
 h2 {
   margin-top: 2.5rem;
-  font-size: 2.25rem;
+  font-size: 2.5rem;
   text-align: center;
 }
 h3 {
@@ -115,16 +115,38 @@ h6 {
   margin-bottom: 0!important;
   text-align: center;
 }
+@media (max-width: 30em) {
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.75rem;
+  }
+  h3, h4, h5, h6 {
+    font-size: 1.5rem;
+    margin-top: 2rem!important;
+  }
+}
 .projects h2 {
   margin-top: 1rem;
 }
 
 /* Body text */
-p, li, ul, blockquote, h3, h4, h5, h6 {
+p, li, ul, ol, blockquote, h3, h4, h5, h6, .video {
   margin: 0rem auto 1rem auto;
   max-width: 32rem;
   padding-left: .5rem;
   padding-right: .5rem;
+}
+
+ul {
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+}
+
+ol {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 p.large {
@@ -247,10 +269,10 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
+  padding: .75rem 1rem;
+  margin: .8rem auto;
   color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  border-left: .25rem solid #eee;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -299,13 +321,19 @@ tbody tr:nth-child(odd) th {
 
 .lead {
   font-weight: 700;
-  margin: 1rem 0 3rem 0;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
   color: #fff!important;
+  text-shadow: 0px 0px 100px rgba(30, 30, 30, .2);
 }
 
 .secondary {
   color: #aaa;
   font-weight: 100;
+}
+
+.tertiary {
+  opacity: .4;
 }
 
 .center-text {
@@ -318,16 +346,18 @@ tbody tr:nth-child(odd) th {
   padding-top: 1rem;
 }
 
-#footer h1 {
+#footer h2 {
   color: #ccc;
   margin-bottom: 0;
+  line-height: 1;
 }
 
-#footer h2 {
-  margin-top: 0;
+#footer h3 {
+  margin-top: 1rem;
+  line-height: 1.6;
 }
 
-#footer h2 a {
+#footer h3 a {
   padding: .5rem;
 }
 
@@ -336,7 +366,7 @@ tbody tr:nth-child(odd) th {
 }
 
 #footer p:first-child {
-  margin: 1.5rem 0 0 0;
+  margin-top: 3rem!important;
 }
 
 p.copyright {
@@ -431,7 +461,7 @@ p.copyright {
   display: block;
   margin-top: .25rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: rgba(90, 90, 90, .8);
   text-align: center;
 }
 
@@ -558,6 +588,24 @@ a.current {
 
 a .post-cover:hover {
   color: red!important;
+}
+
+.video { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+  height: auto; 
+} 
+
+.video iframe, .video object, .video embed { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
 }
 
 
