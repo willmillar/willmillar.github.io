@@ -27,11 +27,10 @@ excerpt_separator: <!--more-->
 
 navigation:
       - text: Will Millar
-        title: Home - Will Millar Experience Designer
         url: /
       - text: Projects
-        title: An introduction to the project
         url: /projects/
+        layout: project
       - text: Blog
-        title: Bloggerino
-        url: /blog/ 
+        url: /blog/
+        layout: post

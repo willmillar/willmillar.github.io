@@ -2,7 +2,6 @@
 layout: post
 title: Interaction Design (CDGD 330) Syllabus
 category: blog
-picture: none
 ---
 
 Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.
@@ -65,9 +64,9 @@ We will be **working together in a professional context on "real world" projects
 
 ## Course Projects
 
-### 0. Experience Shift**
-### 1. Website Redesign**
-### 2. Futurecasting Product/Service**
+#### 0. Experience Shift
+#### 1. Website Redesign
+#### 2. Futurecasting Product/Service
 
 [contact]: https://www.schoology.com/page/59583401
 [schoology]: https://www.schoology.com/course/59421575/

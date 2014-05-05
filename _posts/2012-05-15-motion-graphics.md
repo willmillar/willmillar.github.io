@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Various motion graphics
 category: projects
 picture: /images/sense-cover.jpg
