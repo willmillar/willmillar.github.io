@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-05T23:26:42-04:00</updated>
+ <updated>2014-05-05T23:44:08-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,192 +13,10 @@
 
  
  <entry>
-   <title>Experience design consulting</title>
-   <link href="http://willmillar.com/projects/2014/04/26/experience-design-consulting/"/>
-   <updated>2014-04-26T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2014/04/26/experience-design-consulting</id>
-   <content type="html">&lt;p&gt;I am currently an Experience Designer at &lt;a href=&quot;http://www.sapient.com/en-us/sapientnitro.html&quot; target=&quot;_blank&quot; title=&quot;SapientNitro.com&quot;&gt;SapientNitro&lt;/a&gt; where I research and sketch to design prototypes for large-scale websites. A portfolio of select deliverables is available by request.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h6&gt;Strategy &amp;amp; user experience design&lt;/h6&gt;
-
-&lt;h2&gt;Panera Bread ordering experience&lt;/h2&gt;
-
-&lt;p&gt;SapientNitro works closely with &lt;a title=&quot;PaneraBread.com&quot; target=&quot;_blank&quot; href=&quot;https://www.panerabread.com/&quot;&gt;Panera Bread&lt;/a&gt; for their web presence and digital ordering experience across desktop, mobile, and in-store. I was the lead UX designer for several projects designing key flows including &lt;strong&gt;order setup, check out, and order confirmation&lt;/strong&gt;. We introduced design systems which tested better with users and were easier to build and maintain.&lt;/p&gt;
-
-&lt;h6&gt;User experience design&lt;/h6&gt;
-
-&lt;h2&gt;Analog Devices website&lt;/h2&gt;
-
-&lt;p&gt;SapientNitro recently worked with semiconductor manufacturer &lt;a title=&quot;Analog.com&quot; target=&quot;_blank&quot; href=&quot;http://www.analog.com/&quot;&gt;Analog Devices,&lt;/a&gt; who will be launching a large redesign later this year. On the UX team, we &lt;strong&gt;defined the design system&lt;/strong&gt; while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements.&lt;/p&gt;
-
-&lt;h6&gt;User experience design&lt;/h6&gt;
-
-&lt;h2&gt;&lt;a title=&quot;AlzForum.org&quot; target=&quot;_blank&quot; href=&quot;http://www.alzforum.org/&quot;&gt;AlzForum.org&lt;/a&gt;&lt;/h2&gt;&lt;/h2&gt;
-
-&lt;p&gt;In 2012, SapientNitro worked with &lt;a title=&quot;&quot; target=&quot;_blank&quot; href=&quot;&quot;&gt;Fidelity Biosciences&lt;/a&gt; to redesign &lt;a title=&quot;AlzForum.org&quot; target=&quot;_blank&quot; href=&quot;http://alzforum.org/&quot;&gt;AlzForum.org&lt;/a&gt;. The organization was moving to Drupal to offer a cross-platform experience for their users and a more reliable interface for their editors. As a UX designer, I &lt;strong&gt;supported the design system, defined detailed interactions, and led the editor documentation&lt;/strong&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Digital learning concept</title>
-   <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
-   <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2014/04/09/gather</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Gather&lt;/em&gt; is a concept service which provides a single access point for digital learning in schools. It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h6&gt;Challenge&lt;/h6&gt;
-
-&lt;h2&gt;Classroom education was not built for a connected world&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/gather-lectures.png&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The format of classroom education has changed very little over the past thousand years, despite fundamental advances in information infrastructure. The traditional &lt;em&gt;&amp;ldquo;sage on stage&amp;rdquo;&lt;/em&gt; lecture format does not account for the fact that information is all around us. In a future where learning is no longer one way, we are not equipped to facilitate classroom interactions which bring in outside content in an organized yet open manor.&lt;/p&gt;
-
-&lt;h6&gt;Process&lt;/h6&gt;
-
-&lt;h2&gt;Learning from Blackboard, Salman Khan, and Bruce Mau&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/gather-research.png&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;From Blackboard to Khan Academy, many brilliant minds are trying to crack the future of digital education systems. However, most of these &amp;ldquo;learning management systems&amp;rdquo; are rooted in specific tools, such as a resource manager or assignment tracker. I saw the need for a high-level layer which pulls all these desparate widgets together into a single friendly interface served on any device.&lt;/p&gt;
-
-&lt;p&gt;Bruce Mau&amp;rsquo;s &lt;em&gt;The Third Teacher&lt;/em&gt; focuses on the role of the &amp;ldquo;teacher as designer.&amp;rdquo; We need to empower teachers with powerful &lt;em&gt;education design tools&lt;/em&gt; to choreograph their waves of information.&lt;/p&gt;
-
-&lt;h6&gt;Solution&lt;/h6&gt;
-
-&lt;h2&gt;Give teachers control by unifying learning resources&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/gather-diagram.png&quot;&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Data-rich design.&lt;/strong&gt; Content is clear and unadorned. The ultimate goal is to show the data and hide the technology.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Clear abstraction.&lt;/strong&gt; Information graphic design is used as the primary communication tool.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Universal accessibility.&lt;/strong&gt; Provide the same experience across all devices: desktop, tablet, SmartBoard, tv, and mobile.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;div class=&#39;video&#39;&gt;&lt;iframe src=&#39;https://player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=3a92c9&#39; frameborder=&#39;0&#39; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; title=&quot;Gather Degree Project Process Book&quot; target=&quot;_blank&quot; href=&quot;http://issuu.com/willmillar/docs/dp-process_book-v3-export_hi_pages&quot;&gt;Read the full process book on Issuu&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This service was developed as a concept for Jan Kubasiewicz&amp;rsquo;s&lt;/em&gt; Design Research &lt;em&gt;course at Massachusetts College of Art and Design.&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Interaction Design (CDGD 330) Syllabus</title>
-   <link href="http://willmillar.com/blog/2013/09/01/interaction-design-course/"/>
-   <updated>2013-09-01T00:00:00-04:00</updated>
-   <id>http://willmillar.com/blog/2013/09/01/interaction-design-course</id>
-   <content type="html">&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&quot;mailto:willmillar@gmail.com&quot;&gt;Will Millar&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Meeting time:&lt;/strong&gt; Tuesdays, 6:30–10:00 PM, Tower 629&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;See Also:&lt;/strong&gt; &lt;a href=&quot;https://www.schoology.com/page/59652379&quot;&gt;&lt;em&gt;Tentative Course Schedule&lt;/em&gt;&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.schoology.com/page/59652657&quot;&gt;&lt;em&gt;Course Policies&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hi and welcome to CDGD 330: Interaction Design!&lt;/p&gt;
-
-&lt;p&gt;An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.&lt;/p&gt;
-
-&lt;h2&gt;Approach&lt;/h2&gt;
-
-&lt;p&gt;We will be &lt;strong&gt;working together in a professional context on &amp;quot;real world&amp;quot; projects.&lt;/strong&gt; These projects will help &lt;strong&gt;familiarize students with industry practices and deliverables,&lt;/strong&gt; as well as work through the fundamental concepts of &lt;em&gt;interaction design, usability, experience design, information architecture,&lt;/em&gt; and the various methodologies that support said disciplines.&lt;/p&gt;
-
-&lt;h2&gt;Format&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Lecture&lt;/strong&gt; &lt;em&gt;(30–90 minutes)&lt;/em&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Class updates&lt;/li&gt;
-&lt;li&gt;Topical discussion of Theory and Practice&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Studio Critique&lt;/strong&gt; &lt;em&gt;(1–3 hours)&lt;/em&gt;
-
-&lt;ul&gt;
-&lt;li&gt;5–20 minutes per student&lt;/li&gt;
-&lt;li&gt;Student presents weekly progress on all deliverables&lt;/li&gt;
-&lt;li&gt;Class provides feedback on updated work&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;I expect the course become more critique-focused and less lecture-focused over the semester as we dig deeper into project work&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Questions Answered&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;What makes a digital service great?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;What happens when you click?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;What happens in a user&amp;#39;s mind?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;How do you organize information logically and usably?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;How do you effectively render intent?&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Course Topics&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt; (Discovery)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Usability&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Experience Design&lt;/strong&gt; (Prototyping)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Information Architecture&lt;/strong&gt; (Planning)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;User Interface&lt;/strong&gt; (Visual Design)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Methodology&lt;/strong&gt; (Practices)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;Text and Required Supplies&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.sensible.com/dmmt.html&quot;&gt;&lt;strong&gt;&lt;em&gt;Don’t Make Me Think: A Common Sense Approach to Web Usability&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; by 
-
-&lt;ul&gt;
-&lt;li&gt;Available as eBook from &lt;a href=&quot;http://bit.ly/15a5Uh6&quot;&gt;iBooks ($16)&lt;/a&gt; or &lt;a href=&quot;http://amzn.to/15a60VW&quot;&gt;Kindle ($16)&lt;/a&gt;; or paperback from &lt;a href=&quot;http://amzn.to/1aFAMOD&quot;&gt;Amazon ($25)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.schoology.com/course/59421575/&quot;&gt;&lt;strong&gt;Schoology&lt;/strong&gt;&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Course materials and reference&lt;/li&gt;
-&lt;li&gt;Syllabus, Policies, etc.&lt;/li&gt;
-&lt;li&gt;Course schedule and due dates&lt;/li&gt;
-&lt;li&gt;Submission of Assigments&lt;/li&gt;
-&lt;li&gt;Key Google Drive documents will be listed&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sign Up:&lt;/strong&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Go to &lt;a href=&quot;https://www.schoology.com/&quot;&gt;schoology.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Click Sign Up (or Log In if you already have an account)&lt;/li&gt;
-&lt;li&gt;Select &amp;quot;Student&amp;quot;&lt;/li&gt;
-&lt;li&gt;Enter the following Access Code: &lt;strong&gt;CM35R-5CWMC&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&quot;https://drive.google.com/folderview?id=0B_u2W625O4GkSzJsLXhDcFNnRkk&amp;amp;usp=sharing&quot;&gt;&lt;strong&gt;Google Drive&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;(formerly Google Docs)&lt;/em&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Repository of updated class resources&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;Course Projects&lt;/h2&gt;
-
-&lt;h4&gt;0. Experience Shift&lt;/h4&gt;
-
-&lt;h4&gt;1. Website Redesign&lt;/h4&gt;
-
-&lt;h4&gt;2. Futurecasting Product/Service&lt;/h4&gt;
-</content>
- </entry>
- 
- <entry>
    <title>A Design Career Primer</title>
-   <link href="http://willmillar.com/blog/2013/04/27/design-career-primer/"/>
-   <updated>2013-04-27T00:00:00-04:00</updated>
-   <id>http://willmillar.com/blog/2013/04/27/design-career-primer</id>
+   <link href="http://willmillar.com/blog/2014/05/05/design-career-primer/"/>
+   <updated>2014-05-05T23:40:51-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/05/design-career-primer</id>
    <content type="html">&lt;p&gt;Since graduating I&amp;#39;ve gotten my fair share of emails that go something like this:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -602,6 +420,183 @@
  </entry>
  
  <entry>
+   <title>Interaction Design (CDGD 330) Syllabus</title>
+   <link href="http://willmillar.com/blog/2014/05/05/interaction-design-course/"/>
+   <updated>2014-05-05T23:39:13-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/05/interaction-design-course</id>
+   <content type="html">&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;!--more
+&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&quot;mailto:willmillar@gmail.com&quot;&gt;Will Millar&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Meeting time:&lt;/strong&gt; Tuesdays, 6:30–10:00 PM, Tower 629&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;See Also:&lt;/strong&gt; &lt;a href=&quot;https://www.schoology.com/page/59652379&quot;&gt;&lt;em&gt;Tentative Course Schedule&lt;/em&gt;&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.schoology.com/page/59652657&quot;&gt;&lt;em&gt;Course Policies&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi and welcome to CDGD 330: Interaction Design!&lt;/p&gt;
+
+&lt;p&gt;An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.&lt;/p&gt;
+
+&lt;h2&gt;Approach&lt;/h2&gt;
+
+&lt;p&gt;We will be &lt;strong&gt;working together in a professional context on &amp;quot;real world&amp;quot; projects.&lt;/strong&gt; These projects will help &lt;strong&gt;familiarize students with industry practices and deliverables,&lt;/strong&gt; as well as work through the fundamental concepts of &lt;em&gt;interaction design, usability, experience design, information architecture,&lt;/em&gt; and the various methodologies that support said disciplines.&lt;/p&gt;
+
+&lt;h2&gt;Format&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lecture&lt;/strong&gt; &lt;em&gt;(30–90 minutes)&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Class updates&lt;/li&gt;
+&lt;li&gt;Topical discussion of Theory and Practice&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Studio Critique&lt;/strong&gt; &lt;em&gt;(1–3 hours)&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5–20 minutes per student&lt;/li&gt;
+&lt;li&gt;Student presents weekly progress on all deliverables&lt;/li&gt;
+&lt;li&gt;Class provides feedback on updated work&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;I expect the course become more critique-focused and less lecture-focused over the semester as we dig deeper into project work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Questions Answered&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What makes a digital service great?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What happens when you click?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What happens in a user&amp;#39;s mind?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How do you organize information logically and usably?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How do you effectively render intent?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Course Topics&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt; (Discovery)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Usability&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience Design&lt;/strong&gt; (Prototyping)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Information Architecture&lt;/strong&gt; (Planning)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Interface&lt;/strong&gt; (Visual Design)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methodology&lt;/strong&gt; (Practices)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Text and Required Supplies&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sensible.com/dmmt.html&quot;&gt;&lt;strong&gt;&lt;em&gt;Don’t Make Me Think: A Common Sense Approach to Web Usability&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; by 
+
+&lt;ul&gt;
+&lt;li&gt;Available as eBook from &lt;a href=&quot;http://bit.ly/15a5Uh6&quot;&gt;iBooks ($16)&lt;/a&gt; or &lt;a href=&quot;http://amzn.to/15a60VW&quot;&gt;Kindle ($16)&lt;/a&gt;; or paperback from &lt;a href=&quot;http://amzn.to/1aFAMOD&quot;&gt;Amazon ($25)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.schoology.com/course/59421575/&quot;&gt;&lt;strong&gt;Schoology&lt;/strong&gt;&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Course materials and reference&lt;/li&gt;
+&lt;li&gt;Syllabus, Policies, etc.&lt;/li&gt;
+&lt;li&gt;Course schedule and due dates&lt;/li&gt;
+&lt;li&gt;Submission of Assigments&lt;/li&gt;
+&lt;li&gt;Key Google Drive documents will be listed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sign Up:&lt;/strong&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to &lt;a href=&quot;https://www.schoology.com/&quot;&gt;schoology.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Click Sign Up (or Log In if you already have an account)&lt;/li&gt;
+&lt;li&gt;Select &amp;quot;Student&amp;quot;&lt;/li&gt;
+&lt;li&gt;Enter the following Access Code: &lt;strong&gt;CM35R-5CWMC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;https://drive.google.com/folderview?id=0B_u2W625O4GkSzJsLXhDcFNnRkk&amp;amp;usp=sharing&quot;&gt;&lt;strong&gt;Google Drive&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;(formerly Google Docs)&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Repository of updated class resources&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Course Projects&lt;/h2&gt;
+
+&lt;h4&gt;0. Experience Shift&lt;/h4&gt;
+
+&lt;h4&gt;1. Website Redesign&lt;/h4&gt;
+
+&lt;h4&gt;2. Futurecasting Product/Service&lt;/h4&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Experience design consulting</title>
+   <link href="http://willmillar.com/projects/2014/04/26/experience-design-consulting/"/>
+   <updated>2014-04-26T00:00:00-04:00</updated>
+   <id>http://willmillar.com/projects/2014/04/26/experience-design-consulting</id>
+   <content type="html">&lt;p&gt;I am currently an Experience Designer at &lt;a href=&quot;http://www.sapient.com/en-us/sapientnitro.html&quot; target=&quot;_blank&quot; title=&quot;SapientNitro.com&quot;&gt;SapientNitro&lt;/a&gt; where I research and sketch to design prototypes for large-scale websites. A portfolio of select deliverables is available by request.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h6&gt;Strategy &amp;amp; user experience design&lt;/h6&gt;
+
+&lt;h2&gt;Panera Bread ordering experience&lt;/h2&gt;
+
+&lt;p&gt;SapientNitro works closely with &lt;a title=&quot;PaneraBread.com&quot; target=&quot;_blank&quot; href=&quot;https://www.panerabread.com/&quot;&gt;Panera Bread&lt;/a&gt; for their web presence and digital ordering experience across desktop, mobile, and in-store. I was the lead UX designer for several projects designing key flows including &lt;strong&gt;order setup, check out, and order confirmation&lt;/strong&gt;. We introduced design systems which tested better with users and were easier to build and maintain.&lt;/p&gt;
+
+&lt;h6&gt;User experience design&lt;/h6&gt;
+
+&lt;h2&gt;Analog Devices website&lt;/h2&gt;
+
+&lt;p&gt;SapientNitro recently worked with semiconductor manufacturer &lt;a title=&quot;Analog.com&quot; target=&quot;_blank&quot; href=&quot;http://www.analog.com/&quot;&gt;Analog Devices,&lt;/a&gt; who will be launching a large redesign later this year. On the UX team, we &lt;strong&gt;defined the design system&lt;/strong&gt; while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements.&lt;/p&gt;
+
+&lt;h6&gt;User experience design&lt;/h6&gt;
+
+&lt;h2&gt;&lt;a title=&quot;AlzForum.org&quot; target=&quot;_blank&quot; href=&quot;http://www.alzforum.org/&quot;&gt;AlzForum.org&lt;/a&gt;&lt;/h2&gt;&lt;/h2&gt;
+
+&lt;p&gt;In 2012, SapientNitro worked with &lt;a title=&quot;&quot; target=&quot;_blank&quot; href=&quot;&quot;&gt;Fidelity Biosciences&lt;/a&gt; to redesign &lt;a title=&quot;AlzForum.org&quot; target=&quot;_blank&quot; href=&quot;http://alzforum.org/&quot;&gt;AlzForum.org&lt;/a&gt;. The organization was moving to Drupal to offer a cross-platform experience for their users and a more reliable interface for their editors. As a UX designer, I &lt;strong&gt;supported the design system, defined detailed interactions, and led the editor documentation&lt;/strong&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Digital learning concept</title>
+   <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
+   <updated>2014-04-09T00:00:00-04:00</updated>
+   <id>http://willmillar.com/projects/2014/04/09/gather</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Gather&lt;/em&gt; is a concept service which provides a single access point for digital learning in schools. It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h6&gt;Challenge&lt;/h6&gt;
+
+&lt;h2&gt;Classroom education was not built for a connected world&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gather-lectures.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The format of classroom education has changed very little over the past thousand years, despite fundamental advances in information infrastructure. The traditional &lt;em&gt;&amp;ldquo;sage on stage&amp;rdquo;&lt;/em&gt; lecture format does not account for the fact that information is all around us. In a future where learning is no longer one way, we are not equipped to facilitate classroom interactions which bring in outside content in an organized yet open manor.&lt;/p&gt;
+
+&lt;h6&gt;Process&lt;/h6&gt;
+
+&lt;h2&gt;Learning from Blackboard, Salman Khan, and Bruce Mau&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gather-research.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;From Blackboard to Khan Academy, many brilliant minds are trying to crack the future of digital education systems. However, most of these &amp;ldquo;learning management systems&amp;rdquo; are rooted in specific tools, such as a resource manager or assignment tracker. I saw the need for a high-level layer which pulls all these desparate widgets together into a single friendly interface served on any device.&lt;/p&gt;
+
+&lt;p&gt;Bruce Mau&amp;rsquo;s &lt;em&gt;The Third Teacher&lt;/em&gt; focuses on the role of the &amp;ldquo;teacher as designer.&amp;rdquo; We need to empower teachers with powerful &lt;em&gt;education design tools&lt;/em&gt; to choreograph their waves of information.&lt;/p&gt;
+
+&lt;h6&gt;Solution&lt;/h6&gt;
+
+&lt;h2&gt;Give teachers control by unifying learning resources&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gather-diagram.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data-rich design.&lt;/strong&gt; Content is clear and unadorned. The ultimate goal is to show the data and hide the technology. &lt;strong&gt;Clear abstraction.&lt;/strong&gt; Information graphic design is used as the primary communication tool. &lt;strong&gt;Universal accessibility.&lt;/strong&gt; Provide the same experience across all devices: desktop, tablet, SmartBoard, tv, and mobile.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;div class=&#39;video&#39;&gt;&lt;iframe src=&#39;https://player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=3a92c9&#39; frameborder=&#39;0&#39; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; title=&quot;Gather Degree Project Process Book&quot; target=&quot;_blank&quot; href=&quot;http://issuu.com/willmillar/docs/dp-process_book-v3-export_hi_pages&quot;&gt;Process book on Issuu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This service was developed as a concept for Jan Kubasiewicz&amp;rsquo;s&lt;/em&gt; Design Research &lt;em&gt;course at Massachusetts College of Art and Design.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Various motion graphics</title>
    <link href="http://willmillar.com/projects/2012/05/15/motion-graphics/"/>
    <updated>2012-05-15T00:00:00-04:00</updated>
@@ -678,7 +673,7 @@
 
 &lt;div class=&#39;video&#39;&gt;&lt;iframe src=&#39;https://player.vimeo.com/video/33514687?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=3a92c9&#39; frameborder=&#39;0&#39; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; title=&quot;Gather Degree Project Process Book&quot; target=&quot;_blank&quot; href=&quot;http://issuu.com/willmillar/docs/mathplus&quot;&gt;Read the full process book on Issuu&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; title=&quot;Gather Degree Project Process Book&quot; target=&quot;_blank&quot; href=&quot;http://issuu.com/willmillar/docs/mathplus&quot;&gt;Process book on Issuu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This service was developed as a concept for &lt;a title=&quot;BrianLucid.com&quot; target=&quot;_blank&quot; href=&quot;http://www.brianlucid.com/&quot;&gt;Brian Lucid&lt;/a&gt;&amp;rsquo;s&lt;/em&gt; Degree Project &lt;em&gt;course at Massachusetts College of Art and Design.&lt;/em&gt;&lt;/p&gt;
 </content>
