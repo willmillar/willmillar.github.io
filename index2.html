@@ -1,0 +1,34 @@
+---
+layout: default
+title: Will Millar, Experience Designer
+---
+<div class="post-cover" style="padding-bottom: 1rem; background: linear-gradient(to bottom, rgba(220, 220, 223, .1) 0%,rgba(220, 220, 223, 1) 100%), url('/images/wide-portrait.jpg') repeat 0 0; background-size: cover; background-position: center;">
+{% include nav.html %}
+<h1 class="lead secondary">Empathetic design</br>for better experiences.</h1>
+
+</div>
+
+
+
+<div class="posts">
+  
+  {% for post in site.tags.featured %}
+
+<h2>Hi, I&rsquo;m Will</h2>
+
+{% include about-me.html %}
+
+<div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
+    <a href="{{ post.url }}">
+      <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
+      rgba(220, 220, 223, .5) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
+        <h3 class="secondary center-text">Featured project</h3>
+        <h2 class="post-title">{{ post.title }}</h2>
+        <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      </div>
+    </a>
+    <p>{{ post.excerpt }}</p>
+    {% include read-more.html %}
+  </div>
+  {% endfor %}
+</div>
