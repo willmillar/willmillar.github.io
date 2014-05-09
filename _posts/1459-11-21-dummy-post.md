@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem ipsum dolor sit amet
+title: Test post
 category: blog
 ---
 

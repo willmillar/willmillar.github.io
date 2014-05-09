@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-09T00:45:37-04:00</updated>
+ <updated>2014-05-09T00:48:01-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -586,8 +586,6 @@
 
 &lt;p&gt;&lt;strong&gt;Data-rich design.&lt;/strong&gt; Content is clear and unadorned. The ultimate goal is to show the data and hide the technology. &lt;strong&gt;Clear abstraction.&lt;/strong&gt; Information graphic design is used as the primary communication tool. &lt;strong&gt;Universal accessibility.&lt;/strong&gt; Provide the same experience across all devices: desktop, tablet, SmartBoard, tv, and mobile.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
 &lt;div class=&#39;video&#39;&gt;&lt;iframe src=&#39;https://player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=3a92c9&#39; frameborder=&#39;0&#39; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; title=&quot;Gather Degree Project Process Book&quot; target=&quot;_blank&quot; href=&quot;http://issuu.com/willmillar/docs/dp-process_book-v3-export_hi_pages&quot;&gt;Process book on Issuu&lt;/a&gt;&lt;/p&gt;
@@ -680,7 +678,7 @@
  </entry>
  
  <entry>
-   <title>Lorem ipsum dolor sit amet</title>
+   <title>Test post</title>
    <link href="http://willmillar.com/blog/1459/11/21/dummy-post/"/>
    <updated>1459-11-21T00:00:00-05:00</updated>
    <id>http://willmillar.com/blog/1459/11/21/dummy-post</id>
