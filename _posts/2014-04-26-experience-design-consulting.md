@@ -10,7 +10,7 @@ I am currently an Experience Designer at <a href="http://www.sapient.com/en-us/s
 <!--more-->
 
 ###### Strategy & user experience design
-## Panera Bread ordering experience
+## Panera Bread ordering website
 
 SapientNitro works closely with <a title="PaneraBread.com" target="_blank" href="https://www.panerabread.com/">Panera Bread</a> for their web presence and digital ordering experience across desktop, mobile, and in-store. I was the lead UX designer for several projects designing key flows including **order setup, check out, and order confirmation**. We introduced design systems which tested better with users and were easier to build and maintain.
 
@@ -23,6 +23,6 @@ SapientNitro recently worked with semiconductor manufacturer <a title="Analog.co
 
 
 ###### User experience design
-## <a title="AlzForum.org" target="_blank" href="http://www.alzforum.org/">AlzForum.org</a></h2>
+## AlzForum website
 
 In 2012, SapientNitro worked with <a title="" target="_blank" href="">Fidelity Biosciences</a> to redesign <a title="AlzForum.org" target="_blank" href="http://alzforum.org/">AlzForum.org</a>. The organization was moving to Drupal to offer a cross-platform experience for their users and a more reliable interface for their editors. As a UX designer, I **supported the design system, defined detailed interactions, and led the editor documentation**.

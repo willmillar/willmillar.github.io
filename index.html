@@ -2,16 +2,22 @@
 layout: default
 title: Will Millar, Experience Designer
 ---
-
+<div class="post-cover" style="background: linear-gradient(to bottom, rgba(220, 220, 223, .1) 0%,rgba(220, 220, 223, 1) 100%), url('/images/portrait-wide.jpg') repeat 0 0; background-size: cover; background-position: center;">
 {% include nav.html %}
-
 <h1 class="lead secondary">Empathetic design</br>for better experiences.</h1>
+</div>
+
+
 
 <div class="posts">
   
   {% for post in site.tags.featured %}
-  
-  <!-- <div class="post">
+
+<h2>Hi, I&rsquo;m Will</h2>
+
+{% include about-me.html %}
+
+<div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
     <a href="{{ post.url }}">
       <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
       rgba(220, 220, 223, .5) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
@@ -25,11 +31,3 @@ title: Will Millar, Experience Designer
   </div>
   {% endfor %}
 </div>
-
-<h3 class="secondary center-text">About me</h3> -->
-
-<img width="500px" class="self-portrait" src="/images/portrait.jpg" align="middle"/>
-
-<h2>Hi, I&rsquo;m Will</h2>
-
-{% include about-me.html %}

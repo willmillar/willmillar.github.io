@@ -2,12 +2,11 @@
 layout: default
 ---
 
-
 <div class="post 
     {% if page.category == 'blog' %}blog{% endif %} 
     {% if page.category == 'projects' %}projects{% endif %}">
-    {% include nav.html %}
     <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), {% if page.picture != null %}url('{{ page.picture }}'){% endif %} repeat 0 0; background-size: cover; background-position: center;">
+      {% include nav.html %}
       <h1 class="post-title">{{ page.title }}</h1>
       <span class="post-date">{{ page.date | date: "%b %d, %Y" }}</span>
     </div>
