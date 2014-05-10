@@ -126,6 +126,10 @@ h6 {
     font-size: 1.5rem;
     margin-top: 2rem!important;
   }
+  .lead {
+    font-size: 1.75rem!important;
+    margin-bottom: 1.5rem!important;
+  }
 }
 .projects h2 {
   margin-top: 1rem;
