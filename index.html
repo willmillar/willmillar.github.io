@@ -2,32 +2,43 @@
 layout: default
 title: Will Millar, Experience Designer
 ---
+
 <div class="post-cover" style="background: linear-gradient(to bottom, rgba(220, 220, 223, 0) 30%,rgba(220, 220, 223, 1) 100%), url('/images/portrait-wide.jpg') repeat 0 0; background-size: cover; background-position: center;">
-{% include nav.html %}
-<h1 class="lead secondary">Empathetic design</br>for better experiences</h1>
+  {% include nav.html %}
+  <h1 class="lead secondary">Empathetic design</br>for better experiences</h1>
 </div>
 
-
-
 <div class="posts">
-  
-  {% for post in site.tags.featured %}
 
-<h2>Hi, I&rsquo;m Will</h2>
+  <h2>Hi, I&rsquo;m Will</h2>
 
-{% include about-me.html %}
+  {% include about-me.html %}
 
-<div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
-    <a href="{{ post.url }}">
-      <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
-      rgba(220, 220, 223, .5) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
-        <h3 class="secondary center-text">Featured project</h3>
-        <h2 class="post-title">{{ post.title }}</h2>
-        <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+    {% for post in site.tags.featured %}
+      <div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
+        <a href="{{ post.url }}">
+          <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
+            rgba(220, 220, 223, .5) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
+            <h3 class="secondary center-text">Featured project</h3>
+            <h2 class="post-title">{{ post.title }}</h2>
+            <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </div>
+        </a>
+        <p>{{ post.excerpt }}</p>
+        {% include read-more.html %}
       </div>
-    </a>
-    <p>{{ post.excerpt }}</p>
-    {% include read-more.html %}
-  </div>
-  {% endfor %}
+    {% endfor %}
+
+    {% for post in site.categories.blog | limit: 1 %}
+      <div class="">
+        <a href="{{ post.url }}">
+          <h3 class="secondary center-text">Latest post</h3>
+          <h2 class="post-title">{{ post.title }}</h2>
+          <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        </a>
+      </div>
+      <p>{{ post.excerpt }}</p>
+      {% include read-more.html %}
+    {% endfor %}
+
 </div>

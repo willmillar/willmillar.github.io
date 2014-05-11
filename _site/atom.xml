@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-10T21:41:41-04:00</updated>
+ <updated>2014-05-11T18:36:43-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -14,9 +14,45 @@
  
  <entry>
    <title>Bilingual design: Why designers should be using iOS Android</title>
-   <link href="http://willmillar.com/blog/2014/05/10/bilingual-design/"/>
-   <updated>2014-05-10T19:38:56-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/10/bilingual-design</id>
+   <link href="http://willmillar.com/blog/2014/05/11/future-of-education/"/>
+   <updated>2014-05-11T18:27:27-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/11/future-of-education</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;If you look at present-day schooling the way it is, it&amp;#39;s quite easy to figure out where it came from... Imagine trying to run the show, trying to run the entire planet, without computers, without telephones, with data handwritten on pieces of paper, and traveling by ships...&lt;/p&gt;
+
+&lt;p&gt;They created a global computer made up of people. It&amp;#39;s still with us today. It&amp;#39;s called the bureaucratic administrative machine. In order to have that machine running, you need lots and lots of people. They made another machine to produce those people: the school. The schools would produce the people who would then become parts of the bureaucratic administrative machine. They must be identical to each other. They must know three things: They must have good handwriting, because the data is handwritten; they must be able to read; and they must be able to do multiplication, division, addition and subtraction in their head...&lt;/p&gt;
+
+&lt;p&gt;The empire is gone, so what are we doing with that design that produces these identical people, and what are we going to do next if we ever are going to do anything else with it? Schools as we know them are obsolete.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Building willmillar.com 4.0 with Jekyll</title>
+   <link href="http://willmillar.com/blog/2014/05/11/willmillar-com-4-0/"/>
+   <updated>2014-05-11T15:24:50-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/11/willmillar-com-4-0</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Poole, The Jekyll Butler&quot; target=&quot;_blank&quot; href=&quot;http://demo.getpoole.com/&quot;&gt;Poole&lt;/a&gt; by &lt;a title=&quot;Mark Otto (@mdo)&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/mdo&quot;&gt;Mark Otto&lt;/a&gt; &amp;ldquo;provide[s] a clear and concise foundational setup for any Jekyll site ... by furnishing a full vanilla install with example templates, pages, posts, and styles.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;Refuse to Create a UX Portfolio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portfolios:&lt;/strong&gt; &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bilingual design: Why designers should be using iOS Android</title>
+   <link href="http://willmillar.com/blog/2014/05/11/bilingual-design/"/>
+   <updated>2014-05-11T02:29:39-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/11/bilingual-design</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;A designer needs to keep up with best practices. Best practices aren’t just on one platform.&lt;/p&gt;
 &lt;/blockquote&gt;

@@ -620,5 +620,14 @@ a .post-cover:hover {
   height: 100%; 
 }
 
+@media (max-width: 30rem) {
+  .large-screen {
+    display: none;
+  }
+}
 
-
+@media (min-width: 30rem) {
+  .small-screen {
+    display: none;
+  }
+}

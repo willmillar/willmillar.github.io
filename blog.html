@@ -23,13 +23,11 @@ title: Blog
 
     </h2>
 
-    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
 
     {{ post.excerpt }}
-    {% if post.linkout != null %}
-      <p class="center-text">via <a target="_blank" href="{{ post.linkout }}">{{ post.linkout | remove:'http://' | split:'/' | first }}</a></p>
-    {% endif %}
-    {% include read-more.html %}
+
+        {% include read-more.html %}
 
   </div>
   {% endfor %}
