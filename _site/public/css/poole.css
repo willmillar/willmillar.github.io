@@ -276,16 +276,16 @@ pre code {
 blockquote {
   padding: .75rem 1rem;
   margin: .8rem auto;
-  color: #7a7a7a;
+  color: #999;
   border-left: .25rem solid #eee;
+  font-style: italic;
 }
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30em) {
+@media (max-width: 38em) {
   blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    margin: auto .5rem;
   }
 }
 
@@ -351,6 +351,7 @@ tbody tr:nth-child(odd) th {
   background-color: #fff;
   margin-top: 3.5rem;
   padding-top: 1rem;
+  padding-bottom: 3rem;
 }
 
 #footer h2 {
@@ -360,7 +361,7 @@ tbody tr:nth-child(odd) th {
 }
 
 #footer h3 {
-  margin-top: 1rem;
+  margin-top: 1rem!important;
   line-height: 1.6;
 }
 
@@ -376,9 +377,13 @@ tbody tr:nth-child(odd) th {
   margin-top: 3rem!important;
 }
 
-p.copyright {
-  color: #ccc;
-  padding: 1rem 0 3rem 0;
+@media (max-width: 30em) {
+  #footer p:first-child {
+    margin-top: 1rem!important;
+  }
+  #footer {
+    padding-bottom: 1rem;
+  }
 }
 
 /*

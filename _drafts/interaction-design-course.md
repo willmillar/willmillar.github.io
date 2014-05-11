@@ -6,7 +6,7 @@ category: blog
 
 Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.
 
-<!--more
+<!--more-->
 **Instructor:** [Will Millar](mailto:willmillar@gmail.com)  
 **Meeting time:** Tuesdays, 6:30–10:00 PM, Tower 629
 

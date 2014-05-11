@@ -11,16 +11,24 @@ title: Blog
     
     <h2 class="post-title">
       
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
+      {% if post.linkout != null %}
+        <a target="_blank" href="{{ post.linkout }}">
+            {{ post.title }}
+          </a> &rarr;
+        {% else %}
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+      {% endif %}
 
     </h2>
 
-    <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
 
     {{ post.excerpt }}
-
+    {% if post.linkout != null %}
+      <p class="center-text">via <a target="_blank" href="{{ post.linkout }}">{{ post.linkout | remove:'http://' | split:'/' | first }}</a></p>
+    {% endif %}
     {% include read-more.html %}
 
   </div>
