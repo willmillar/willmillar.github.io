@@ -382,7 +382,7 @@ tbody tr:nth-child(odd) th {
     margin-top: 1rem!important;
   }
   #footer {
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
   }
 }
 
