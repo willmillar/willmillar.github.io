@@ -4,64 +4,37 @@ title: A Design Career Primer
 category: blog
 ---
 
-Since graduating I've gotten my fair share of emails that go something like this:
+Since graduating MassArt, I get semi-regular requests for **advice to design students looking to get traction in the professional world**. I love to meet with other young designers, but I also wanted to summarize what knowledge I've picked up so far to younger students to helpfully improve understanding of their professional possibilities.
 
-> *Yo Will!*
+In the past, I've tried writing single-paragraph templated advice, but mostly became a whitewash of generic careerisms (*"Do [what you love](http://www.theonion.com/articles/find-the-thing-youre-most-passionate-about-then-do,31742/)," etc.*). I've also gone looking for some sort of overall guide to framing the concepts of design careers, but I can't seem to find it.
 
-> *I [know/am] a whizbang superstar design student who is looking to figure out their post-design school potential. Can you hook a [brother/sister] up?*
-
-> *xoxoxo*  
-> *[ Genius professor / Baller student / Beloved friend ]*
-
-Well I *might* be exaggerating, but you get the gist. Anyway, in the past, I've tried writing single-paragraph one-size-fits-all design career advice pieces, but they all end up a whitewash of generic careerisms (*"Do [what you love](http://www.theonion.com/articles/find-the-thing-youre-most-passionate-about-then-do,31742/)," etc.* — it's pretty useless stuff). I've also gone looking for some sort of overall guide to framing the concepts of design careers, but I can't find it — please [let me know](mailto:willmillar@gmail.com) if this exists!
-
-**This 'primer' is my attempt to start filling that void by trying to provide a *wide-but-shallow* perspective on design career orientation. So I've spent some time over the past several months putting together the knowledge that I collected from my professional wanderings so far into a primer aimed at undergraduate design students.**
+This primer is my attempt to start filling that gap.
 
 <!--more-->
 
----
-
-#### Contents
-
-##### I.	Warning
-##### II.	Job Shopping Criteria
-##### III.	Important Focus Areas
-##### IV.	Helpful Resources
-
----
-
-## I. Warning
-
-It should be noted that while I have *some* academic and professional design experience, it is not only limited, but also provides notable bias to my perspective on design as a practice, industry, and career. Section *IV. Helpful Resources* has some good places to cross-reference anything written here. And if something still smells funny, [call me on it](mailto:willmillar@gmail.com)![[MORE]]
-
----
-
-## II. Job Shopping Criteria
 
 
-### Level of Commitment
+## A warning
+
+It should be noted that while I have *some* academic and professional design experience, it is not only limited, but also provides notable bias to my perspective on design as a practice, industry, and career. Section *IV. Helpful Resources* has some good places to cross-reference anything written here. And if something still smells funny, [call me on it](#footer)!
+
+## Job shopping criteria
+
+### Level of commitment
 i.e. *In what capacity/on what terms will you be working?*
 
-
 #### 1. Full-time employment
-"40" hours per week[^40-hrs]; Salaried
+"40" hours per week *(read: 30–50 hours per week)*; Salaried
 
 ##### Pros:
 - Reliable income
 - Benefits
-- Relative job security[^job_security]
+- Relative job security
 - Access to the company yacht
  
 ##### Cons:
-- Unpaid overtime is sometimes considered an industry-wide expectation[^overtime]
+- Unpaid overtime is sometimes considered an industry-wide expectation
 - Highest level of commitment (if you are concerned about the fit)
-
-[^40-hrs]: "40 hours a week" rarely means 40 hours a week. Depending on the agency culture, your workload, and the company's overall pipeline of work, it's not unreasonable to expect to put in weeks ranging anywhere between 35 and 55 hours.
-
-[^job_security]: I can't speak for other fields today, but there is really no such thing as *full job security* in the creative industry.
-
-[^overtime]: It's good to set expectations about hours early on. This is a good, yet tricky, question to make sure to address in job interviews (but *not* informational interviews).
-
 
 #### 2. Contract employment
 
@@ -89,10 +62,8 @@ Self-employed arrangement; Salaried or hourly
 
 ##### Cons:
 - Getting good, real clients is seriously hard (though a worthwhile effort)
-- Unless you are freelancing on or with a team, you likely have **no one to learn from,** which is not optimal early on in your career[^career_learning]
+- Unless you are freelancing on or with a team, you likely have **no one to learn from,** which is not optimal early on in your career
 - Like contract work, you pay your own taxes
-
-[^career_learning]: Learning is always super important, but it is especially important early on in one's career.
 
 
 #### 4. Internship employment
@@ -144,9 +115,9 @@ Design for interactive projects is growing and changing rapidly, and has lots of
 - Not unlike  print work, digital design processes involve a high level of detail-oriented grind
 
 
-#### 3. Print and Traditional Graphic Design
+#### 3. Print and traditional graphic design
 
-> **Note:** *The print design industry is relatively outside of my professional wheelhouse, so I am certainly the most qualified person to comment on it.*
+> The print design industry is most outside of my professional wheelhouse
 
 ##### Pros:
 - All the beautiful, fun, and creative stuff you learned in art school at a super-professional level!
@@ -155,9 +126,9 @@ Design for interactive projects is growing and changing rapidly, and has lots of
 - The print industry is slowly but steadily drying up and work is becoming more challenging to find
 
 
-#### 4. Various Media Client-side
+#### 4. Various media client-side
 
-TV/video, movies, magazines, etc. all have scores of designers working on their products, but from what I understand, this industry can be about knowing people and being able to get to the right locations (New York or L.A.).
+TV/video, movies, magazines, etc. all have scores of designers working on their products, but from what I understand, this industry can be about knowing people and being able to get to the right locations (New York or LA).
 
 ##### Pros:
 - Sexy work
@@ -170,19 +141,19 @@ TV/video, movies, magazines, etc. all have scores of designers working on their 
 - Can require additional effort to connect and network with other designers
 	
 
-#### 5. Other Client-side
+#### 5. Other client-side
 
 Almost all businesses hire designers in one way or another. Many of the largest architecture firms, restaurants, consumer goods manufacturers, fashion and clothing companies, among others, have whole internal, 'in-house' creative teams!
 
 ##### Pros & Cons:
-*See* Pros *&* Cons *above, although in a non-media company, there's a reasonable chance that the work could be less sexy.* [*YMMV*](http://en.wiktionary.org/wiki/your_mileage_may_vary).
+*See* Pros *&* Cons *above, although in a non-media company, there's a reasonable chance that the work could be less sexy.* [YMMV](http://en.wiktionary.org/wiki/your_mileage_may_vary).
 
 
-### Company Size
+### Company size
 
 *These distinctions are relatively arbitrary, but it is a helpful framework to conceptualize the size company you would like to be at.*
 
-#### 1. Small Company
+#### 1. Small company
 
 ##### Pros:
 - Can be a great way to form close relationships with talented and experienced colleagues
@@ -197,11 +168,11 @@ Almost all businesses hire designers in one way or another. Many of the largest 
 - Can be scarce on resources (limited IT support, less dedicated resources for things like expenses and office services)
 
 
-#### 2. Medium Company
+#### 2. Medium company
 A "Medium"-sized organization is a great way to get a mix of the pros and cons of small and large firms *(see above and below).*
 
 
-#### 3. Large Company
+#### 3. Large company
 
 ##### Pros:
 - Likely to work on bigger, more widely-relevant projects
@@ -215,40 +186,32 @@ A "Medium"-sized organization is a great way to get a mix of the pros and cons o
 - Increased volume of workers and varied processes have the capacity to increase friction and inhibit progress
 
 
-##Role Title
+## Role Title
 
-*It should be noted that the average college design graduate begins with a "Junior" or "Intern" title, though it is not impossible to land a more mid-level job out of school. And of course it should be noted that titles vary from company to company and there are many variations and misuses of title.*
+*Many college design graduates begin with a "Junior" or "Intern" title, though it is not impossible to land a  mid-level job out of school. And of course titles vary from company to company and there are many variations and misuses of title.*
 
-#### Art Director
-
-- **Works with:** Concepts, styles, directions
-- **Essential tools:** Photoshop, Illustrator, InDesign
  
- 
-#### Visual Designer / Graphic Designer
+#### Visual designer / graphic designer
 
 - **Works with:** Visuals, typography, layout
 - **Essential tools:** Photoshop, Illustrator
 
 
-#### User Experience Designer
+#### User experience designer
 
 - **Works with:** Prototypes, taxonomies, wireframes
 - **Essential tools:** InDesign, OmniGraffle, Axure
 
 
-#### Production Artist
+#### Art director
 
-- **Works with:** Graphics, prints, 
-- **Essential tools:** Photoshop, Illustrator, InDesign, Fireworks
-
-
----
-
-#III. Important Focus Areas
+- **Works with:** Concepts, styles, directions
+- **Essential tools:** Photoshop, Illustrator, InDesign
 
 
-##How Do I Get a Job?!
+## Important focus areas
+
+### How do I get a job?!
 
 #### 1. Work
 
@@ -260,18 +223,19 @@ Obviously there is no substitute for great work. Doing your best on your project
 From what I understand, most viable job leads come from personal connections. Now this doesn't mean that you are best friends with someone. This just means that maybe you would recognize this person if you bumped into them at an event. I know plenty of people who got great job leads through various portfolio reviews (popular reviews are run by AIGA, [Art Directors' Club](http://www.adcglobal.org/education/portfolio/), and [Behance](http://www.behance.net/reviews), among other design groups). Also, follow local design groups (such as [your local AIGA chapter](http://www.aiga.org/chapters/)) to get notified of upcoming local design events.
 
 
-#### 3. Develop "Soft Skills"
+#### 3. Develop "soft skills"
 
 Put it all in a pretty package! [Develop and rehearse](http://justcreative.com/2008/10/02/design-elevator-speeches/) [an introductory "elevator speech"](http://www.designsponge.com/2009/05/biz-ladies-09-the-30-second-elevator-pitch.html) for yourself and your work. A great presentation with smooth delivery can make up for even a *glaring* design error, without much luck required. There is *an unbelievable amount* of value in developing your own window-dressing (e.g. speaking and presentation skills, beautiful business cards, being at the right networking events or portfolio reviews, etc.)
 
 
-### ★ The *most important* consideration in finding a great entry-level job
 
-#### Learning potential
+### Learning potential
+
+**The most important consideration in finding a great entry-level job**
 
 As suggested to me by my former professor [Brian Lucid](http://www.brianlucid.com), the best thing a first job could have is the opportunity to learn a lot. In a dream world, this comes in the form of mentorship and guidance; smart, talented coworkers with the dedication to promoting learning and growth; and wise leadership to keep it all going in the right direction. Coming out of school, there is no built-in learning network to propel career forward, so having an employer that actively enables your learning and development is truly an excellent benefit. 
 
-## IV. Helpful Resources
+## Helpful resources
 
 ### People
 
