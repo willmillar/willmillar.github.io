@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interaction Design (CDGD 330) Syllabus
+permalink: interaction-design-syllabus
 category: blog
 ---
 

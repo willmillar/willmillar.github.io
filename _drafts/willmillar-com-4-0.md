@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building willmillar.com 4.0 with Jekyll"
+permalink: building-willmillar-com
 category: blog
 picture: /images/sense-cover.jpg
 ---

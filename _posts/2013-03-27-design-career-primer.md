@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Design Career Primer
+permalink: design-career-primer
 category: blog
 ---
 

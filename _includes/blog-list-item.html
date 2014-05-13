@@ -1,0 +1,23 @@
+ <div class="post">
+    
+    <h2 class="post-title">
+      
+      {% if post.linkout != null %}
+        <a target="_blank" href="{{ post.linkout }}">
+            {{ post.title }}
+          </a> &rarr;
+        {% else %}
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+      {% endif %}
+
+    </h2>
+
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
+
+    {{ post.excerpt }}
+
+        {% include read-more.html %}
+
+  </div>

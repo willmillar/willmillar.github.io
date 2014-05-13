@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-12T21:26:26-04:00</updated>
+ <updated>2014-05-12T22:00:29-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Building willmillar.com 4.0 with Jekyll</title>
-   <link href="http://willmillar.com/blog/2014/05/11/willmillar-com-4-0/"/>
-   <updated>2014-05-11T15:24:50-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/11/willmillar-com-4-0</id>
+   <link href="http://willmillar.com/building-willmillar-com"/>
+   <updated>2014-05-12T21:54:52-04:00</updated>
+   <id>http://willmillar.com/willmillar-com-4-0</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -35,19 +35,10 @@
  </entry>
  
  <entry>
-   <title>Bilingual design: Why designers should be using iOS Android</title>
-   <link href="http://willmillar.com/blog/2014/05/11/bilingual-design/"/>
-   <updated>2014-05-11T02:29:39-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/11/bilingual-design</id>
-   <content type="html">&lt;blockquote&gt;&lt;p&gt;A designer needs to keep up with best practices. Best practices aren’t just on one platform.&lt;/p&gt;&lt;/blockquote&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Interaction Design (CDGD 330) Syllabus</title>
-   <link href="http://willmillar.com/blog/2014/05/10/interaction-design-course/"/>
-   <updated>2014-05-10T19:37:52-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/10/interaction-design-course</id>
+   <link href="http://willmillar.com/interaction-design-syllabus"/>
+   <updated>2014-05-12T21:54:26-04:00</updated>
+   <id>http://willmillar.com/interaction-design-course</id>
    <content type="html">&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -159,6 +150,15 @@
  </entry>
  
  <entry>
+   <title>Bilingual design: Why designers should be using iOS Android</title>
+   <link href="http://willmillar.com/blog/2014/05/11/bilingual-design/"/>
+   <updated>2014-05-11T02:29:39-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/11/bilingual-design</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;A designer needs to keep up with best practices. Best practices aren’t just on one platform.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Our education system isn't broken, "we just don't need it anymore"</title>
    <link href="http://willmillar.com/blog/2014/04/26/outdated-education-system/"/>
    <updated>2014-04-26T00:00:00-04:00</updated>
@@ -177,9 +177,9 @@
  
  <entry>
    <title>Experience design consulting</title>
-   <link href="http://willmillar.com/projects/2014/04/26/experience-design-consulting/"/>
+   <link href="http://willmillar.com/experience-design-consulting"/>
    <updated>2014-04-26T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2014/04/26/experience-design-consulting</id>
+   <id>http://willmillar.com/experience-design-consulting</id>
    <content type="html">&lt;p&gt;I am currently an Experience Designer at &lt;a href=&quot;http://www.sapient.com/en-us/sapientnitro.html&quot; target=&quot;_blank&quot; title=&quot;SapientNitro.com&quot;&gt;SapientNitro&lt;/a&gt; where I research and sketch to design prototypes for large-scale websites. A portfolio of select deliverables is available by request.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -201,9 +201,9 @@
  
  <entry>
    <title>Digital learning concept</title>
-   <link href="http://willmillar.com/projects/2014/04/09/gather/"/>
+   <link href="http://willmillar.com/gather"/>
    <updated>2014-04-09T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2014/04/09/gather</id>
+   <id>http://willmillar.com/gather</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Gather&lt;/em&gt; is a concept service which provides a single access point for digital learning in schools. It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -253,9 +253,9 @@
  
  <entry>
    <title>A Design Career Primer</title>
-   <link href="http://willmillar.com/blog/2013/03/27/design-career-primer/"/>
+   <link href="http://willmillar.com/design-career-primer"/>
    <updated>2013-03-27T00:00:00-04:00</updated>
-   <id>http://willmillar.com/blog/2013/03/27/design-career-primer</id>
+   <id>http://willmillar.com/design-career-primer</id>
    <content type="html">&lt;p&gt;Since graduating MassArt, I get semi-regular requests for &lt;strong&gt;advice to design students looking to get traction in the professional world&lt;/strong&gt;. I love to meet with other young designers, but I also wanted to summarize what knowledge I&amp;rsquo;ve picked up so far to younger students to helpfully improve understanding of their professional possibilities.&lt;/p&gt;
 
 &lt;p&gt;In the past, I&amp;rsquo;ve tried writing single-paragraph templated advice, but mostly became a whitewash of generic careerisms (&lt;em&gt;&amp;ldquo;Do &lt;a href=&quot;http://www.theonion.com/articles/find-the-thing-youre-most-passionate-about-then-do,31742/&quot;&gt;what you love&lt;/a&gt;,&amp;rdquo; etc.&lt;/em&gt;). I&amp;rsquo;ve also gone looking for some sort of overall guide to framing the concepts of design careers, but I can&amp;rsquo;t seem to find it.&lt;/p&gt;
@@ -690,9 +690,9 @@
  
  <entry>
    <title>Career guidance service for students</title>
-   <link href="http://willmillar.com/projects/2012/04/01/mathplus/"/>
+   <link href="http://willmillar.com/mathplus"/>
    <updated>2012-04-01T00:00:00-04:00</updated>
-   <id>http://willmillar.com/projects/2012/04/01/mathplus</id>
+   <id>http://willmillar.com/mathplus</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Mathplus&lt;/em&gt; is a concept service which helps math-inclined students identify potential career paths in high school. It aims to assist students in the job market by introducing them to successful professionals, practical applications for their skills, and example career paths.&lt;/p&gt;
 
 &lt;!--more--&gt;
