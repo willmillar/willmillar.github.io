@@ -8,7 +8,11 @@ layout: default
     {% if page.category == 'projects' %}projects{% endif %}">
     {% include nav.html %}
     <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
-      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.linkout != null %}
+        <h1 class="post-title"><a href="{{ page.linkout }}" target="_blank">{{ page.title }}</a> &rarr;</h1>
+        {% else %}
+          <h1 class="post-title">{{ page.title }}</h1>
+      {% endif %}
       <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
     </div>
   {{ content }}
