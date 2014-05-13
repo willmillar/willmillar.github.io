@@ -29,8 +29,10 @@ title: Home
       </div>
     {% endfor %}
 
-    {% for post in site.categorilimes.blog | it: 1 %}
+    {% for post in site.categories.blog | it: 1 %}
+
       {% include blog-list-item.html %}
+
     {% endfor %}
 
 </div>
