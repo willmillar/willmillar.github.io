@@ -29,10 +29,9 @@ title: Home
       </div>
     {% endfor %}
 
+    <h3 class="secondary center-text">Latest post</h3>
     {% for post in site.categories.blog | limit: 1 %}
-
       {% include blog-list-item.html %}
-
     {% endfor %}
 
 </div>
