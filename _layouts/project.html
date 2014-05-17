@@ -3,17 +3,13 @@ layout: default
 ---
 
 <div class="post 
-    {% if page.category == 'blog' %}blog{% endif %} 
-    {% if page.category == 'projects' %}projects{% endif %}">
-    <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), {% if page.picture != null %}url('{{ page.picture }}'){% endif %} repeat 0 0; background-size: cover; background-position: center;">
-      {% include nav.html %}
-      {% if post.linkout != null %}
-        <a href="{{ page.linkout }}" target="_blank"><h1 class="post-title">{{ page.title }}</h1></a> &rarr;
-        {% else %}
-          <h1 class="post-title">{{ page.title }}</h1>
-      {% endif %}
-      <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
-    </div>
+  {% if page.category == 'blog' %}blog{% endif %} 
+  {% if page.category == 'projects' %}projects{% endif %}">
+  <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), {% if page.picture != null %}url('{{ page.picture }}'){% endif %} repeat 0 0; background-size: cover; background-position: center;">
+    {% include nav.html %}
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date: "%B, %Y" }}</span>
+  </div>
   {{ content }}
 </div>
 
@@ -21,7 +17,7 @@ layout: default
 <div class="related">
   <h2>More posts</h2>
   <ul class="related-posts">
-    {% for post in site.categories.blog limit:3 %}
+    {% for post in site.categories.blog limit:4 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -44,7 +40,7 @@ layout: default
         <h3>
           <a href="{{ post.url }}">
             {{ post.title }}</br>
-            <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+            <small>{{ post.date | date: "%B, %Y" }}</small>
           </a>
         </h3>
       </li>

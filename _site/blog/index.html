@@ -39,7 +39,22 @@
   ga('create', 'UA-50695132-1', 'willmillar.com');
   ga('send', 'pageview');
   </script>
-  
+
+<!-- Adding Image Captions via Alt Text -->
+  <script>
+    var showCaptions = function () {
+    var caption;
+    $('img').each(function () {
+      caption = $(this).attr('alt');
+      if (caption !== '')
+        // use .before to insert the caption before the image
+        $(this).after('<caption">' + caption + '</caption>');
+      });
+    }
+
+    showCaptions();
+  </script>
+
 </head>
 
 
@@ -88,7 +103,7 @@
 
     </h2>
 
-    <span class="post-date">May 12, 2014</span>
+    <span class="post-date">May 17, 2014</span>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
@@ -108,6 +123,78 @@
     <h2 class="post-title">
       
       
+        <a target="_blank" href="http://designnotes.info/?p=8224">
+            Designers should be using both iOS and Android daily
+          </a> &rarr;
+        
+
+    </h2>
+
+    <span class="post-date">May 17, 2014 <a title="Permalink" href="/daily-android-use">&bull;</a></span>
+
+    <p>Designing for mobile without familiarity to Android design is as bad as designing a reponsive site without familiarity to mobile design.</p>
+
+<blockquote><p>A designer needs to keep up with best practices. Best practices aren’t just on one platform.</p>
+
+<p>I’ve become a better designer because I have learned to see what the best of both systems offers (and worst practices).</p>
+
+<p>Only using one platform and not the other makes it hard on a designer to learn new design patterns.</p></blockquote>
+
+
+        <p class="center-text">
+	
+		<a class="cta small-screen" target="_blank" href="http://designnotes.info/?p=8224">via designnotes.... &rarr;</a>
+		<a class="cta large-screen" target="_blank" href="http://designnotes.info/?p=8224">via designnotes.info &rarr;</a>
+		
+</p>
+
+  </div>
+ 
+  
+ 
+     <div class="post">
+    
+    <h2 class="post-title">
+      
+      
+        <a target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">
+            Our education system outdated, not necessarily broken
+          </a> &rarr;
+        
+
+    </h2>
+
+    <span class="post-date">April 26, 2014 <a title="Permalink" href="/outdated-education">&bull;</a></span>
+
+    <p>Sugata Mitra, Professor of Educational Technology at Newcastle University, from his TED talk <a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud">&ldquo;Build a School in the Cloud&rdquo;</a>:</p>
+
+<blockquote><p>If you look at present-day schooling the way it is, it&rsquo;s quite easy to figure out where it came from&hellip; Imagine trying to run the show, trying to run the entire planet, without computers, without telephones, with data handwritten on pieces of paper, and traveling by ships&hellip;</p>
+
+<p>They created a global computer made up of people. It&rsquo;s still with us today. It&rsquo;s called the bureaucratic administrative machine. In order to have that machine running, you need lots and lots of people. They made another machine to produce those people: the school. The schools would produce the people who would then become parts of the bureaucratic administrative machine. They must be identical to each other. They must know three things: They must have good handwriting, because the data is handwritten; they must be able to read; and they must be able to do multiplication, division, addition and subtraction in their head&hellip;</p>
+
+<p>The empire is gone, so what are we doing with that design that produces these identical people, and what are we going to do next if we ever are going to do anything else with it? Schools as we know them are obsolete.</p></blockquote>
+
+<p>This is exactly where my head was at when I was <a href="/projects/2014/04/09/gather/">thinking about digital learning platforms</a> at MassArt.</p>
+
+<p>Heard on <a href="http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/">&ldquo;Unstoppable Learning&rdquo;</a> on <em>NPR&rsquo;s TED Radio Hour</em>.</p>
+
+
+        <p class="center-text">
+	
+		<a class="cta small-screen" target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">via ted.com &rarr;</a>
+		<a class="cta large-screen" target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">via ted.com &rarr;</a>
+		
+</p>
+
+  </div>
+ 
+  
+ 
+     <div class="post">
+    
+    <h2 class="post-title">
+      
+      
           <a href="/interaction-design-syllabus">
             Interaction Design (CDGD 330) Syllabus
           </a>
@@ -115,7 +202,7 @@
 
     </h2>
 
-    <span class="post-date">May 12, 2014</span>
+    <span class="post-date">September 2, 2013</span>
 
     <p>Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.</p>
 
@@ -135,23 +222,26 @@
     <h2 class="post-title">
       
       
-        <a target="_blank" href="http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll">
-            Bilingual design: Why designers should be using iOS Android
-          </a> &rarr;
-        
+          <a href="/aea-monteiro">
+            Notes: <em>What Clients Don't Know and Why It's Your Fault</em> with Mike Monteiro
+          </a>
+      
 
     </h2>
 
-    <span class="post-date">May 11, 2014 <a title="Permalink" href="/blog/2014/05/11/bilingual-design/">&bull;</a></span>
+    <span class="post-date">June 25, 2013</span>
 
-    <blockquote><p>A designer needs to keep up with best practices. Best practices aren’t just on one platform.</p></blockquote>
+    <p>Mike Monteiro of Mule Design and <a href="https://www.youtube.com/watch?v=jVkLVRt6c1U">&ldquo;Fuck You Pay Me&rdquo;</a> on the role of designers and empathy for our clients:</p>
+
+<blockquote><p>&ldquo;[As a designer] you&rsquo;re going to spend 90% of your time convincing people that the shit you thought of in the shower is right.&rdquo;</p></blockquote>
+
+<p><em>From his talk &ldquo;What Client&rsquo;s Don&rsquo;t Know and Why It&rsquo;s Your Fault&rdquo; at An Event Apart Boston 2013</em></p>
 
 
         <p class="center-text">
 	
-		<a class="cta small-screen" target="_blank" href="http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll">via stackoverflo... &rarr;</a>
-		<a class="cta large-screen" target="_blank" href="http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll">via stackoverflow.com &rarr;</a>
-		
+			<a class="cta" href="/aea-monteiro">Read more</a>
+	
 </p>
 
   </div>
@@ -163,31 +253,24 @@
     <h2 class="post-title">
       
       
-        <a target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">
-            Our education system isn't broken, "we just don't need it anymore"
-          </a> &rarr;
-        
+          <a href="/aea-goodwin">
+            Notes: <em>Silo-Busting with Scenarios</em> with Kim Goodwin
+          </a>
+      
 
     </h2>
 
-    <span class="post-date">April 26, 2014 <a title="Permalink" href="/blog/2014/04/26/outdated-education-system/">&bull;</a></span>
+    <span class="post-date">June 25, 2013</span>
 
-    <p>I was listening to <a href="http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/">&ldquo;Unstoppable Learning&rdquo;</a> on <em>NPR TED Radio Hour</em>, and in a segment about Sugata Mitra&rsquo;s talk <a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud">&ldquo;Build a School in the Cloud&rdquo;</a>, he goes on about how the education system is failing for current generations because its foundation is so outdated:</p>
+    <p>Kim Goodwin, VP of UX at <a href="http://www.patientslikeme.com/">Patients Like Me</a>, former VP of UX at <a href="http://www.cooper.com/">Cooper</a> on how &ldquo;silos have been engineered to ignore one another&rdquo; and scenarios help designers and organizations <strong>&ldquo;define problems as your users do&rdquo;</strong></p>
 
-<blockquote><p>If you look at present-day schooling the way it is, it&rsquo;s quite easy to figure out where it came from&hellip; Imagine trying to run the show, trying to run the entire planet, without computers, without telephones, with data handwritten on pieces of paper, and traveling by ships&hellip;</p>
-
-<p>They created a global computer made up of people. It&rsquo;s still with us today. It&rsquo;s called the bureaucratic administrative machine. In order to have that machine running, you need lots and lots of people. They made another machine to produce those people: the school. The schools would produce the people who would then become parts of the bureaucratic administrative machine. They must be identical to each other. They must know three things: They must have good handwriting, because the data is handwritten; they must be able to read; and they must be able to do multiplication, division, addition and subtraction in their head&hellip;</p>
-
-<p>The empire is gone, so what are we doing with that design that produces these identical people, and what are we going to do next if we ever are going to do anything else with it? Schools as we know them are obsolete.</p></blockquote>
-
-<p>This is exactly where my head was at when I was <a href="/projects/2014/04/09/gather/">thinking about digital learning platforms</a> at MassArt.</p>
+<p><em>From her talk &ldquo;Silo-Busting with Scenarios&rdquo; at An Event Apart Boston 2013</em></p>
 
 
         <p class="center-text">
 	
-		<a class="cta small-screen" target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">via ted.com &rarr;</a>
-		<a class="cta large-screen" target="_blank" href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/">via ted.com &rarr;</a>
-		
+			<a class="cta" href="/aea-goodwin">Read more</a>
+	
 </p>
 
   </div>
@@ -199,7 +282,65 @@
     <h2 class="post-title">
       
       
-          <a href="/design-career-primer">
+          <a href="/aea-goodwin">
+            Notes: <em>The Mobile Content Mandate</em> with Karen McGrane
+          </a>
+      
+
+    </h2>
+
+    <span class="post-date">June 25, 2013</span>
+
+    <p>Karen McGrane, author of <a href="http://www.abookapart.com/products/content-strategy-for-mobile"><em>Content Strategy for Mobile</em></a> on why <strong>&ldquo;there&rsquo;s no such thing as &lsquo;how to write for mobile.&rsquo; There&rsquo;s just good writing.&rdquo;</strong></p>
+
+<p><em>From her talk &ldquo;The Mobile Content Mandate&rdquo; at An Event Apart Boston 2013</em></p>
+
+
+        <p class="center-text">
+	
+			<a class="cta" href="/aea-goodwin">Read more</a>
+	
+</p>
+
+  </div>
+ 
+  
+ 
+     <div class="post">
+    
+    <h2 class="post-title">
+      
+      
+          <a href="/aea-spool">
+            Notes: <em>It's a Great Time to Be an Experience Designer</em> with Jared Spool
+          </a>
+      
+
+    </h2>
+
+    <span class="post-date">June 25, 2013</span>
+
+    <p>Jared Spool of <a href="http://www.uie.com/">UIE</a> and the <a href="http://centercentre.com/">Center Centre</a> on how the skills that define the <strong>best designers</strong> are <strong>storytelling, critiquing, sketching, presenting, and facilitating</strong>.</p>
+
+<p><em>From his talk &ldquo;It&rsquo;s a Great Time to Be an Experience Designer&rdquo; at An Event Apart Boston 2013</em></p>
+
+
+        <p class="center-text">
+	
+			<a class="cta" href="/aea-spool">Read more</a>
+	
+</p>
+
+  </div>
+ 
+  
+ 
+     <div class="post">
+    
+    <h2 class="post-title">
+      
+      
+          <a href="/design-careers">
             A Design Career Primer
           </a>
       
@@ -217,7 +358,7 @@
 
         <p class="center-text">
 	
-			<a class="cta" href="/design-career-primer">Read more</a>
+			<a class="cta" href="/design-careers">Read more</a>
 	
 </p>
 
@@ -230,8 +371,8 @@
         <div class="contact">
           <h2>Get in touch</h2>
           <h3><a title="willmillar@gmail.com" href="mailto:willmillar@gmail.com">Email</a>
-          <a title="@ideastate" target="_blank" href="http://twitter.com/ideastate">Twitter</a>
-          <a title="Will Millar - LinkedIn" target="_blank" href="http://linkedin.com/pub/will-millar/22/20/675">LinkedIn</a></h2>
+          <a title="@ideastate" href="http://twitter.com/ideastate">Twitter</a>
+          <a title="Will Millar - LinkedIn" href="http://linkedin.com/pub/will-millar/22/20/675">LinkedIn</a></h2>
         </div>
         <div>
           <p><a href="/projects">Projects</a></p>
@@ -241,7 +382,7 @@
 
         <p class="copyright">
           <!-- Thanks for stopping by<br>
-          <small><a class="tertiary" href="http://zenhabits.net/uncopyright/" target="_blank" title='ZenHabits.net - "Uncopyright"'>Uncopyright</a>
+          <small><a class="tertiary" href="http://zenhabits.net/uncopyright/" title='ZenHabits.net - "Uncopyright"'>Uncopyright</a>
           &copy; Will Millar 2014 --></small>
         </p>
     </div>

@@ -39,7 +39,22 @@
   ga('create', 'UA-50695132-1', 'willmillar.com');
   ga('send', 'pageview');
   </script>
-  
+
+<!-- Adding Image Captions via Alt Text -->
+  <script>
+    var showCaptions = function () {
+    var caption;
+    $('img').each(function () {
+      caption = $(this).attr('alt');
+      if (caption !== '')
+        // use .before to insert the caption before the image
+        $(this).after('<caption">' + caption + '</caption>');
+      });
+    }
+
+    showCaptions();
+  </script>
+
 </head>
 
 
@@ -49,7 +64,7 @@
 
       
 
-      <div class="post-cover" style="background: linear-gradient(to bottom, rgba(220, 220, 223, 0) 30%,rgba(220, 220, 223, 1) 100%), url('/images/portrait-wide.jpg') repeat 0 0; background-size: cover; background-position: center;">
+      <div class="post-cover" style="background: linear-gradient(to bottom, rgba(214, 214, 218, 0) 30%, rgba(214, 214, 218, 1) 100%), url('/images/portrait-wide.jpg') repeat 0 0; background-size: cover; background-position: center;">
   <nav class="navigation">
     
       
@@ -82,30 +97,27 @@
 
   <p class="large center-text about-text">I research, prototype, and design for digitial products. I understand people and relationships to make things that solve problems.</p>
 
-<p><b>Currently</b> I design prototypes for websites at <a href="http://www.sapient.com/en-us/sapientnitro.html" target="_blank" title="SapientNitro.com">SapientNitro</a> for clients like <a href="https://www.panerabread.com/" target="_blank" title="PaneraBread.com">Panera Bread</a> and <a href="http://alzforum.org/" target="_blank" title="AlzForum.org">AlzForum.org</a>. I am also a student of mindfulness meditation and a practitioner of the <a title="baconmethod.com" target="_blank" href="http://baconmethod.com/">Bacon Method</a>.</p>
+<p><b>Currently</b> I design prototypes for websites at <a href="http://www.sapient.com/en-us/sapientnitro.html" title="SapientNitro.com">SapientNitro</a> for clients like <a href="https://www.panerabread.com/" title="PaneraBread.com">Panera Bread</a> and <a href="http://alzforum.org/" title="AlzForum.org">AlzForum.org</a>.  I am also a student of mindfulness meditation and a practitioner of the <a title="baconmethod.com" href="http://baconmethod.com/">Bacon Method</a>.</p>
 
-<p><b>Recently</b> I taught <a href="blog/2013/09/01/interaction-design-course/" title="Interaction Design (CDGD330) Course Syllabus"><em>Interaction Design</em></a> at <a href="http://www.massart.edu/" target="_blank" title="MassArt.edu">Massachusetts College of Art and Design</a> <a href="http://www.massart.edu/admissions/design_certificate_students/graphic_design_certificate.html" target="_blank">GDC Program</a> and presented <a href="http://www.slideshare.net/willmillar/tools-of-the-trade-23245862" target="_blank" title='SlideShare - "UX Tools of the Trade" by Will Millar'>&ldquo;UX Tools of the Trade&rdquo;</a> at the <a href="http://uxpaboston.org/" target="_blank" title="User Experience Professionals Association - UXPAboston.org">UXPA</a> 2013 Boston Conference.</p>
+<p><b>Recently</b> I taught <a href="/ixd-course" title="Interaction Design (CDGD330) Course Syllabus"><em>Interaction Design</em></a> at <a href="http://www.massart.edu/" title="MassArt.edu">Massachusetts College of Art and Design</a> <a href="http://www.massart.edu/admissions/design_certificate_students/graphic_design_certificate.html">GDC Program</a> and presented <a href="http://www.slideshare.net/willmillar/tools-of-the-trade-23245862" title='SlideShare - "UX Tools of the Trade" by Will Millar'>&ldquo;UX Tools of the Trade&rdquo;</a> at the <a href="http://uxpaboston.org/" title="User Experience Professionals Association - UXPAboston.org">UXPA</a> 2013 Boston Conference.</p>
 
-<p><b>Previously</b> I graduated from Massachusetts College of Art and Design&rsquo;s Graphic Design BFA, during which I had three design internships, including at <a href="http://www.mullen.com/" target="_blank" title="Mullen.com">Mullen</a>.</p>
+<p><b>Previously</b> I graduated from Massachusetts College of Art and Design's Graphic Design BFA, during which I had three design internships, including at <a href="http://www.mullen.com/" title="Mullen.com">Mullen</a>.</p>
 
-<p class="center-text"><small>Photo by <a href="http://jeremiahlouf.com/" target="_blank">Jeremiah Louf</a> 2012</small></p>
+<p class="center-text"><small>Photo by <a href="http://jeremiahlouf.com/">Jeremiah Louf</a> 2012</small></p>
 
 <!-- 
 
-, and guest lectured <a href="https://docs.google.com/presentation/d/1Uk5xNmHbt5ZQdJS6PI1GiBYzcyqsVWDWby76oWLG0gI/edit?usp=sharing" target="_blank" title='Google Drive - "Information Design Slides"'>on information design</a> for undergrad marketing students.
-
-I was also part of the winning <a href="http://blog.echonest.com/post/44300889363/echo-run-takes-jogging-apps-to-the-next-level" target="_blank" title='EchoNext Blog - "EchoRun Takes Jogging Apps to the Next Level"'>team</a> at the 2013 Tufts/Evernote Hackathon.
+I was also part of the winning <a href="http://blog.echonest.com/post/44300889363/echo-run-takes-jogging-apps-to-the-next-level" title='EchoNext Blog - "EchoRun Takes Jogging Apps to the Next Level"'>team</a> at the 2013 Tufts/Evernote Hackathon.
 
  -->
 
     
       <div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
         <a href="/gather">
-          <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,
-            rgba(220, 220, 223, .5) 100%), url('/images/gather-environment.jpg') repeat 0 0; background-size: cover; background-position: center;">
+          <div class="post-cover" style="padding-bottom: 20%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .5) 100%), url('/images/gather-environment.jpg') repeat 0 0; background-size: cover; background-position: center;">
             <h3 class="secondary center-text">Featured project</h3>
-            <h2 class="post-title">Digital learning concept</h2>
-            <span class="post-date">April 9, 2014</span>
+            <h2 class="post-title">Digital learning platform</h2>
+            <span class="post-date">May, 2012</span>
           </div>
         </a>
         <p><p><em>Gather</em> is a concept service which provides a single access point for digital learning in schools. It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students.</p>
@@ -132,7 +144,7 @@ I was also part of the winning <a href="http://blog.echonest.com/post/4430088936
 
     </h2>
 
-    <span class="post-date">May 12, 2014</span>
+    <span class="post-date">May 17, 2014</span>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
@@ -152,8 +164,8 @@ I was also part of the winning <a href="http://blog.echonest.com/post/4430088936
         <div class="contact">
           <h2>Get in touch</h2>
           <h3><a title="willmillar@gmail.com" href="mailto:willmillar@gmail.com">Email</a>
-          <a title="@ideastate" target="_blank" href="http://twitter.com/ideastate">Twitter</a>
-          <a title="Will Millar - LinkedIn" target="_blank" href="http://linkedin.com/pub/will-millar/22/20/675">LinkedIn</a></h2>
+          <a title="@ideastate" href="http://twitter.com/ideastate">Twitter</a>
+          <a title="Will Millar - LinkedIn" href="http://linkedin.com/pub/will-millar/22/20/675">LinkedIn</a></h2>
         </div>
         <div>
           <p><a href="/projects">Projects</a></p>
@@ -163,7 +175,7 @@ I was also part of the winning <a href="http://blog.echonest.com/post/4430088936
 
         <p class="copyright">
           <!-- Thanks for stopping by<br>
-          <small><a class="tertiary" href="http://zenhabits.net/uncopyright/" target="_blank" title='ZenHabits.net - "Uncopyright"'>Uncopyright</a>
+          <small><a class="tertiary" href="http://zenhabits.net/uncopyright/" title='ZenHabits.net - "Uncopyright"'>Uncopyright</a>
           &copy; Will Millar 2014 --></small>
         </p>
     </div>

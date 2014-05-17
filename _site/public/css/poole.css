@@ -63,7 +63,7 @@ html {
 
 body {
   color: #515151;
-  background-color: rgba(220, 220, 223, 1);
+  background-color: rgba(214, 214, 218, 1);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -345,6 +345,10 @@ tbody tr:nth-child(odd) th {
 
 .center-text {
   text-align: center;
+}
+
+.post small {
+  opacity: .75;
 }
 
 #footer {

@@ -7,9 +7,9 @@ layout: default
     {% if page.category == 'blog' %}blog{% endif %} 
     {% if page.category == 'projects' %}projects{% endif %}">
     {% include nav.html %}
-    <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(220, 220, 223, 1) 0%,rgba(220, 220, 223, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
+    <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
       {% if page.linkout != null %}
-        <h1 class="post-title"><a href="{{ page.linkout }}" target="_blank">{{ page.title }}</a> &rarr;</h1>
+        <h1 class="post-title"><a href="{{ page.linkout }}">{{ page.title }}</a> &rarr;</h1>
         {% else %}
           <h1 class="post-title">{{ page.title }}</h1>
       {% endif %}
@@ -19,8 +19,8 @@ layout: default
 
   {% if page.linkout != null %}
     <p class="center-text">
-      <a class="cta small-screen" target="_blank" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first | truncate: 15 }} &rarr;</a>
-      <a class="cta large-screen" target="_blank" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first }} &rarr;</a>
+      <a class="cta small-screen" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first | truncate: 15 }} &rarr;</a>
+      <a class="cta large-screen" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first }} &rarr;</a>
     </p>
   {% endif %}
 
@@ -30,7 +30,7 @@ layout: default
 <div class="related">
   <h2>More posts</h2>
   <ul class="related-posts">
-    {% for post in site.categories.blog limit:3 %}
+    {% for post in site.categories.blog limit:4 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -53,7 +53,7 @@ layout: default
         <h3>
           <a href="{{ post.url }}">
             {{ post.title }}</br>
-            <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+            <small>{{ post.date | date: "%B, %Y" }}</small>
           </a>
         </h3>
       </li>

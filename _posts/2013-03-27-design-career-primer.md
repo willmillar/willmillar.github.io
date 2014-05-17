@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Design Career Primer
-permalink: design-career-primer
+permalink: design-careers
 category: blog
 ---
 
@@ -12,7 +12,6 @@ In the past, I've tried writing single-paragraph templated advice, but mostly be
 This primer is my attempt to start filling that gap.
 
 <!--more-->
-
 
 
 ## A warning

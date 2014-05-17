@@ -38,5 +38,20 @@
   ga('create', 'UA-50695132-1', 'willmillar.com');
   ga('send', 'pageview');
   </script>
-  
+
+<!-- Adding Image Captions via Alt Text -->
+  <script>
+    var showCaptions = function () {
+    var caption;
+    $('img').each(function () {
+      caption = $(this).attr('alt');
+      if (caption !== '')
+        // use .before to insert the caption before the image
+        $(this).after('<caption">' + caption + '</caption>');
+      });
+    }
+
+    showCaptions();
+  </script>
+
 </head>

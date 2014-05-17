@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Various motion graphics
+permalink: motion-graphics
 category: projects
 picture: /images/sense-cover.jpg
 ---
@@ -18,10 +19,10 @@ Motion has been an important part of my design process going back to my start in
 
 
 
-###### Branding
-## SENSE network identity
+###### Identify & motion graphics
+## SENSE network branding
 
-*SENSE* is a concept TV network I branded in a 2012 project for <a title="Maviyane.com" target="_blank" href="http://www.maviyane.com/">Chaz Maviyane-Davies</a>&rsquo;s *Graphic Design* course at MassArt.
+*SENSE* is a concept TV network I branded in a 2012 project for [Chaz Maviyane-Davies](http://www.maviyane.com/)'s *Graphic Design* course at MassArt.
 
 <div class='video'><iframe src='https://player.vimeo.com/video/37973232?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
@@ -29,18 +30,18 @@ Motion has been an important part of my design process going back to my start in
 
 
 ###### Expressive motion typography
-## Ratatat&rsquo;s &ldquo;Loud Pipes&rdquo;
+## Ratatat's "Loud Pipes"
 
-&ldquo;Loud Pipes&rdquo; is a 2011 motion typography study for <a title="khughesdesign.com" target="_blank" href="http://khughesdesign.com/">Katherine Hughes</a>&rsquo;s *Typography* course at MassArt.
+"Loud Pipes" is a 2011 motion typography study for [Katherine Hughes](http://khughesdesign.com/)'s *Typography* course at MassArt.
 
 <div class='video'><iframe src='https://player.vimeo.com/video/11567969?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
 
 ###### Freelance outreach marketing
-## &ldquo;The Rap I Listen To&rdquo;
+## "The Rap I Listen To"
 
-&ldquo;The Rap I Listen To&rdquo; is a 2011 video component to <a title="brianlucid.com" target="_blank" href="http://brianlucid.com/">Brian Lucid</a>&rsquo;s &ldquo;Collection of 100 Items&rdquo; project for *Information Architecture* at MassArt.
+When I inventoried and analyzed the hip hop music I listened to, I noticed geographical groupings of lyrical themes. What happens when you take this kind of data-driven pattern identification too far? "The Rap I Listen To" is a 2011 video component to [Brian Lucid](http://brianlucid.com/)'s "Collection of 100 Items" project for *Information Architecture* at MassArt.
 
 <div class='video'><iframe src='https://player.vimeo.com/video/17792348
 ?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

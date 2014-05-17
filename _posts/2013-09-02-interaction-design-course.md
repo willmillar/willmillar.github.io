@@ -15,9 +15,11 @@ Basics in user-centered design, concepts, methodologies, and tools. Site mapping
 
 Hi and welcome to CDGD 330: Interaction Design!
 
-An introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.
+This course seeks to provide an introduction to current concepts, methods, and technologies employed in the design of interactive media. Subjects of study include defining user and site requirements, managing information complexity, and designing visual interfaces that are usable and testable. Assignments address design problem solving within screen-based projects developed for various content, needs, and audiences.
+
 
 ## Approach
+
 We will be **working together in a professional context on "real world" projects.** These projects will help **familiarize students with industry practices and deliverables,** as well as work through the fundamental concepts of *interaction design, usability, experience design, information architecture,* and the various methodologies that support said disciplines.
 
 ## Format
@@ -64,9 +66,11 @@ We will be **working together in a professional context on "real world" projects
 
 ## Course Projects
 
-#### 0. Experience Shift
-#### 1. Website Redesign
-#### 2. Futurecasting Product/Service
+1. **Experience Shift**
+
+- **Website Redesign**
+
+- **Futurecasting Product/Service**
 
 [contact]: https://www.schoology.com/page/59583401
 [schoology]: https://www.schoology.com/course/59421575/
