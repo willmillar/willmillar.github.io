@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Our education system outdated, not necessarily broken
+title: Our education system is outdated, not necessarily broken
 permalink: outdated-education
 linkout: http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud/
 ---
