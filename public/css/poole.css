@@ -285,7 +285,7 @@ blockquote p:last-child {
 }
 @media (max-width: 38em) {
   blockquote {
-    margin: auto .5rem;
+    margin: .8rem .5rem;
   }
 }
 
