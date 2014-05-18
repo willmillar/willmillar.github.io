@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-17T19:03:34-04:00</updated>
+ <updated>2014-05-17T22:13:28-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,9 +13,20 @@
 
  
  <entry>
+   <title>The Existential TKTKTK of <em>Ghost in the Shell</em></title>
+   <link href="http://willmillar.com/ghost-in-the-shell"/>
+   <updated>2014-05-17T22:07:48-04:00</updated>
+   <id>http://willmillar.com/ghost-in-the-shell</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
+
+&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Building willmillar.com 4.0 with Jekyll</title>
    <link href="http://willmillar.com/building-the-site"/>
-   <updated>2014-05-17T18:56:42-04:00</updated>
+   <updated>2014-05-17T20:38:26-04:00</updated>
    <id>http://willmillar.com/willmillar-com-4-0</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
@@ -24,15 +35,19 @@
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;p&gt;&lt;a title=&quot;Poole, The Jekyll Butler&quot; href=&quot;http://demo.getpoole.com/&quot;&gt;Poole&lt;/a&gt; by &lt;a title=&quot;Mark Otto (@mdo)&quot; href=&quot;https://twitter.com/mdo&quot;&gt;Mark Otto&lt;/a&gt; &amp;ldquo;provide[s] a clear and concise foundational setup for any Jekyll site &amp;hellip; by furnishing a full vanilla install with example templates, pages, posts, and styles.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://demo.getpoole.com/&quot;&gt;Poole&lt;/a&gt; by &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Otto&lt;/a&gt; &amp;ldquo;provide[s] a clear and concise foundational setup for any Jekyll site &amp;hellip; by furnishing a full vanilla install with example templates, pages, posts, and styles.&amp;rdquo;&lt;/p&gt;
 
-&lt;h2&gt;Inspiration&lt;/h2&gt;
+&lt;h2&gt;Designing in code&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;Refuse to Create a UX Portfolio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Portfolios / personal sites:&lt;/strong&gt; &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;Jeff Vlahos&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;Nathan Hass&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;John Boilard&lt;/a&gt;, &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;Jon Wiley&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;Emily Brick&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Inspiration &amp;amp; references&lt;/h2&gt;
 
-&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process. Nothing like some solid, unbiased, friendly feedback, right?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/p&gt;
+
+&lt;p&gt;Reference portfolios, blogs, personal sites: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process!&lt;/p&gt;
 </content>
  </entry>
  
@@ -211,7 +226,7 @@
  </entry>
  
  <entry>
-   <title>Notes: <em>What Clients Don't Know and Why It's Your Fault</em> with Mike Monteiro</title>
+   <title>Notes: &ldquo;What Clients Don't Know and Why It's Your Fault&rdquo; with Mike Monteiro</title>
    <link href="http://willmillar.com/aea-monteiro"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-mike-monteiro</id>
@@ -313,7 +328,7 @@
  </entry>
  
  <entry>
-   <title>Notes: <em>Silo-Busting with Scenarios</em> with Kim Goodwin</title>
+   <title>Notes: &ldquo;Silo-Busting with Scenarios&rdquo; with Kim Goodwin</title>
    <link href="http://willmillar.com/aea-goodwin"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-kim-goodwin</id>
@@ -489,7 +504,7 @@
  </entry>
  
  <entry>
-   <title>Notes: <em>The Mobile Content Mandate</em> with Karen McGrane</title>
+   <title>Notes: &ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane</title>
    <link href="http://willmillar.com/aea-goodwin"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-karen-mcgrane</id>
@@ -631,7 +646,7 @@
  </entry>
  
  <entry>
-   <title>Notes: <em>It's a Great Time to Be an Experience Designer</em> with Jared Spool</title>
+   <title>Notes: &ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool</title>
    <link href="http://willmillar.com/aea-spool"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-jared-spool</id>
@@ -1159,7 +1174,7 @@
 
 &lt;p&gt;&lt;small&gt;Should preparing and delivering a lecture look the same as it did 500 years ago?&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;The format of classroom education has changed very little in hundreds of years, despite fundamental advances in information infrastructure. The traditional &lt;em&gt;&amp;ldquo;sage on stage&amp;rdquo;&lt;/em&gt; lecture format does not account for the fact that information is all around us. In a future where learning is no longer one way, we are not equipped to facilitate classroom interactions which bring in outside content in an organized yet open manor.&lt;/p&gt;
+&lt;p&gt;The format of classroom education has changed very little in hundreds of years, despite fundamental advances in information infrastructure. The traditional &lt;em&gt;&amp;ldquo;sage on stage&amp;rdquo;&lt;/em&gt; lecture format does not account for the fact that information is all around us. In a future where learning is no longer one way, &lt;strong&gt;we are not equipped to facilitate classroom interactions which bring in outside content in an organized yet open manor.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h6&gt;Process&lt;/h6&gt;
 
@@ -1169,11 +1184,11 @@
 
 &lt;p&gt;&lt;small&gt;Are current tools actually enabling the learning process? The education category is plagued by complex and unintuitive interfaces.&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;From Blackboard to Khan Academy, many brilliant minds are trying to crack the future of digital education systems. However, most of these &amp;ldquo;learning management systems&amp;rdquo; are rooted in specific tools, such as a resource manager or assignment tracker. As illustrated above, these tools are not particularly friendly for either teacher or students to learn and use.&lt;/p&gt;
+&lt;p&gt;From Blackboard to Khan Academy, many brilliant minds are trying to crack the future of digital education systems. However, most of these &amp;ldquo;learning management systems&amp;rdquo; are rooted in specific tools, such as a resource manager or assignment tracker. As illustrated above, &lt;strong&gt;these tools are not friendly for teachers or students to learn and use.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I saw the need for a high-level layer which pulls all these desparate pieces together into a single friendly interface on any device.&lt;/p&gt;
 
-&lt;p&gt;Bruce Mau&amp;rsquo;s &lt;em&gt;The Third Teacher&lt;/em&gt; focuses on the role of the &amp;ldquo;teacher as designer.&amp;rdquo; We need to empower teachers with powerful &lt;em&gt;education design tools&lt;/em&gt; to choreograph their waves of information.&lt;/p&gt;
+&lt;p&gt;Bruce Mau&amp;rsquo;s &lt;em&gt;The Third Teacher&lt;/em&gt; focuses on the role of the &amp;ldquo;teacher as designer.&amp;rdquo; We need to empower teachers with powerful education design tools to choreograph networks of information.&lt;/p&gt;
 
 &lt;h6&gt;Solution&lt;/h6&gt;
 
@@ -1185,11 +1200,11 @@
 
 &lt;p&gt;The key to a better system for teachers and learners is a unified content service which makes creating your own curriculum by snapping existing resources together. The curriculum materials could then be packaged as a presentation, longform reading, problem set, or test.&lt;/p&gt;
 
-&lt;p&gt;This &lt;strong&gt;gives teachers a single place to plan curriculum, prepare materials, and manage student activity&lt;/strong&gt;, allowing for more efficient planning and more customized material. In turn, students could access all materials through any device and seamlessly transition between using an iPad at home, TVs or projectors, and their own mobile phones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This gives teachers a single place to plan curriculum, prepare materials, and manage student activity&lt;/strong&gt;, allowing for more efficient planning and more customized material. In turn, students could access all materials through any device and seamlessly transition between using an iPad at home, TVs or projectors, and their own mobile phones.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/gather-sketches.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Better tools can improve education by supercharging the planning process for teachers and giving students access to all materials everywhere.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Better tools can improve education&lt;/strong&gt; by supercharging the planning process for teachers and giving students access to all materials everywhere.&lt;/p&gt;
 
 &lt;div class=&#39;video&#39;&gt;&lt;iframe src=&#39;https://player.vimeo.com/video/41698023?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=3a92c9&#39; frameborder=&#39;0&#39; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 

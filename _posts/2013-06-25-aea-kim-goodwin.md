@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes: <em>Silo-Busting with Scenarios</em> with Kim Goodwin"
+title: "Notes: &ldquo;Silo-Busting with Scenarios&rdquo; with Kim Goodwin"
 permalink: aea-goodwin
 category: blog
 ---

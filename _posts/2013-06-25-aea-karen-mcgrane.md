@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes: <em>The Mobile Content Mandate</em> with Karen McGrane"
+title: "Notes: &ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane"
 permalink: aea-goodwin
 category: blog
 ---
