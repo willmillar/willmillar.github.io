@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-18T03:41:59-04:00</updated>
+ <updated>2014-05-18T03:42:54-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -118,7 +118,7 @@
  
  <entry>
    <title>Interaction Design (CDGD 330) Syllabus</title>
-   <link href="http://willmillar.com/interaction-design-syllabus"/>
+   <link href="http://willmillar.com/ixd-course"/>
    <updated>2013-09-02T00:00:00-04:00</updated>
    <id>http://willmillar.com/interaction-design-course</id>
    <content type="html">&lt;p&gt;Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.&lt;/p&gt;
