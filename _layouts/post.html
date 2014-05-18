@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div class="post 
     {% if page.category == 'blog' %}blog{% endif %} 
     {% if page.category == 'projects' %}projects{% endif %}">
@@ -40,8 +39,10 @@ layout: default
         </h3>
       </li>
     {% endfor %}
+    <li><h3><small><a href="/blog">All posts</a></small></h3></li>
   </ul>
 </div>
+<p class="center-text" ></p>
 {% endif %}
 
 {% if page.category == 'projects' %}

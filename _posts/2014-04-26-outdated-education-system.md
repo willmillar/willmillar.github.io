@@ -14,6 +14,6 @@ Sugata Mitra, Professor of Educational Technology at Newcastle University, from 
 
 > The empire is gone, so what are we doing with that design that produces these identical people, and what are we going to do next if we ever are going to do anything else with it? Schools as we know them are obsolete.
 
-This is exactly where my head was at when I was [thinking about digital learning platforms](/projects/2014/04/09/gather/) at MassArt.
+This is exactly where my head was at when I was [thinking about digital learning platforms](/gather) at MassArt.
 
 Heard on ["Unstoppable Learning"](http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/) on *NPR's TED Radio Hour*.

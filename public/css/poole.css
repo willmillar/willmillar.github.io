@@ -58,6 +58,7 @@ html {
   }
   nav {
     font-size: 1.5rem!important;
+    padding-bottom: 3.5rem!important;
   }
 }
 
@@ -276,7 +277,7 @@ pre code {
 blockquote {
   padding: .75rem 1rem;
   margin: .8rem auto;
-  color: #999;
+  opacity: .7;
   border-left: .25rem solid #eee;
   font-style: italic;
 }
@@ -291,7 +292,7 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   margin: 0 0 1rem;
 }
 
@@ -564,7 +565,7 @@ a.pagination-item:hover {
 nav {
   text-align: center!important;
   font-size: 1.25rem;
-  padding: 1.75rem 0 3rem 0;
+  padding: 1.75rem 0 1.5rem 0;
 }
 
 nav a {

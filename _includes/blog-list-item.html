@@ -1,22 +1,22 @@
- <div class="post">
-   {% if post.picture != null %}
-    <a href="{{ post.url }}">
-      <div class="post-cover" style="padding: 20% 0 2% 0; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .7) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
-        <h2 class="post-title">{{ post.title }}</h2>
-        <span class="post-date">{{ post.date | date: "%B, %Y" }}</span>
-      </div>
-    </a>
-  </div>
-     {% else %}
-       <h2 class="post-title">
-        {% if post.linkout != null %}
-          <a href="{{ post.linkout }}">{{ post.title }}</a> &rarr;
-          {% else %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        {% endif %}
-    {% endif %}
-    </h2>
+<div class="post">
+ {% if post.picture != null %}
+  <a href="{{ post.url }}">
+    <div class="post-cover" style="{% if page.title == 'Home' %}padding-bottom: 18%;{% else %}padding: 18% 0 2% 0;{% endif %} background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .7) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
+      <h2 class="post-title">{{ post.title }}</h2>
+      <span class="post-date">{{ post.date | date: "%B, %Y" }}</span>
+    </div>
+  </a>
+   {% else %}
+     <h2 class="post-title">
+      {% if post.linkout != null %} <a href="{{ post.linkout }}">{{ post.title }}</a> &rarr;
+        {% else %} <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+      </h2>
+  {% endif %}
+  
+  {% if post.picture == null %}
     <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
-    {{ post.excerpt }}
-    {% include read-more.html %}
-  </div>
+  {% endif %}
+  {{ post.excerpt }}
+  {% include read-more.html %}
+</div>

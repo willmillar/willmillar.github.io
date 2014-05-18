@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes: &ldquo;What Clients Don't Know and Why It's Your Fault&rdquo; with Mike Monteiro"
+title: "Notes: &ldquo;What Clients Don&rsquo;t Know and Why It&rsquo;s Your Fault&rdquo; with Mike Monteiro"
 permalink: aea-monteiro
 category: blog
 ---
