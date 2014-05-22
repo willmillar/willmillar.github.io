@@ -1,8 +1,8 @@
 ---
 layout: post
+category: blog
 title: "Designers should be using both iOS and Android daily"
 permalink: daily-android-use
-category: blog
 linkout: http://designnotes.info/?p=8224
 ---
 

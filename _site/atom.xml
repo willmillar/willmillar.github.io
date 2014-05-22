@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-21T23:08:46-04:00</updated>
+ <updated>2014-05-22T19:11:54-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,60 +13,18 @@
 
  
  <entry>
-   <title>Building willmillar.com 4.0 with Jekyll</title>
-   <link href="http://willmillar.com/building-the-site"/>
-   <updated>2014-05-21T23:08:45-04:00</updated>
-   <id>http://willmillar.com/willmillar-com-4-0</id>
-   <content type="html">&lt;p&gt;Goodbye CMS! willmillar.com is now running on static pages built by Jekyll. This means I can design from sketches instead of starting from someone else&amp;rsquo;s templates. Divorcing the content from design was a very powerful change, and I had a great time getting back into code!&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;Jekyll processes my posts into the templates I designed with HTML and &lt;a href=&quot;&quot;&gt;Liquid&lt;/a&gt;. This is ideal for my writing workflow because I can write in human-readable &lt;a href=&quot;&quot;&gt;Markdown&lt;/a&gt; in any text editor. No HTML tags to muck up the document or no stupid CMS WYSIWYG text editor to fight with.&lt;/p&gt;
-
-&lt;p&gt;The process improved my designs, writing, workflow, and throughput. And it was fun! The site built from &lt;a href=&quot;&quot;&gt;Poole&lt;/a&gt; with &lt;a href=&quot;&quot;&gt;Jekyll&lt;/a&gt; on &lt;a href=&quot;&quot;&gt;GitHub Pages&lt;/a&gt; with typography from &lt;a href=&quot;&quot;&gt;Typekit&lt;/a&gt;. No extra plugins or hidden gems.&lt;/p&gt;
-
-&lt;h2&gt;Designing in code&lt;/h2&gt;
-
-&lt;p&gt;While not technically responsive, the site uses single-column design with select media queries to render a speedy and attractive experience on any device.&lt;/p&gt;
-
-&lt;p&gt;I was at &lt;a href=&quot;&quot;&gt;Visualized&lt;/a&gt; and all the brilliant ideas were projects that people coded themselves.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/willmillar-com-4-0-graph.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;Commits to the &lt;a href=&quot;https://github.com/willmillar/willmillar.github.io&quot;&gt;willmillar.github.io&lt;/a&gt; repo over the six weeks of spare time it took to learn Jekyll and Liquid, design and build the site, and write the content&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;Started with sketches. Moved onto visual design. Considered freestyle. Tried Squarespace. Considered Ghost and Wordpress. Landed on Jekyll. Found Poole. Fell in love.&lt;/p&gt;
-
-&lt;h2&gt;Getting started was the hardest part&lt;/h2&gt;
-
-&lt;p&gt;The biggest challenge in the process was getting the plane off the ground! I had whipped up some designs in OmniGraffle for a new site late one night. They sat on my desktop for a couple weeks while I looked into WYSIWYG-style CMSs like &lt;a href=&quot;&quot;&gt;SquareSpace&lt;/a&gt;, new blogging engines like &lt;a href=&quot;&quot;&gt;Ghost&lt;/a&gt;, and traditional CMS systems like &lt;a href=&quot;&quot;&gt;Wordpress&lt;/a&gt;. Eventually, I decided on &lt;a href=&quot;&quot;&gt;Jekyll&lt;/a&gt; for three reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll made me get my hands dirty with code.&lt;/strong&gt; &amp;hellip; and this is important because&amp;hellip;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Working in code gives a designer superpowers.&lt;/strong&gt; Every layer of abstraction above code is a layer of control that you give up as a designer. This is not to say that abstract design tools make poor designs, but should be considered severly limited. Being able to strategically conduct the ebb and flow of a live coded design is a much different skill than making a polished static mockup. I also believe that code skills are more relevant and reusable for web designers than being really good at Photoshop (I speak from experience).&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;It looks like Jekyll is hear to stay&lt;/strong&gt; (at least for a while). GitHub Pages uses Jekyll.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;h2&gt;Inspiration &amp;amp; references&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/li&gt;
-&lt;li&gt;Portfolios, blogs, personal sites I referenced: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process! Nothing good is really done alone.&lt;/p&gt;
+   <title>Designing down and building up</title>
+   <link href="http://willmillar.com/blog/2014/05/22/designvelopment/"/>
+   <updated>2014-05-22T18:48:49-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/22/designvelopment</id>
+   <content type="html">&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
-   <updated>2014-05-20T22:52:29-04:00</updated>
+   <updated>2014-05-22T18:22:02-04:00</updated>
    <id>http://willmillar.com/designers-using-android-ios</id>
    <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
@@ -83,7 +41,7 @@
  <entry>
    <title>Ghost in the Shell & existential questions of identity</title>
    <link href="http://willmillar.com/ghost-in-the-shell"/>
-   <updated>2014-05-20T00:06:44-04:00</updated>
+   <updated>2014-05-22T18:21:09-04:00</updated>
    <id>http://willmillar.com/ghost-in-the-shell</id>
    <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
 
@@ -109,6 +67,67 @@ Face smash gif: http://i.imgur.com/rqofxcS.gif
 Body ripping gif: http://i.imgur.com/JPHEE41.gif
  --&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bad Enterprise Experiences</title>
+   <link href="http://willmillar.com/2014/05/22/bad-enterprise-experiences/"/>
+   <updated>2014-05-22T18:21:05-04:00</updated>
+   <id>http://willmillar.com/2014/05/22/bad-enterprise-experiences</id>
+   <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&#39;s [&quot;UX in the Enterprise: Building Software People Actually Use&quot;](http://www.hugeinc.com/ideas/report/ux-in-the-enterprise) for Huge&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Building willmillar.com 4.0 with Jekyll</title>
+   <link href="http://willmillar.com/building-the-site"/>
+   <updated>2014-05-22T00:00:00-04:00</updated>
+   <id>http://willmillar.com/building-the-site</id>
+   <content type="html">&lt;p&gt;Goodbye CMS! The new willmillar.com is built with code using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. This means I can design from sketches instead of starting from someone else&amp;rsquo;s page templates. Divorcing the content from design was a very powerful change, and I had a great time getting back into code!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;h2&gt;Designing in code&lt;/h2&gt;
+
+&lt;p&gt;&amp;ldquo;Design tools&amp;rdquo; have been defined to me as the page layout programs like InDesign, OmniGraffle, Photoshop, Sketch. These are great for preliminary high-level concepting, but I often find them to be a significant hindrance once your high-level design system is set. I was really excited for a design project where I can &lt;strong&gt;ditch static comps early in the process&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jekyll processes my posts into the templates I designed with HTML and &lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt;. This is ideal for my writing workflow because I can write in human-readable &lt;a href=&quot;http://daringfireball.net/projects/markdown&quot;&gt;Markdown&lt;/a&gt; in any text editor. No HTML tags to muck up the prose, and no stupid CMS WYSIWYG text editor to fight with.&lt;/p&gt;
+
+&lt;p&gt;The process improved my writing, workflow, and throughput. And it was fun and I learned a lot! The site built from &lt;a href=&quot;http://demo.getpoole.com/&quot;&gt;Poole&lt;/a&gt; with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; with typography from &lt;a href=&quot;https://typekit.com/&quot;&gt;Typekit&lt;/a&gt;. No extra plugins or hidden gems.&lt;/p&gt;
+
+&lt;p&gt;While not technically responsive, the site uses &lt;strong&gt;single-column design&lt;/strong&gt; with a few media queries to render a speedy and attractive experience on any device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/willmillar-com-4-0-graph.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Commits to the &lt;a href=&quot;https://github.com/willmillar/willmillar.github.io&quot;&gt;willmillar.github.io&lt;/a&gt; repo over the six weeks of spare time it took to learn Jekyll and Liquid, design and build the site, and write the content&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2&gt;Getting started was the hardest part&lt;/h2&gt;
+
+&lt;p&gt;The biggest challenge in the process was getting the plane off the ground! I had whipped up some designs in OmniGraffle for a new site late one night. They sat on my desktop for a couple weeks while I looked into WYSIWYG-style CMSs like SquareSpace, new blogging engines like &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;, and traditional CMS systems like Wordpress. Eventually, I decided on Jekyll for three reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll made me get my hands dirty with code.&lt;/strong&gt; Given my hangups with the traditional design process of developing detailed mockups, I figured I should try a project where I design in code to see if the grass is really greener. It&amp;rsquo;s time to eat my own dogfood, right?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Working in code gives a designer superpowers.&lt;/strong&gt; Every layer of abstraction is a layer of control that you give up as a designer. This is not to say that high-level design tools make poor designs, but they should be considered severly limited. Conducting the ebb and flow of a live site is a much different skill than making a polished static mockup. I also believe that code skills are more relevant and reusable for web designers than being really good at Photoshop (I speak from experience).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;It looks like Jekyll is hear to stay&lt;/strong&gt; (at least for a while). &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; uses Jekyll, and there is a very active community.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2&gt;Inspiration &amp;amp; references&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/li&gt;
+&lt;li&gt;Portfolios, blogs, personal sites I referenced: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process!&lt;/p&gt;
 </content>
  </entry>
  
