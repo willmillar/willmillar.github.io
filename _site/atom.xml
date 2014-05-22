@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-18T03:42:54-04:00</updated>
+ <updated>2014-05-21T23:08:46-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,63 +13,102 @@
 
  
  <entry>
-   <title>The Existential TKTKTK of <em>Ghost in the Shell</em></title>
-   <link href="http://willmillar.com/ghost-in-the-shell"/>
-   <updated>2014-05-18T02:34:04-04:00</updated>
-   <id>http://willmillar.com/ghost-in-the-shell</id>
-   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
-
-&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;https://24.media.tumblr.com/634c88ea340ed7660dc49a630c6c694e/tumblr_n5mkl6PVtX1tv5nh6o1_500.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&amp;ldquo;We shall destroy the self image.&amp;rdquo;&lt;/small&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Building willmillar.com 4.0 with Jekyll</title>
    <link href="http://willmillar.com/building-the-site"/>
-   <updated>2014-05-17T20:38:26-04:00</updated>
+   <updated>2014-05-21T23:08:45-04:00</updated>
    <id>http://willmillar.com/willmillar-com-4-0</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Goodbye CMS! willmillar.com is now running on static pages built by Jekyll. This means I can design from sketches instead of starting from someone else&amp;rsquo;s templates. Divorcing the content from design was a very powerful change, and I had a great time getting back into code!&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Jekyll processes my posts into the templates I designed with HTML and &lt;a href=&quot;&quot;&gt;Liquid&lt;/a&gt;. This is ideal for my writing workflow because I can write in human-readable &lt;a href=&quot;&quot;&gt;Markdown&lt;/a&gt; in any text editor. No HTML tags to muck up the document or no stupid CMS WYSIWYG text editor to fight with.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://demo.getpoole.com/&quot;&gt;Poole&lt;/a&gt; by &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Otto&lt;/a&gt; &amp;ldquo;provide[s] a clear and concise foundational setup for any Jekyll site &amp;hellip; by furnishing a full vanilla install with example templates, pages, posts, and styles.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The process improved my designs, writing, workflow, and throughput. And it was fun! The site built from &lt;a href=&quot;&quot;&gt;Poole&lt;/a&gt; with &lt;a href=&quot;&quot;&gt;Jekyll&lt;/a&gt; on &lt;a href=&quot;&quot;&gt;GitHub Pages&lt;/a&gt; with typography from &lt;a href=&quot;&quot;&gt;Typekit&lt;/a&gt;. No extra plugins or hidden gems.&lt;/p&gt;
 
 &lt;h2&gt;Designing in code&lt;/h2&gt;
 
+&lt;p&gt;While not technically responsive, the site uses single-column design with select media queries to render a speedy and attractive experience on any device.&lt;/p&gt;
+
+&lt;p&gt;I was at &lt;a href=&quot;&quot;&gt;Visualized&lt;/a&gt; and all the brilliant ideas were projects that people coded themselves.&lt;/p&gt;
+
 &lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/willmillar-com-4-0-graph.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Commits to the &lt;a href=&quot;https://github.com/willmillar/willmillar.github.io&quot;&gt;willmillar.github.io&lt;/a&gt; repo over the six weeks of spare time it took to learn Jekyll and Liquid, design and build the site, and write the content&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Started with sketches. Moved onto visual design. Considered freestyle. Tried Squarespace. Considered Ghost and Wordpress. Landed on Jekyll. Found Poole. Fell in love.&lt;/p&gt;
+
+&lt;h2&gt;Getting started was the hardest part&lt;/h2&gt;
+
+&lt;p&gt;The biggest challenge in the process was getting the plane off the ground! I had whipped up some designs in OmniGraffle for a new site late one night. They sat on my desktop for a couple weeks while I looked into WYSIWYG-style CMSs like &lt;a href=&quot;&quot;&gt;SquareSpace&lt;/a&gt;, new blogging engines like &lt;a href=&quot;&quot;&gt;Ghost&lt;/a&gt;, and traditional CMS systems like &lt;a href=&quot;&quot;&gt;Wordpress&lt;/a&gt;. Eventually, I decided on &lt;a href=&quot;&quot;&gt;Jekyll&lt;/a&gt; for three reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll made me get my hands dirty with code.&lt;/strong&gt; &amp;hellip; and this is important because&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Working in code gives a designer superpowers.&lt;/strong&gt; Every layer of abstraction above code is a layer of control that you give up as a designer. This is not to say that abstract design tools make poor designs, but should be considered severly limited. Being able to strategically conduct the ebb and flow of a live coded design is a much different skill than making a polished static mockup. I also believe that code skills are more relevant and reusable for web designers than being really good at Photoshop (I speak from experience).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;It looks like Jekyll is hear to stay&lt;/strong&gt; (at least for a while). GitHub Pages uses Jekyll.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
 
 &lt;h2&gt;Inspiration &amp;amp; references&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/li&gt;
+&lt;li&gt;Portfolios, blogs, personal sites I referenced: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Reference portfolios, blogs, personal sites: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process!&lt;/p&gt;
+&lt;p&gt;Also thanks to my friends and colleagues for their input during the design process! Nothing good is really done alone.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
-   <updated>2014-05-17T18:29:09-04:00</updated>
-   <id>http://willmillar.com/bilingual-design</id>
-   <content type="html">&lt;p&gt;Designing for mobile without familiarity to Android design is as bad as designing a reponsive site without familiarity to mobile design.&lt;/p&gt;
+   <updated>2014-05-20T22:52:29-04:00</updated>
+   <id>http://willmillar.com/designers-using-android-ios</id>
+   <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;A designer needs to keep up with best practices. Best practices aren’t just on one platform.&lt;/p&gt;
 
 &lt;p&gt;I’ve become a better designer because I have learned to see what the best of both systems offers (and worst practices).&lt;/p&gt;
 
-&lt;p&gt;Only using one platform and not the other makes it hard on a designer to learn new design patterns.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Only using one platform and not the other makes it hard on a designer to learn new design patterns.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Michael Surtees&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ghost in the Shell & existential questions of identity</title>
+   <link href="http://willmillar.com/ghost-in-the-shell"/>
+   <updated>2014-05-20T00:06:44-04:00</updated>
+   <id>http://willmillar.com/ghost-in-the-shell</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
+
+&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I watched &lt;em&gt;Ghost in the Shell&lt;/em&gt; again for the first time in 10 years and found it much more satisfying. As a teenager, I thought the philosophical themes were &amp;ldquo;really cool,&amp;rdquo; but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper gendered cyborgs to ask questions about the differences between cognition and human life.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
+
+&lt;p&gt;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Major Kusanagi&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;!-- 
+Face smash gif: http://i.imgur.com/rqofxcS.gif
+Body ripping gif: http://i.imgur.com/JPHEE41.gif
+ --&gt;
+
 </content>
  </entry>
  

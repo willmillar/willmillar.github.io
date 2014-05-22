@@ -5,8 +5,8 @@ layout: default
 <div class="post 
     {% if page.category == 'blog' %}blog{% endif %} 
     {% if page.category == 'projects' %}projects{% endif %}">
-    {% include nav.html %}
     <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
+    {% include nav.html %}
       {% if page.linkout != null %}
         <h1 class="post-title"><a href="{{ page.linkout }}">{{ page.title }}</a> &rarr;</h1>
         {% else %}

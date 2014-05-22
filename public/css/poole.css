@@ -281,6 +281,9 @@ blockquote {
   border-left: .25rem solid #eee;
   font-style: italic;
 }
+blockquote small {
+  font-style: normal;
+}
 blockquote p:last-child {
   margin-bottom: 0;
 }
