@@ -30,13 +30,13 @@ The biggest challenge in the process was getting the plane off the ground! I had
 
 1. **Jekyll made me get my hands dirty with code.** Given my hangups with the traditional design process of developing detailed mockups, I figured I should try a project where I design in code to see if the grass is really greener. It's time to eat my own dogfood, right?
 
-- **Working in code gives a designer superpowers.** Every layer of abstraction is a layer of control that you give up as a designer. This is not to say that high-level design tools make poor designs, but they should be considered severly limited. Conducting the ebb and flow of a live site is a much different skill than making a polished static mockup. I also believe that code skills are more relevant and reusable for web designers than being really good at Photoshop (I speak from experience).
+- **Working in code gives a designer superpowers.** Every layer of abstraction is a layer of control that you give up as a designer. This is not to say that high-level design tools make poor designs, but they should be considered as limited. Conducting the ebb and flow of a live site is a much different skill than making a polished static mockup. My experience has found code skills to be more relevant and reusable for a web designer than being really good at Photoshop.
 
 - **It looks like Jekyll is hear to stay** (at least for a while). [GitHub Pages](https://pages.github.com/) uses Jekyll, and there is a very active community.
 
 ## Inspiration & references
 
 - ["Refuse to Create a UX Portfolio"](https://medium.com/digital-product-design/a44f802fee11) by Timothy Gaeger via Medium
-- Portfolios, blogs, personal sites I referenced: [jonwiley.com](http://www.jonwiley.com/index.html), [marco.org](http://www.marco.org/), [daringfireball.net](http://daringfireball.net/), [veen.com/jeff](http://veen.com/jeff/), [markdotto.com](http://markdotto.com/), [jeffvlahos.com](http://jeffvlahos.com/), [nathanhass.com]("http://nathanhass.com/"), [jpboneyard.com](http://jpboneyard.com/), [emilybrick.me](http://emilybrick.me/)
+- Portfolios, blogs, personal sites I referenced: [jonwiley.com](http://www.jonwiley.com/index.html), [marco.org](http://www.marco.org/), [daringfireball.net](http://daringfireball.net/), [veen.com/jeff](http://veen.com/jeff/), [adactio.com](http://adactio.com/), [markdotto.com](http://markdotto.com/), [jeffvlahos.com](http://jeffvlahos.com/), [nathanhass.com]("http://nathanhass.com/"), [jpboneyard.com](http://jpboneyard.com/), [emilybrick.me](http://emilybrick.me/)
 
 Also thanks to my friends and colleagues for their input during the design process!

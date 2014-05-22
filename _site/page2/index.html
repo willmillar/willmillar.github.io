@@ -40,20 +40,27 @@
   ga('send', 'pageview');
   </script>
 
-<!-- Adding Image Captions via Alt Text -->
-  <script>
-    var showCaptions = function () {
-    var caption;
-    $('img').each(function () {
-      caption = $(this).attr('alt');
-      if (caption !== '')
-        // use .before to insert the caption before the image
-        $(this).after('<caption">' + caption + '</caption>');
-      });
-    }
+<!-- OG data for Facebook, Twitter, etc. -->
 
-    showCaptions();
-  </script>
+<meta content="Will Millar" property="og:site_name">
+
+  <meta content="Home" property="og:title">
+
+
+  <meta content="article" property="og:type">
+
+
+  <meta content="Empathetic design for better experiences" property="og:description">
+
+
+  <meta content="http://willmillar.com/page2/" property="og:url">
+
+
+
+  <meta content="http://willmillar.com/images/portrait.jpg">
+
+
+
 
 </head>
 
