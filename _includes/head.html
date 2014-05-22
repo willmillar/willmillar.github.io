@@ -65,7 +65,7 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.picture %}
-  <meta content="{{ site.url }}/images/{{ page.picture }}" property="og:image">
+  <meta content="{{ site.url }}{{ page.picture }}" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/portrait.jpg">
 {% endif %}
