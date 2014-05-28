@@ -2,8 +2,8 @@
 layout: post
 category: blog
 title: Ghost in the Shell & existential questions of identity
-permalink: ghost-in-the-shell
-picture: http://i.imgur.com/DP2LYgA.gif
+permalink: ghost-shell
+picture: /images/ghost-shell-invisible.gif
 ---
 
 > Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.

@@ -4,13 +4,45 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-27T21:26:13-04:00</updated>
+ <updated>2014-05-27T21:37:00-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Ghost in the Shell & existential questions of identity</title>
+   <link href="http://willmillar.com/ghost-shell"/>
+   <updated>2014-05-27T21:36:12-04:00</updated>
+   <id>http://willmillar.com/ghost-in-the-shell</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
+
+&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I watched &lt;em&gt;Ghost in the Shell&lt;/em&gt; again for the first time in 10 years and found it much more satisfying. As a teenager, I thought the philosophical themes were &amp;ldquo;really cool,&amp;rdquo; but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper gendered cyborgs to ask questions about the differences between cognition and human life.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
+
+&lt;p&gt;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Major Kusanagi&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;!-- 
+Face smash gif: http://i.imgur.com/rqofxcS.gif
+Body ripping gif: http://i.imgur.com/JPHEE41.gif
+ --&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Bad enterprise experiences: Where do they come from?</title>
@@ -65,38 +97,6 @@
    <updated>2014-05-22T18:48:49-04:00</updated>
    <id>http://willmillar.com/blog/2014/05/22/designvelopment</id>
    <content type="html">&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Ghost in the Shell & existential questions of identity</title>
-   <link href="http://willmillar.com/ghost-in-the-shell"/>
-   <updated>2014-05-22T18:21:09-04:00</updated>
-   <id>http://willmillar.com/ghost-in-the-shell</id>
-   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
-
-&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;I watched &lt;em&gt;Ghost in the Shell&lt;/em&gt; again for the first time in 10 years and found it much more satisfying. As a teenager, I thought the philosophical themes were &amp;ldquo;really cool,&amp;rdquo; but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper gendered cyborgs to ask questions about the differences between cognition and human life.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/small&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
-
-&lt;p&gt;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;Major Kusanagi&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!-- 
-Face smash gif: http://i.imgur.com/rqofxcS.gif
-Body ripping gif: http://i.imgur.com/JPHEE41.gif
- --&gt;
-
 </content>
  </entry>
  

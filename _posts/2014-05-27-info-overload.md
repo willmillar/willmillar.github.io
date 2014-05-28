@@ -4,7 +4,7 @@ category: blog
 title: "Information overload: How much are we really learning?"
 permalink: info-overload
 linkout: http://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html
-picture: http://i.imgur.com/yriQQir.gif
+picture: /images/info-overload-tabs.gif
 ---
 
  <p class="byline">Image via Jennifer Daniel from *The New York Times*</p>
