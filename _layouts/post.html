@@ -14,6 +14,9 @@ layout: default
       {% endif %}
       <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
     </div>
+    {% if page.picture-caption != null %}
+      <p><small>{{ page.picture-caption }}</small></p>
+    {% endif %}
   {{ content }}
 
   {% if page.linkout != null %}

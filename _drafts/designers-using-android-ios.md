@@ -14,4 +14,4 @@ Designing for mobile without understanding Android design is as bad as designing
 
 > Only using one platform and not the other makes it hard on a designer to learn new design patterns.
 
-> <small>Michael Surtees</small>
+> <p class="byline">Michael Surtees</p>

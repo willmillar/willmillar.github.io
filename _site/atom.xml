@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-22T22:35:48-04:00</updated>
+ <updated>2014-05-27T21:19:06-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,18 +13,22 @@
 
  
  <entry>
-   <title>Designing down and building up</title>
-   <link href="http://willmillar.com/blog/2014/05/22/designvelopment/"/>
-   <updated>2014-05-22T18:48:49-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/22/designvelopment</id>
-   <content type="html">&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
+   <title>Bad enterprise experiences: Where do they come from?</title>
+   <link href="http://willmillar.com/bad-enterprise-experiences"/>
+   <updated>2014-05-27T21:15:07-04:00</updated>
+   <id>http://willmillar.com/bad-enterprise-experiences</id>
+   <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&amp;rsquo;s &lt;a href=&quot;http://www.hugeinc.com/ideas/report/ux-in-the-enterprise&quot;&gt;&amp;ldquo;UX in the Enterprise: Building Software People Actually Use&amp;rdquo;&lt;/a&gt; for Huge&lt;/p&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
-   <updated>2014-05-22T18:22:02-04:00</updated>
+   <updated>2014-05-27T21:08:24-04:00</updated>
    <id>http://willmillar.com/designers-using-android-ios</id>
    <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
@@ -34,7 +38,31 @@
 
 &lt;p&gt;Only using one platform and not the other makes it hard on a designer to learn new design patterns.&lt;/p&gt;
 
-&lt;p&gt;&lt;small&gt;Michael Surtees&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;p class=&quot;byline&quot;&gt;Michael Surtees&lt;/p&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Information overload: How much are we really learning?</title>
+   <link href="http://willmillar.com/info-overload"/>
+   <updated>2014-05-27T00:00:00-04:00</updated>
+   <id>http://willmillar.com/info-overload</id>
+   <content type="html">&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Image via Jennifer Daniel from &lt;em&gt;The New York Times&lt;/em&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re either the smartest or the dumbest we&amp;rsquo;ve ever been. Karl Taro Greenfield on &amp;ldquo;Faking Cultural Literacy&amp;rdquo; in his &lt;em&gt;New York Times&lt;/em&gt; op-ed:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;What matters to us, awash in petabytes of data, is not necessarily having actually consumed this content firsthand but simply knowing that it exists — and having a position on it, being able to engage in the chatter about it. &lt;strong&gt;We come perilously close to performing a pastiche of knowledgeability that is really a new model of know-nothingness&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Brilliant and terrifying.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Designing down and building up</title>
+   <link href="http://willmillar.com/blog/2014/05/22/designvelopment/"/>
+   <updated>2014-05-22T18:48:49-04:00</updated>
+   <id>http://willmillar.com/blog/2014/05/22/designvelopment</id>
+   <content type="html">&lt;p&gt;&amp;hellip; starting with &amp;ldquo;Hello world&amp;rdquo; and building up was so much different than starting with a final mockup and building down&amp;hellip;&lt;/p&gt;
 </content>
  </entry>
  
@@ -66,20 +94,6 @@
 Face smash gif: http://i.imgur.com/rqofxcS.gif
 Body ripping gif: http://i.imgur.com/JPHEE41.gif
  --&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Bad Enterprise Experiences</title>
-   <link href="http://willmillar.com/2014/05/22/bad-enterprise-experiences/"/>
-   <updated>2014-05-22T18:21:05-04:00</updated>
-   <id>http://willmillar.com/2014/05/22/bad-enterprise-experiences</id>
-   <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&#39;s [&quot;UX in the Enterprise: Building Software People Actually Use&quot;](http://www.hugeinc.com/ideas/report/ux-in-the-enterprise) for Huge&lt;/p&gt;
 
 </content>
  </entry>

@@ -136,6 +136,11 @@ h6 {
   margin-top: 1rem;
 }
 
+.byline {
+  font-size: smaller;
+  opacity: .75;
+}
+
 /* Body text */
 p, li, ul, ol, blockquote, h3, h4, h5, h6, .video {
   margin: 0rem auto 1rem auto;
@@ -349,10 +354,6 @@ tbody tr:nth-child(odd) th {
 
 .center-text {
   text-align: center;
-}
-
-.post small {
-  opacity: .75;
 }
 
 #footer {

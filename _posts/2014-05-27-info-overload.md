@@ -1,12 +1,13 @@
 ---
-published: false
 layout: post
 category: blog
-title: ""
-linkout: "http://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html?smid=fb-share&_r=0"
-picture: "http://i.imgur.com/yriQQir.gif"
-"picture-caption": Jennifer Daniel via New York Times
+title: "Information overload: How much are we really learning?"
+permalink: info-overload
+linkout: http://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html
+picture: http://i.imgur.com/yriQQir.gif
 ---
+
+ <p class="byline">Image via Jennifer Daniel from *The New York Times*</p>
 
 We're either the smartest or the dumbest we've ever been. Karl Taro Greenfield on "Faking Cultural Literacy" in his *New York Times* op-ed:
 

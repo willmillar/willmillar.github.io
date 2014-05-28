@@ -1,6 +1,7 @@
 ---
 layout: post
 category: blog
+tag: 
 title: 'Bad enterprise experiences: Where do they come from?'
 permalink: bad-enterprise-experiences
 linkout: http://www.subtraction.com/2007/10/19/if-it-looks-/
@@ -10,4 +11,4 @@ Khoi Vinh, from his 2007 post, ["If It Looks Like a Cow, Swims Like a Dolphin an
 
 > Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.
 
-*Discovered via Rachel Kaplowitz's ["UX in the Enterprise: Building Software People Actually Use"](http://www.hugeinc.com/ideas/report/ux-in-the-enterprise) for Huge*
+ <p class="byline">Discovered via Rachel Kaplowitz's ["UX in the Enterprise: Building Software People Actually Use"](http://www.hugeinc.com/ideas/report/ux-in-the-enterprise) for Huge</p>
