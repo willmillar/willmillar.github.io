@@ -1,13 +1,13 @@
 ---
 layout: post
+category: blog
 title: "Notes: &ldquo;Silo-Busting with Scenarios&rdquo; with Kim Goodwin"
 permalink: aea-goodwin
-category: blog
 ---
 
 Kim Goodwin, VP of UX at [Patients Like Me](http://www.patientslikeme.com/), former VP of UX at [Cooper](http://www.cooper.com/) on how "silos have been engineered to ignore one another" and scenarios help designers and organizations **"define problems as your users do"**
 
-*From her talk "Silo-Busting with Scenarios" at An Event Apart Boston 2013*
+ <p class="byline">From her talk "Silo-Busting with Scenarios" at An Event Apart Boston 2013</p>
 
 <!--more-->
 

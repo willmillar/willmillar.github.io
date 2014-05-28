@@ -1,7 +1,6 @@
 ---
 layout: post
 category: blog
-tag: 
 title: 'Bad enterprise experiences: Where do they come from?'
 permalink: bad-enterprise-experiences
 linkout: http://www.subtraction.com/2007/10/19/if-it-looks-/

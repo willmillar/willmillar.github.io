@@ -1,8 +1,8 @@
 ---
 layout: project
+category: projects
 title: Various motion graphics
 permalink: motion-graphics
-category: projects
 picture: /images/sense-cover.jpg
 ---
 

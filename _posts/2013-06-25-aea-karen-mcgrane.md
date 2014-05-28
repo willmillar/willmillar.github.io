@@ -1,13 +1,13 @@
 ---
 layout: post
+category: blog
 title: "Notes: &ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane"
 permalink: aea-goodwin
-category: blog
 ---
 
 Karen McGrane, author of [*Content Strategy for Mobile*](http://www.abookapart.com/products/content-strategy-for-mobile) on why **"there's no such thing as 'how to write for mobile.' There's just good writing."**
 
-*From her talk "The Mobile Content Mandate" at An Event Apart Boston 2013*
+ <p class="byline">From her talk "The Mobile Content Mandate" at An Event Apart Boston 2013</p>
 
 <!--more-->
 

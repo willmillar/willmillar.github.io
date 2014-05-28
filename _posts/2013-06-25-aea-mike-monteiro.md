@@ -1,15 +1,15 @@
 ---
 layout: post
+category: blog
 title: "Notes: &ldquo;What Clients Don&rsquo;t Know and Why It&rsquo;s Your Fault&rdquo; with Mike Monteiro"
 permalink: aea-monteiro
-category: blog
 ---
 
 Mike Monteiro of Mule Design and ["Fuck You Pay Me"](https://www.youtube.com/watch?v=jVkLVRt6c1U) on the role of designers and empathy for our clients:
 
 > "[As a designer] you're going to spend 90% of your time convincing people that the shit you thought of in the shower is right."
 
-*From his talk "What Client's Don't Know and Why It's Your Fault" at An Event Apart Boston 2013*
+ <p class="byline">From his talk "What Client's Don't Know and Why It's Your Fault" at An Event Apart Boston 2013</p>
 
 <!--more-->
 

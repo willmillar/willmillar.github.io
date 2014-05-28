@@ -1,8 +1,8 @@
 ---
 layout: post
+category: blog
 title: A Design Career Primer
 permalink: design-careers
-category: blog
 ---
 
 Since graduating MassArt, I get semi-regular requests for **advice to design students looking to get traction in the professional world**. I love to meet with other young designers, but I also wanted to summarize what knowledge I've picked up so far to younger students to helpfully improve understanding of their professional possibilities.

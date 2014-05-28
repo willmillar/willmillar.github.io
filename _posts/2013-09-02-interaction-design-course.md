@@ -1,8 +1,8 @@
 ---
 layout: post
+category: blog
 title: Interaction Design (CDGD 330) Syllabus
 permalink: ixd-course
-category: blog
 ---
 
 Basics in user-centered design, concepts, methodologies, and tools. Site mapping, wireframing, user personas, and flows for effective, innovative experiences.

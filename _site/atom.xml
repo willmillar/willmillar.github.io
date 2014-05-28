@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-28T00:08:57-04:00</updated>
+ <updated>2014-05-28T00:17:36-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,10 +13,23 @@
 
  
  <entry>
+   <title>Bad enterprise experiences: Where do they come from?</title>
+   <link href="http://willmillar.com/bad-enterprise-experiences"/>
+   <updated>2014-05-28T00:13:07-04:00</updated>
+   <id>http://willmillar.com/bad-enterprise-experiences</id>
+   <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&amp;rsquo;s &lt;a href=&quot;http://www.hugeinc.com/ideas/report/ux-in-the-enterprise&quot;&gt;&amp;ldquo;UX in the Enterprise: Building Software People Actually Use&amp;rdquo;&lt;/a&gt; for Huge&lt;/p&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Indie web philosphy: Why I want to own my content</title>
-   <link href="http://willmillar.com/blog/2014/05/27/indie-web/"/>
+   <link href="http://willmillar.com/blog/2014/05/27/1-indie-web/"/>
    <updated>2014-05-27T22:06:16-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/27/indie-web</id>
+   <id>http://willmillar.com/blog/2014/05/27/1-indie-web</id>
    <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
 </content>
  </entry>
@@ -25,7 +38,7 @@
    <title>Ghost in the Shell & existential questions of identity</title>
    <link href="http://willmillar.com/ghost-shell"/>
    <updated>2014-05-27T21:36:12-04:00</updated>
-   <id>http://willmillar.com/ghost-in-the-shell</id>
+   <id>http://willmillar.com/3-ghost-in-the-shell</id>
    <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
 
 &lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
@@ -54,23 +67,10 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Bad enterprise experiences: Where do they come from?</title>
-   <link href="http://willmillar.com/bad-enterprise-experiences"/>
-   <updated>2014-05-27T21:15:07-04:00</updated>
-   <id>http://willmillar.com/bad-enterprise-experiences</id>
-   <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&amp;rsquo;s &lt;a href=&quot;http://www.hugeinc.com/ideas/report/ux-in-the-enterprise&quot;&gt;&amp;ldquo;UX in the Enterprise: Building Software People Actually Use&amp;rdquo;&lt;/a&gt; for Huge&lt;/p&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
    <updated>2014-05-27T21:08:24-04:00</updated>
-   <id>http://willmillar.com/designers-using-android-ios</id>
+   <id>http://willmillar.com/2-designers-using-android-ios</id>
    <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;A designer needs to keep up with best practices. Best practices aren’t just on one platform.&lt;/p&gt;
@@ -195,7 +195,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
 
 &lt;p&gt;This is exactly where my head was at when I was &lt;a href=&quot;/gather&quot;&gt;thinking about digital learning platforms&lt;/a&gt; at MassArt.&lt;/p&gt;
 
-&lt;p&gt;Heard on &lt;a href=&quot;http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/&quot;&gt;&amp;ldquo;Unstoppable Learning&amp;rdquo;&lt;/a&gt; on &lt;em&gt;NPR&amp;rsquo;s TED Radio Hour&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Heard on &lt;a href=&quot;http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/&quot;&gt;&amp;ldquo;Unstoppable Learning&amp;rdquo;&lt;/a&gt; on &lt;em&gt;NPR&amp;rsquo;s TED Radio Hour&lt;/em&gt;.&lt;/p&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -324,7 +324,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
 
 &lt;blockquote&gt;&lt;p&gt;&amp;ldquo;[As a designer] you&amp;rsquo;re going to spend 90% of your time convincing people that the shit you thought of in the shower is right.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;From his talk &amp;ldquo;What Client&amp;rsquo;s Don&amp;rsquo;t Know and Why It&amp;rsquo;s Your Fault&amp;rdquo; at An Event Apart Boston 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;From his talk &amp;ldquo;What Client&amp;rsquo;s Don&amp;rsquo;t Know and Why It&amp;rsquo;s Your Fault&amp;rdquo; at An Event Apart Boston 2013&lt;/p&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -424,7 +424,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <id>http://willmillar.com/aea-kim-goodwin</id>
    <content type="html">&lt;p&gt;Kim Goodwin, VP of UX at &lt;a href=&quot;http://www.patientslikeme.com/&quot;&gt;Patients Like Me&lt;/a&gt;, former VP of UX at &lt;a href=&quot;http://www.cooper.com/&quot;&gt;Cooper&lt;/a&gt; on how &amp;ldquo;silos have been engineered to ignore one another&amp;rdquo; and scenarios help designers and organizations &lt;strong&gt;&amp;ldquo;define problems as your users do&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;From her talk &amp;ldquo;Silo-Busting with Scenarios&amp;rdquo; at An Event Apart Boston 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;From her talk &amp;ldquo;Silo-Busting with Scenarios&amp;rdquo; at An Event Apart Boston 2013&lt;/p&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -600,7 +600,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <id>http://willmillar.com/aea-karen-mcgrane</id>
    <content type="html">&lt;p&gt;Karen McGrane, author of &lt;a href=&quot;http://www.abookapart.com/products/content-strategy-for-mobile&quot;&gt;&lt;em&gt;Content Strategy for Mobile&lt;/em&gt;&lt;/a&gt; on why &lt;strong&gt;&amp;ldquo;there&amp;rsquo;s no such thing as &amp;lsquo;how to write for mobile.&amp;rsquo; There&amp;rsquo;s just good writing.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;From her talk &amp;ldquo;The Mobile Content Mandate&amp;rdquo; at An Event Apart Boston 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;From her talk &amp;ldquo;The Mobile Content Mandate&amp;rdquo; at An Event Apart Boston 2013&lt;/p&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -742,7 +742,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <id>http://willmillar.com/aea-jared-spool</id>
    <content type="html">&lt;p&gt;Jared Spool of &lt;a href=&quot;http://www.uie.com/&quot;&gt;UIE&lt;/a&gt; and the &lt;a href=&quot;http://centercentre.com/&quot;&gt;Center Centre&lt;/a&gt; on how the skills that define the &lt;strong&gt;best designers&lt;/strong&gt; are &lt;strong&gt;storytelling, critiquing, sketching, presenting, and facilitating&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;From his talk &amp;ldquo;It&amp;rsquo;s a Great Time to Be an Experience Designer&amp;rdquo; at An Event Apart Boston 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;From his talk &amp;ldquo;It&amp;rsquo;s a Great Time to Be an Experience Designer&amp;rdquo; at An Event Apart Boston 2013&lt;/p&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 

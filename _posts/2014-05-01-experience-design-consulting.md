@@ -1,8 +1,8 @@
 ---
 layout: project
+category: projects
 title: Experience design consulting
 permalink: experience-design-consulting
-category: projects
 picture: /images/consulting.jpg
 ---
 

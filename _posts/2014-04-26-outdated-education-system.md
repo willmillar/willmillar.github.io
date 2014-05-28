@@ -16,4 +16,4 @@ Sugata Mitra, Professor of Educational Technology at Newcastle University, from 
 
 This is exactly where my head was at when I was [thinking about digital learning platforms](/gather) at MassArt.
 
-Heard on ["Unstoppable Learning"](http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/) on *NPR's TED Radio Hour*.
+ <p class="byline">Heard on ["Unstoppable Learning"](http://blog.ted.com/2013/05/03/ted-radio-hour-presents-unstoppable-learning/) on *NPR's TED Radio Hour*.</p>

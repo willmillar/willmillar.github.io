@@ -1,13 +1,13 @@
 ---
 layout: post
+category: blog
 title: "Notes: &ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool"
 permalink: aea-spool
-category: blog
 ---
 
 Jared Spool of [UIE](http://www.uie.com/) and the [Center Centre](http://centercentre.com/) on how the skills that define the **best designers** are **storytelling, critiquing, sketching, presenting, and facilitating**.
 
-*From his talk "It's a Great Time to Be an Experience Designer" at An Event Apart Boston 2013*
+ <p class="byline">From his talk "It's a Great Time to Be an Experience Designer" at An Event Apart Boston 2013</p>
 
 <!--more-->
 
