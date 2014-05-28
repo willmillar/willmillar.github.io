@@ -18,7 +18,7 @@ Jekyll processes my posts into the templates I designed with HTML and [Liquid](h
 
 The process improved my writing, workflow, and throughput. And it was fun and I learned a lot! The site built from [Poole](http://demo.getpoole.com/) with [Jekyll](http://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/) with typography from [Typekit](https://typekit.com/). No extra plugins or hidden gems.
 
-While not technically responsive, the site uses **single-column design** with a few media queries to render a speedy and attractive experience on any device.
+While not technically responsive, the site uses **single-column design** with a few media queries to render a speedy and attractive experience on almost any device.
 
 ![](/images/willmillar-com-4-0-graph.png)
 
@@ -26,13 +26,13 @@ While not technically responsive, the site uses **single-column design** with a 
 
 ## Getting started was the hardest part
 
-The biggest challenge in the process was getting the plane off the ground! I had whipped up some designs in OmniGraffle for a new site late one night. They sat on my desktop for a couple weeks while I looked into WYSIWYG-style CMSs like SquareSpace, new blogging engines like [Ghost](https://ghost.org/), and traditional CMS systems like Wordpress. Eventually, I decided on Jekyll for three reasons:
+The biggest challenge in the process was getting the plane off the ground! I had whipped up some designs in OmniGraffle for a new site late one night. They sat on my desktop for a couple weeks while I looked into WYSIWYG-style CMSs like SquareSpace, new blogging engines like [Ghost](https://ghost.org/), and traditional CMS systems like Wordpress. Eventually, I decided on Jekyll:
 
 1. **Jekyll made me get my hands dirty with code.** Given my hangups with the traditional design process of developing detailed mockups, I figured I should try a project where I design in code to see if the grass is really greener. It's time to eat my own dogfood, right?
 
 - **Working in code gives a designer superpowers.** Every layer of abstraction is a layer of control that you give up as a designer. This is not to say that high-level design tools make poor designs, but they should be considered as limited. Conducting the ebb and flow of a live site is a much different skill than making a polished static mockup. My experience has found code skills to be more relevant and reusable for a web designer than being really good at Photoshop.
 
-- **It looks like Jekyll is hear to stay** (at least for a while). [GitHub Pages](https://pages.github.com/) uses Jekyll, and there is a very active community.
+- **It looks like Jekyll is here to stay** (at least for a while). [GitHub Pages](https://pages.github.com/) uses Jekyll, and there is a very active community.
 
 ## Inspiration & references
 
