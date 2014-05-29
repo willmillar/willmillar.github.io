@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-28T23:28:32-04:00</updated>
+ <updated>2014-05-28T23:29:53-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,24 +13,20 @@
 
  
  <entry>
-   <title>1 Indie Web</title>
-   <link href="http://willmillar.com/2014/05/28/1-indie-web/"/>
-   <updated>2014-05-28T23:28:32-04:00</updated>
-   <id>http://willmillar.com/2014/05/28/1-indie-web</id>
+   <title>Why I write on my own site</title>
+   <link href="http://willmillar.com/indie-web"/>
+   <updated>2014-05-28T23:29:53-04:00</updated>
+   <id>http://willmillar.com/1-indie-web</id>
    <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 
 &lt;h2&gt;Integrating with other services&lt;/h2&gt;
 
-&lt;h1&gt;&lt;a href=&quot;https://www.brid.gy/&quot;&gt;Brid.gy&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.brid.gy/&quot;&gt;Brid.gy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Now that Facebook has &lt;a href=&quot;http://www.theverge.com/2014/5/27/5754862/facebook-gives-up-on-automatically-sharing-everything-you-do-online-open-graph&quot;&gt;admitted that no one wants activity autoposted&lt;/a&gt; to their timeline&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;p&gt;FETCH_HEAD&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
 </content>
  </entry>
  
