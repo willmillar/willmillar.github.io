@@ -38,6 +38,6 @@ The biggest challenge in the process was getting the plane off the ground! I had
 ## Inspiration & references
 
 - **["Refuse to Create a UX Portfolio"](https://medium.com/digital-product-design/a44f802fee11)** by Timothy Gaeger via Medium
-- Portfolios, blogs, personal sites I referenced: [bradfrostweb.com](http://bradfrostweb.com/) [jonwiley.com](http://www.jonwiley.com/index.html), [marco.org](http://www.marco.org/), [daringfireball.net](http://daringfireball.net/), [veen.com/jeff](http://veen.com/jeff/), [adactio.com](http://adactio.com/), [markdotto.com](http://markdotto.com/), [jeffvlahos.com](http://jeffvlahos.com/), [nathanhass.com]("http://nathanhass.com/"), [jpboneyard.com](http://jpboneyard.com/), [emilybrick.me](http://emilybrick.me/)
+- Portfolios, blogs, personal sites I referenced: [bradfrostweb.com](http://bradfrostweb.com/) [jonwiley.com](http://www.jonwiley.com/index.html), [marco.org](http://www.marco.org/), [daringfireball.net](http://daringfireball.net/), [veen.com/jeff](http://veen.com/jeff/), [adactio.com](http://adactio.com/), [zenhabits.net](http://zenhabits.net/), [leobabauta.com](http://leobabauta.com/), [danisa.com](http://www.danisa.com/), [markdotto.com](http://markdotto.com/), [jeffvlahos.com](http://jeffvlahos.com/), [nathanhass.com]("http://nathanhass.com/"), [jpboneyard.com](http://jpboneyard.com/), [emilybrick.me](http://emilybrick.me/)
 
 Also thanks to my friends and colleagues for their input during the design process!
