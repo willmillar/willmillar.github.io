@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-28T23:26:56-04:00</updated>
+ <updated>2014-05-28T23:28:32-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,9 +13,31 @@
 
  
  <entry>
+   <title>1 Indie Web</title>
+   <link href="http://willmillar.com/2014/05/28/1-indie-web/"/>
+   <updated>2014-05-28T23:28:32-04:00</updated>
+   <id>http://willmillar.com/2014/05/28/1-indie-web</id>
+   <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;h2&gt;Integrating with other services&lt;/h2&gt;
+
+&lt;h1&gt;&lt;a href=&quot;https://www.brid.gy/&quot;&gt;Brid.gy&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Now that Facebook has &lt;a href=&quot;http://www.theverge.com/2014/5/27/5754862/facebook-gives-up-on-automatically-sharing-everything-you-do-online-open-graph&quot;&gt;admitted that no one wants activity autoposted&lt;/a&gt; to their timeline&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;p&gt;FETCH_HEAD&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Why is enterprise software so bad?</title>
    <link href="http://willmillar.com/bad-enterprise-experiences"/>
-   <updated>2014-05-28T23:24:51-04:00</updated>
+   <updated>2014-05-28T23:28:31-04:00</updated>
    <id>http://willmillar.com/bad-enterprise-experiences</id>
    <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
 
@@ -26,25 +48,9 @@
  </entry>
  
  <entry>
-   <title>Why I write on my own site</title>
-   <link href="http://willmillar.com/indie-web"/>
-   <updated>2014-05-28T23:23:34-04:00</updated>
-   <id>http://willmillar.com/1-indie-web</id>
-   <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;h2&gt;Integrating with other services&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.brid.gy/&quot;&gt;Brid.gy&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
-   <updated>2014-05-28T23:14:56-04:00</updated>
+   <updated>2014-05-28T23:28:31-04:00</updated>
    <id>http://willmillar.com/2-designers-using-android-ios</id>
    <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
@@ -61,7 +67,7 @@
  <entry>
    <title>Ghost in the Shell & existential questions of identity</title>
    <link href="http://willmillar.com/ghost-shell"/>
-   <updated>2014-05-28T23:13:31-04:00</updated>
+   <updated>2014-05-28T23:28:31-04:00</updated>
    <id>http://willmillar.com/1-ghost-in-the-shell</id>
    <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
 
