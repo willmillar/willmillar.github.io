@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: A Design Career Primer
+subtitle: "What I've learned"
 permalink: design-careers
 ---
 

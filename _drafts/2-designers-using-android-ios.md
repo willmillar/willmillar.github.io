@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: "Designers should be using both iOS and Android daily"
+subtitle: Design language fluency
 permalink: daily-android-use
 linkout: http://designnotes.info/?p=8224
 ---

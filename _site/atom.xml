@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-05-28T00:17:36-04:00</updated>
+ <updated>2014-05-28T23:26:56-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,63 +13,38 @@
 
  
  <entry>
-   <title>Bad enterprise experiences: Where do they come from?</title>
+   <title>Why is enterprise software so bad?</title>
    <link href="http://willmillar.com/bad-enterprise-experiences"/>
-   <updated>2014-05-28T00:13:07-04:00</updated>
+   <updated>2014-05-28T23:24:51-04:00</updated>
    <id>http://willmillar.com/bad-enterprise-experiences</id>
    <content type="html">&lt;p&gt;Khoi Vinh, from his 2007 post, &lt;a href=&quot;http://www.subtraction.com/2007/10/19/if-it-looks-/&quot;&gt;&amp;ldquo;If It Looks Like a Cow, Swims Like a Dolphin and Quacks Like a Duck, It Must Be Enterprise Software&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are concerned primarily with stability, security and the continual justification of their jobs and staffs, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;Shielded away from the bright scrutiny of the consumer marketplace and beholden only to a relatively small coterie of information technology managers who are &lt;strong&gt;concerned primarily with stability, security and the continual justification of their jobs and staffs&lt;/strong&gt;, enterprise software answers to few actual users.&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;p&gt; &lt;p class=&quot;byline&quot;&gt;Discovered via Rachel Kaplowitz&amp;rsquo;s &lt;a href=&quot;http://www.hugeinc.com/ideas/report/ux-in-the-enterprise&quot;&gt;&amp;ldquo;UX in the Enterprise: Building Software People Actually Use&amp;rdquo;&lt;/a&gt; for Huge&lt;/p&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Indie web philosphy: Why I want to own my content</title>
-   <link href="http://willmillar.com/blog/2014/05/27/1-indie-web/"/>
-   <updated>2014-05-27T22:06:16-04:00</updated>
-   <id>http://willmillar.com/blog/2014/05/27/1-indie-web</id>
+   <title>Why I write on my own site</title>
+   <link href="http://willmillar.com/indie-web"/>
+   <updated>2014-05-28T23:23:34-04:00</updated>
+   <id>http://willmillar.com/1-indie-web</id>
    <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Ghost in the Shell & existential questions of identity</title>
-   <link href="http://willmillar.com/ghost-shell"/>
-   <updated>2014-05-27T21:36:12-04:00</updated>
-   <id>http://willmillar.com/3-ghost-in-the-shell</id>
-   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
-
-&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;I watched &lt;em&gt;Ghost in the Shell&lt;/em&gt; again for the first time in 10 years and found it much more satisfying. As a teenager, I thought the philosophical themes were &amp;ldquo;really cool,&amp;rdquo; but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper gendered cyborgs to ask questions about the differences between cognition and human life.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Integrating with other services&lt;/h2&gt;
 
-&lt;p&gt;&lt;small&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/small&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
-
-&lt;p&gt;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;Major Kusanagi&lt;/small&gt;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!-- 
-Face smash gif: http://i.imgur.com/rqofxcS.gif
-Body ripping gif: http://i.imgur.com/JPHEE41.gif
- --&gt;
-
+&lt;p&gt;&lt;a href=&quot;https://www.brid.gy/&quot;&gt;Brid.gy&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Designers should be using both iOS and Android daily</title>
    <link href="http://willmillar.com/daily-android-use"/>
-   <updated>2014-05-27T21:08:24-04:00</updated>
+   <updated>2014-05-28T23:14:56-04:00</updated>
    <id>http://willmillar.com/2-designers-using-android-ios</id>
    <content type="html">&lt;p&gt;Designing for mobile without understanding Android design is as bad as designing a reponsive site without understanding mobile design.&lt;/p&gt;
 
@@ -84,7 +59,39 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Information overload: How much are we really learning?</title>
+   <title>Ghost in the Shell & existential questions of identity</title>
+   <link href="http://willmillar.com/ghost-shell"/>
+   <updated>2014-05-28T23:13:31-04:00</updated>
+   <id>http://willmillar.com/1-ghost-in-the-shell</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Major Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.&lt;/p&gt;
+
+&lt;p&gt;Puppet Master: There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I rewatched &lt;em&gt;Ghost in the Shell&lt;/em&gt; (twice) for the first time in 10 years and couldn&amp;rsquo;t find it any more satisfying. As a teenager, I thought the philosophical themes were &amp;ldquo;cool,&amp;rdquo; but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper-gendered cyborgs to ask questions about the differences between cognition and human life.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
+
+&lt;p&gt;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&quot;byline&quot;&gt;Major Kusanagi&lt;/p&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;!-- 
+Face smash gif: http://i.imgur.com/rqofxcS.gif
+Body ripping gif: http://i.imgur.com/JPHEE41.gif
+ --&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How much are we really learning?</title>
    <link href="http://willmillar.com/info-overload"/>
    <updated>2014-05-27T00:00:00-04:00</updated>
    <id>http://willmillar.com/info-overload</id>
@@ -147,8 +154,8 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
 &lt;h2&gt;Inspiration &amp;amp; references&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt; by Timothy Gaeger via Medium&lt;/li&gt;
-&lt;li&gt;Portfolios, blogs, personal sites I referenced: &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://adactio.com/&quot;&gt;adactio.com&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/digital-product-design/a44f802fee11&quot;&gt;&amp;ldquo;Refuse to Create a UX Portfolio&amp;rdquo;&lt;/a&gt;&lt;/strong&gt; by Timothy Gaeger via Medium&lt;/li&gt;
+&lt;li&gt;Portfolios, blogs, personal sites I referenced: &lt;a href=&quot;http://bradfrostweb.com/&quot;&gt;bradfrostweb.com&lt;/a&gt; &lt;a href=&quot;http://www.jonwiley.com/index.html&quot;&gt;jonwiley.com&lt;/a&gt;, &lt;a href=&quot;http://www.marco.org/&quot;&gt;marco.org&lt;/a&gt;, &lt;a href=&quot;http://daringfireball.net/&quot;&gt;daringfireball.net&lt;/a&gt;, &lt;a href=&quot;http://veen.com/jeff/&quot;&gt;veen.com/jeff&lt;/a&gt;, &lt;a href=&quot;http://adactio.com/&quot;&gt;adactio.com&lt;/a&gt;, &lt;a href=&quot;http://markdotto.com/&quot;&gt;markdotto.com&lt;/a&gt;, &lt;a href=&quot;http://jeffvlahos.com/&quot;&gt;jeffvlahos.com&lt;/a&gt;, &lt;a href=&quot;&quot; title=&quot;http://nathanhass.com/&quot;&gt;nathanhass.com&lt;/a&gt;, &lt;a href=&quot;http://jpboneyard.com/&quot;&gt;jpboneyard.com&lt;/a&gt;, &lt;a href=&quot;http://emilybrick.me/&quot;&gt;emilybrick.me&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -200,7 +207,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Interaction Design (CDGD 330) Syllabus</title>
+   <title>Interaction Design (CDGD 330)</title>
    <link href="http://willmillar.com/ixd-course"/>
    <updated>2013-09-02T00:00:00-04:00</updated>
    <id>http://willmillar.com/interaction-design-course</id>
@@ -270,7 +277,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
 &lt;h2&gt;Text and Required Supplies&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.sensible.com/dmmt.html&quot;&gt;&lt;strong&gt;&lt;em&gt;Don’t Make Me Think: A Common Sense Approach to Web Usability&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; by
+&lt;li&gt;&lt;a href=&quot;http://www.sensible.com/dmmt.html&quot;&gt;&lt;strong&gt;&lt;em&gt;Don’t Make Me Think: A Common Sense Approach to Web Usability&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; by Steve Krug
 
 &lt;ul&gt;
 &lt;li&gt;Available as eBook from &lt;a href=&quot;http://bit.ly/15a5Uh6&quot;&gt;iBooks ($16)&lt;/a&gt; or &lt;a href=&quot;http://amzn.to/15a60VW&quot;&gt;Kindle ($16)&lt;/a&gt;; or paperback from &lt;a href=&quot;http://amzn.to/1aFAMOD&quot;&gt;Amazon ($25)&lt;/a&gt;&lt;/li&gt;
@@ -316,7 +323,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Notes: &ldquo;What Clients Don&rsquo;t Know and Why It&rsquo;s Your Fault&rdquo; with Mike Monteiro</title>
+   <title>&ldquo;What Clients Don&rsquo;t Know and Why It&rsquo;s Your Fault&rdquo; with Mike Monteiro</title>
    <link href="http://willmillar.com/aea-monteiro"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-mike-monteiro</id>
@@ -418,7 +425,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Notes: &ldquo;Silo-Busting with Scenarios&rdquo; with Kim Goodwin</title>
+   <title>&ldquo;Silo-Busting with Scenarios&rdquo; with Kim Goodwin</title>
    <link href="http://willmillar.com/aea-goodwin"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-kim-goodwin</id>
@@ -594,7 +601,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Notes: &ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane</title>
+   <title>&ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane</title>
    <link href="http://willmillar.com/aea-goodwin"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-karen-mcgrane</id>
@@ -736,7 +743,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Notes: &ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool</title>
+   <title>&ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool</title>
    <link href="http://willmillar.com/aea-spool"/>
    <updated>2013-06-25T00:00:00-04:00</updated>
    <id>http://willmillar.com/aea-jared-spool</id>

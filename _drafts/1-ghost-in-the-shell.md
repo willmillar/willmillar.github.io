@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Ghost in the Shell & existential questions of identity
+subtitle: Film & theory
 permalink: ghost-shell
 picture: /images/ghost-shell-invisible.gif
 ---
@@ -10,19 +11,19 @@ picture: /images/ghost-shell-invisible.gif
 
 > Puppet Master: There isn't one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.
 
-I watched *Ghost in the Shell* again for the first time in 10 years and found it much more satisfying. As a teenager, I thought the philosophical themes were "really cool," but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper gendered cyborgs to ask questions about the differences between cognition and human life.
+I rewatched *Ghost in the Shell* (twice) for the first time in 10 years and couldn't find it any more satisfying. As a teenager, I thought the philosophical themes were "cool," but now I find them worthy of deep thought and serious reflection. I was amazed at how the film uses artificial intelligence and hyper-gendered cyborgs to ask questions about the differences between cognition and human life.
 
 <!--more-->
 
 ![](http://i.imgur.com/wgkaZcq.jpg)
 
-<small>"Where does the newborn go from here? The net is vast and infinite."</small>
+ <p class="byline">"Where does the newborn go from here? The net is vast and infinite."</p>
 
 > Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.
 
 > All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.
 
-> <small>Major Kusanagi</small>
+> <p class="byline">Major Kusanagi</p>
 
 <!-- 
 Face smash gif: http://i.imgur.com/rqofxcS.gif

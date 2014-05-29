@@ -1,7 +1,8 @@
 ---
 layout: post
 category: blog
-title: "Information overload: How much are we really learning?"
+title: "How much are we really learning?"
+subtitle: Information overload
 permalink: info-overload
 linkout: http://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html
 picture: /images/info-overload-tabs.gif

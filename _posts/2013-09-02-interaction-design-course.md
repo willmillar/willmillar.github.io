@@ -1,7 +1,8 @@
 ---
 layout: post
 category: blog
-title: Interaction Design (CDGD 330) Syllabus
+title: Interaction Design (CDGD 330)
+subtitle: Course syllabus
 permalink: ixd-course
 ---
 
@@ -48,7 +49,7 @@ We will be **working together in a professional context on "real world" projects
 - **Methodology** (Practices)
 
 ## Text and Required Supplies
-1. [***Don’t Make Me Think: A Common Sense Approach to Web Usability***](http://www.sensible.com/dmmt.html) by 
+1. [***Don’t Make Me Think: A Common Sense Approach to Web Usability***](http://www.sensible.com/dmmt.html) by Steve Krug
 	- Available as eBook from [iBooks ($16)](http://bit.ly/15a5Uh6) or [Kindle ($16)](http://amzn.to/15a60VW); or paperback from [Amazon ($25)](http://amzn.to/1aFAMOD)
 - [**Schoology**][schoology]
 	- Course materials and reference

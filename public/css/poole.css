@@ -356,6 +356,11 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
+.subtitle {
+  margin-bottom: 0;
+  color: rgba(90, 90, 90, .8);
+}
+
 #footer {
   background-color: #fff;
   margin-top: 3.5rem;
@@ -482,7 +487,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: .25rem;
   margin-bottom: 1rem;
-  color: rgba(90, 90, 90, .8);
+  color: rgba(90, 90, 90, .6);
   text-align: center;
 }
 

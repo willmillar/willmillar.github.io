@@ -8,8 +8,14 @@ layout: default
     <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
     {% include nav.html %}
       {% if page.linkout != null %}
+        {% if page.subtitle != null %}
+          <p class="center-text subtitle">{{ page.subtitle }}</p>
+        {% endif %}
         <h1 class="post-title"><a href="{{ page.linkout }}">{{ page.title }}</a> &rarr;</h1>
         {% else %}
+          {% if page.subtitle != null %}
+            <p class="center-text subtitle">{{ page.subtitle }}</p>
+          {% endif %}
           <h1 class="post-title">{{ page.title }}</h1>
       {% endif %}
       <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>

@@ -1,7 +1,8 @@
 ---
 layout: post
 category: blog
-title: "Notes: &ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool"
+title: "&ldquo;It&rsquo;s a Great Time to be an Experience Designer&rdquo; with Jared Spool"
+subtitle: Conference notes
 permalink: aea-spool
 ---
 

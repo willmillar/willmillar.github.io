@@ -1,7 +1,8 @@
 ---
 layout: post
 category: blog
-title: "Notes: &ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane"
+title: "&ldquo;The Mobile Content Mandate&rdquo; with Karen McGrane"
+subtitle: Conference notes
 permalink: aea-goodwin
 ---
 
