@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "Building willmillar.com 4.0 with Jekyll"
-subtitle: My process
+subtitle: My designvelopment process
 permalink: building-the-site
 picture: /images/website-and-pizza.jpg
 ---

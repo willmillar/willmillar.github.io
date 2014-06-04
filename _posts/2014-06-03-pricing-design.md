@@ -7,7 +7,7 @@ permalink: pricing-design
 linkout: http://www.freshtilledsoil.com/what-a-website-or-web-app-should-actually-cost/
 ---
 
- <p class="lead">I've always been fascinated with the *science* of pricing web/design work, but I've come to believe it's much more of a *dark art*. While the problem is largely unsolved in the industry, Richard Banfield, co-fouder of [Fresh Tilled Soil](http://www.freshtilledsoil.com/), wrote a great article that demystifies the current scheme and propopses a more helpful approach.</p>
+ <p class="lead">I've always been fascinated with the *science* of pricing web/design work, but I've come to believe it's much more of a *dark art*. While the problem is largely unsolved in the industry, Richard Banfield, co-fouder of [Fresh Tilled Soil](http://www.freshtilledsoil.com/), wrote a [great article](http://www.freshtilledsoil.com/what-a-website-or-web-app-should-actually-cost/) that demystifies the current scheme and propopses a more helpful approach.</p>
 
 Banfield argues that the "person hour" may not be the golden metric we've been pretending it is:
 
