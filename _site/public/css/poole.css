@@ -95,6 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 3rem;
+  margin-bottom: 1rem!important;
   text-align: center;
 }
 h2 {
@@ -127,9 +128,12 @@ h6 {
     font-size: 1.5rem;
     margin-top: 2rem!important;
   }
-  .lead {
+  .tagline {
     font-size: 1.75rem!important;
     margin-bottom: 1.5rem!important;
+  }
+  .lead {
+    font-size: 1rem!important;
   }
 }
 .projects h2 {
@@ -333,7 +337,17 @@ tbody tr:nth-child(odd) th {
  * Extend paragraphs with `.lead` for larger introductory text.
  */
 
-.lead {
+ .lead {
+  text-align: center;
+  font-size: 1.25rem;
+  max-width: 28rem;
+  opacity: .75;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+ }
+
+.tagline {
   font-size: 2.25rem;
   font-weight: 700;
   margin-top: 20%;
@@ -357,6 +371,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .subtitle {
+  font-size: 1.25rem;
   margin-bottom: 0;
   color: rgba(90, 90, 90, .8);
 }
