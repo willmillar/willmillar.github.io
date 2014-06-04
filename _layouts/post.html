@@ -42,10 +42,11 @@ layout: default
       <li>
         <h3>
           <a href="{{ post.url }}">
-            {{ post.title }}</br>
-            <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-          </a>
-        </h3>
+            {{ post.title }}</a></h3>
+          {% if post.subtitle != null %}
+            <p class="center-text subtitle">{{ post.subtitle }}</p>
+          {% endif %}
+          <p>{{ post.date | date: "%B %-d, %Y" }}</p>
       </li>
     {% endfor %}
     <li><h3><small><a href="/blog">All posts</a></small></h3></li>
