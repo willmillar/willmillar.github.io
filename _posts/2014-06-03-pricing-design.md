@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: How much does a website cost?
+title: What does a website cost?
 subtitle: The dark art of pricing
 permalink: pricing-design
 linkout: http://www.freshtilledsoil.com/what-a-website-or-web-app-should-actually-cost/
