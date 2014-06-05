@@ -10,7 +10,7 @@
       {% if post.subtitle != null %}
         <p class="center-text subtitle">{{ post.subtitle }}</p>
       {% endif %}
-      <span class="post-date">{{ post.date | date: "%B, %Y" }}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
+      <span class="post-date">{{ post.date | date: "%B %-d, %Y"}}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
     </div>
   </a>
    {% else %}
@@ -25,7 +25,7 @@
   {% endif %}
   
   {% if post.picture == null %}
-    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y"}}{% if post.linkout != null %} <a title="Permalink" href="{{ post.url }}">&bull;</a>{% endif %}</span>
   {% endif %}
   {{ post.excerpt }}
   {% include read-more.html %}

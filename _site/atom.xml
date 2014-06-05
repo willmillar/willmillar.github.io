@@ -4,13 +4,98 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-06-03T22:09:10-04:00</updated>
+ <updated>2014-06-04T22:18:21-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Escalating Solutions, Not Problems</title>
+   <link href="http://willmillar.com/blog/2014/06/04/escalating-solutions/"/>
+   <updated>2014-06-04T21:51:02-04:00</updated>
+   <id>http://willmillar.com/blog/2014/06/04/escalating-solutions</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trouble in hamburger icon paradise</title>
+   <link href="http://willmillar.com/blog/2014/06/04/1-hamburger-icon/"/>
+   <updated>2014-06-04T21:03:29-04:00</updated>
+   <id>http://willmillar.com/blog/2014/06/04/1-hamburger-icon</id>
+   <content type="html">&lt;!-- https://medium.com/@gavinelliott/the-hamburger-icon-f2c42f858630 --&gt;
+
+
+&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;It&amp;rsquo;s the morning after, and we designers are waking up next to three obscure horizontal lines. Known by its street names, the &amp;ldquo;hamburger,&amp;rdquo; &amp;ldquo;pancakes,&amp;rdquo; or &amp;ldquo;meat stack&amp;rdquo; icon spread through mainstream UI like wildfire, and now we&amp;rsquo;re second guessing ourselves &lt;a href=&quot;TKTKTK&quot;&gt;for good reason&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;In our defense, we were drunk on &lt;a href=&quot;TKTKTK&quot;&gt;responsive patterns&lt;/a&gt; and thought we were doing the right thing. In fact, I have recommended hamburger-based mobile navigation on all of my professional projects thusfar. At the time, the designers loved it, the clients loved it, and the devolopers had no trouble with them. Everyone&amp;rsquo;s happy, right?&lt;/p&gt;
+
+&lt;h2&gt;Hamburger icon navigation hides your content&lt;/h2&gt;
+
+&lt;p&gt;The tide seems to be turning on these hide-everything pull-out menus. Several influential &lt;a href=&quot;TKTKTK&quot;&gt;analytics reports&lt;/a&gt; and &lt;a href=&quot;TKTKTK&quot;&gt;usability studies&lt;/a&gt; have shown that this approach dramatically decreases use of the items inside these menus. This is why I now fancy calling it a &lt;em&gt;feature-hider&lt;/em&gt; instead of a &lt;em&gt;menu icon&lt;/em&gt;. You are taking &lt;em&gt;all&lt;/em&gt; of your valuable content and functionality, and hiding it behind an obscure icon. Oops!&lt;/p&gt;
+
+&lt;h2&gt;We&amp;rsquo;ve been through this before&lt;/h2&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t a new problem in design. If you can remember last time, we got drunk on &lt;a href=&quot;TKTKTK&quot;&gt;carousels&lt;/a&gt;. They solved the problem of &amp;ldquo;too much stuff, not enough space.&amp;rdquo; However, they end up burying everything beyond the first page, and they are &lt;a href=&quot;TKTKTK&quot;&gt;not recommended&lt;/a&gt; as a usability best practice.&lt;/p&gt;
+
+&lt;p&gt;Instead of the hard task of defining 2–3 critical actions or desitations,&lt;/p&gt;
+
+&lt;h2&gt;Designer-centered design&lt;/h2&gt;
+
+&lt;!-- carousels --&gt;
+
+
+&lt;p&gt;The problem with the hamburger icon is that it solves the navigation problem on the designer&amp;rsquo;s and the business&amp;rsquo;s terms, not the user&amp;rsquo;s terms.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;As designers, we’ve taken to use the icon in applications and responsive web design to represent navigation, menus and extra information and if that’s been done because it was ‘trendy’ in our own world then I’m sorry but we need to stop and pause for a moment.&lt;/p&gt;
+
+&lt;p&gt;Our users want the most important things in our app’s and websites to visible so they can be used and navigated without it being confusing. Let’s not just throw that stuff behind an ‘that’ icon because everyone else is doing it.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ghost in the Shell & existential questions of identity</title>
+   <link href="http://willmillar.com/ghost-shell"/>
+   <updated>2014-06-04T20:45:06-04:00</updated>
+   <id>http://willmillar.com/1-ghost-in-the-shell</id>
+   <content type="html">&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;I rewatched &lt;em&gt;Ghost in the Shell&lt;/em&gt; for the first time in 10 years and found it so satisfying. As a teenager, I thought the &lt;a href=&quot;TKTKTK&quot;&gt;philosophical themes&lt;/a&gt; were &amp;ldquo;cool,&amp;rdquo; but now they really blow my mind.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;TK identity TK&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;You talk about redefining my identity. I want a guarantee that I can still be myself.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. &lt;strong&gt;Your effort to remain what you are is what limits you.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence and hyper-gendered cyborgs ared used to ask questions about the TKTKTK difference between cognition and human life TKTKTK. Is self identity uniquie to humankind? TK copies TK&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rqofxcS.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&amp;ldquo;A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality.&lt;/strong&gt; Life perpetuates itself through diversity. And this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration, until one day they die, obliterating an entire set of memory and information. Only genes remain.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Why continually repeat this cycle?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Simply to survive by avoiding the weaknesses of an unchanging system.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;!-- 
+Body ripping gif: http://i.imgur.com/JPHEE41.gif
+ --&gt;
+
+
+&lt;p&gt; &lt;!-- &gt; &amp;ldquo;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&amp;rdquo; &amp;ndash;&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What does a website cost?</title>
@@ -50,7 +135,7 @@
    <title>Why I write on my own site</title>
    <link href="http://willmillar.com/indie-web"/>
    <updated>2014-05-30T23:05:59-04:00</updated>
-   <id>http://willmillar.com/1-indie-web</id>
+   <id>http://willmillar.com/2-indie-web</id>
    <content type="html">&lt;p&gt;I think at this point, everyone knows how much I love &lt;a href=&quot;&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;Facebook&lt;/a&gt;, and various other online services&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;This folder of text files (Markdown) is kind of like my notebook that I can easily point to on social networks sometimes.&lt;/p&gt;
@@ -67,44 +152,6 @@
 &lt;h2&gt;A longer lifespan for your content&lt;/h2&gt;
 
 &lt;p&gt;Content older than 2&amp;ndash;3 days on Facebook or Twitter is effectively dead. If your material is relevant for more than a couple days, posting only to social media is a missed opportunity to promote your recent work. &amp;ldquo;More reading&amp;rdquo; links on blog pages &lt;a href=&quot;&quot;&gt;have proven&lt;/a&gt; to be quite effective.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Ghost in the Shell & existential questions of identity</title>
-   <link href="http://willmillar.com/ghost-shell"/>
-   <updated>2014-05-30T23:04:27-04:00</updated>
-   <id>http://willmillar.com/1-ghost-in-the-shell</id>
-   <content type="html">&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;You talk about redefining my identity. I want a guarantee that I can still be myself.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. &lt;strong&gt;Your effort to remain what you are is what limits you.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Recently I rewatched &lt;em&gt;Ghost in the Shell&lt;/em&gt; for the first time in 10 years and found it very satisfying. As a teenager, I thought the &lt;a href=&quot;&quot;&gt;philosophical themes&lt;/a&gt; were &amp;ldquo;cool,&amp;rdquo; but now they really blow my mind. Artificial intelligence and hyper-gendered cyborgs ared used to ask questions about the TK difference between cognition and human life TK. Is self identity uniquie to humankind?&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rqofxcS.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&amp;ldquo;A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality.&lt;/strong&gt; Life perpetuates itself through diversity. And this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration, until one day they die, obliterating an entire set of memory and information. Only genes remain.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Why continually repeat this cycle?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Simply to survive by avoiding the weaknesses of an unchanging system.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!-- 
-Face smash gif: http://i.imgur.com/rqofxcS.gif
-Body ripping gif: http://i.imgur.com/JPHEE41.gif
- --&gt;
-
 </content>
  </entry>
  
