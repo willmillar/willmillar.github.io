@@ -6,7 +6,9 @@ subtitle: Navigation that works for everyone except users
 ---
 <!-- https://medium.com/@gavinelliott/the-hamburger-icon-f2c42f858630 -->
 
- <p class="lead">It's the morning after, and we designers are waking up next to three obscure horizontal lines. Known by its street names, the "hamburger," "pancakes," or "meat stack" icon spread through mainstream UI like wildfire, and now we're second guessing ourselves [for good reason](TKTKTK).</p>
+ <p class="lead">It's the morning after, and we designers are waking up next to three obscure horizontal lines. Known by its street names, the "hamburger," "pancakes," or ["meat stack"](TKTKTK) icon spread through mainstream UI like wildfire, and now we're second guessing ourselves [for good reason](TKTKTK).</p>
+
+<!--more-->
 
 In our defense, we were drunk on [responsive patterns](TKTKTK) and thought we were doing the right thing. In fact, I have recommended hamburger-based mobile navigation on all of my professional projects thusfar. At the time, the designers loved it, the clients loved it, and the devolopers had no trouble with them. Everyone's happy, right?
 

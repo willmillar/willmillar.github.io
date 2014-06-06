@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-06-04T22:18:21-04:00</updated>
+ <updated>2014-06-05T20:56:15-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,23 +13,59 @@
 
  
  <entry>
-   <title>Escalating Solutions, Not Problems</title>
-   <link href="http://willmillar.com/blog/2014/06/04/escalating-solutions/"/>
-   <updated>2014-06-04T21:51:02-04:00</updated>
-   <id>http://willmillar.com/blog/2014/06/04/escalating-solutions</id>
-   <content type="html">
+   <title>Ghost in the Shell & existential questions of identity</title>
+   <link href="http://willmillar.com/ghost-shell"/>
+   <updated>2014-06-05T00:00:00-04:00</updated>
+   <id>http://willmillar.com/ghost-in-the-shell</id>
+   <content type="html">&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;Rewatching &lt;em&gt;Ghost in the Shell&lt;/em&gt; after 10 years was incredibly satisfying &amp;mdash; a true visual masterpiece. As a teenager, I thought the &lt;a href=&quot;http://en.wikipedia.org/wiki/Philosophy_of_Ghost_in_the_Shell&quot;&gt;philosophical themes&lt;/a&gt; were &amp;ldquo;cool,&amp;rdquo; but now they really blow my mind.&lt;/p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;em&gt;Ghost in the Shell&lt;/em&gt; is the film the Wachowskis showed their producer when they pitched &lt;em&gt;The Matrix&lt;/em&gt;, saying &lt;a href=&quot;http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)#Cultural_impact&quot;&gt;&amp;ldquo;we want to do this for real.&amp;rdquo;&lt;/a&gt; Artificial intelligence and hyper-gendered cyborgs ared used to ask questions about the difference between sentience and human life. Is self identity uniquie to humankind?&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;You talk about redefining my identity. I want a guarantee that I can still be myself.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. &lt;strong&gt;Your effort to remain what you are is what limits you.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rqofxcS.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Technical replication-based systems are shown to be powerful and efficient in 2029, but lack the originality and preciousness of organic growth-based systems. Impermanence and imperfection may not be ideal, but they also keep us new, fun, and different.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&amp;ldquo;A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality.&lt;/strong&gt; Life perpetuates itself through diversity. And this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration, until one day they die, obliterating an entire set of memory and information. Only genes remain.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Why continually repeat this cycle?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Simply to survive by avoiding the weaknesses of an unchanging system.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Watch &lt;em&gt;Ghost in the Shell&lt;/em&gt; (1995) on &lt;a href=&quot;http://www.hulu.com/watch/371717&quot;&gt;Hulu&lt;/a&gt; or &lt;a href=&quot;https://play.google.com/store/movies/details/Ghost_In_the_Shell?id=TNgXMjMttoI&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- 
+Body ripping gif: http://i.imgur.com/JPHEE41.gif
+
+ &gt; &quot;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.
+
+&gt; &quot;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&quot; --&gt;
+
 </content>
  </entry>
  
  <entry>
    <title>Trouble in hamburger icon paradise</title>
    <link href="http://willmillar.com/blog/2014/06/04/1-hamburger-icon/"/>
-   <updated>2014-06-04T21:03:29-04:00</updated>
+   <updated>2014-06-04T22:20:28-04:00</updated>
    <id>http://willmillar.com/blog/2014/06/04/1-hamburger-icon</id>
    <content type="html">&lt;!-- https://medium.com/@gavinelliott/the-hamburger-icon-f2c42f858630 --&gt;
 
 
-&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;It&amp;rsquo;s the morning after, and we designers are waking up next to three obscure horizontal lines. Known by its street names, the &amp;ldquo;hamburger,&amp;rdquo; &amp;ldquo;pancakes,&amp;rdquo; or &amp;ldquo;meat stack&amp;rdquo; icon spread through mainstream UI like wildfire, and now we&amp;rsquo;re second guessing ourselves &lt;a href=&quot;TKTKTK&quot;&gt;for good reason&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;It&amp;rsquo;s the morning after, and we designers are waking up next to three obscure horizontal lines. Known by its street names, the &amp;ldquo;hamburger,&amp;rdquo; &amp;ldquo;pancakes,&amp;rdquo; or &lt;a href=&quot;TKTKTK&quot;&gt;&amp;ldquo;meat stack&amp;rdquo;&lt;/a&gt; icon spread through mainstream UI like wildfire, and now we&amp;rsquo;re second guessing ourselves &lt;a href=&quot;TKTKTK&quot;&gt;for good reason&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
 
 &lt;p&gt;In our defense, we were drunk on &lt;a href=&quot;TKTKTK&quot;&gt;responsive patterns&lt;/a&gt; and thought we were doing the right thing. In fact, I have recommended hamburger-based mobile navigation on all of my professional projects thusfar. At the time, the designers loved it, the clients loved it, and the devolopers had no trouble with them. Everyone&amp;rsquo;s happy, right?&lt;/p&gt;
 
@@ -57,43 +93,11 @@
  </entry>
  
  <entry>
-   <title>Ghost in the Shell & existential questions of identity</title>
-   <link href="http://willmillar.com/ghost-shell"/>
-   <updated>2014-06-04T20:45:06-04:00</updated>
-   <id>http://willmillar.com/1-ghost-in-the-shell</id>
-   <content type="html">&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;I rewatched &lt;em&gt;Ghost in the Shell&lt;/em&gt; for the first time in 10 years and found it so satisfying. As a teenager, I thought the &lt;a href=&quot;TKTKTK&quot;&gt;philosophical themes&lt;/a&gt; were &amp;ldquo;cool,&amp;rdquo; but now they really blow my mind.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;TK identity TK&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;You talk about redefining my identity. I want a guarantee that I can still be myself.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;There isn&amp;rsquo;t one. Why would you wish to? All things change in a dynamic environment. &lt;strong&gt;Your effort to remain what you are is what limits you.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wgkaZcq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;p class=&quot;byline&quot;&gt;&amp;ldquo;Where does the newborn go from here? The net is vast and infinite.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Artificial intelligence and hyper-gendered cyborgs ared used to ask questions about the TKTKTK difference between cognition and human life TKTKTK. Is self identity uniquie to humankind? TK copies TK&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rqofxcS.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&amp;ldquo;A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality.&lt;/strong&gt; Life perpetuates itself through diversity. And this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration, until one day they die, obliterating an entire set of memory and information. Only genes remain.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Why continually repeat this cycle?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Simply to survive by avoiding the weaknesses of an unchanging system.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;!-- 
-Body ripping gif: http://i.imgur.com/JPHEE41.gif
- --&gt;
-
-
-&lt;p&gt; &lt;!-- &gt; &amp;ldquo;Sure I have a face and voice to distinguish myself from others, but my thoughts and memories are unique only to me, and I carry a sense of my own destiny. Each of those things are just a small part of it.&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.&amp;rdquo; &amp;ndash;&gt;&lt;/p&gt;&lt;/blockquote&gt;
+   <title>Escalating Solutions, Not Problems</title>
+   <link href="http://willmillar.com/blog/2014/06/04/escalating-solutions/"/>
+   <updated>2014-06-04T21:51:02-04:00</updated>
+   <id>http://willmillar.com/blog/2014/06/04/escalating-solutions</id>
+   <content type="html">
 </content>
  </entry>
  
