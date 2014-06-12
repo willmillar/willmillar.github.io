@@ -4,13 +4,62 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-06-05T20:56:15-04:00</updated>
+ <updated>2014-06-11T23:22:00-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>They&rsquo;re Following .Me</title>
+   <link href="http://willmillar.com/surveillance-hack"/>
+   <updated>2014-06-08T14:51:57-04:00</updated>
+   <id>http://willmillar.com/surveillance-hack</id>
+   <content type="html">&lt;p&gt; &lt;p class=&quot;lead&quot;&gt;Lorem&lt;/p&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;h2&gt;Curating the curators&lt;/h2&gt;
+
+&lt;h2&gt;Time and complexity constraints&lt;/h2&gt;
+
+&lt;h2&gt;Hackathons are great!&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TK iOS 8 sounds pretty nice TK</title>
+   <link href="http://willmillar.com/blog/2014/06/05/ios8/"/>
+   <updated>2014-06-05T23:41:20-04:00</updated>
+   <id>http://willmillar.com/blog/2014/06/05/ios8</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;Rich notifications &lt;em&gt;(reply to text messages, etc. from the notification drawer)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Widgets &lt;em&gt;(including on the lockscreen)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Sharing to third party apps &lt;em&gt;(Pocket, Evernote, etc.)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Touchless voice &lt;em&gt;(&amp;ldquo;Hey Siri&amp;rdquo;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Battery usage by app&lt;/li&gt;
+&lt;li&gt;Separate focus and exposure in camera&lt;/li&gt;
+&lt;li&gt;Camera timer&lt;/li&gt;
+&lt;li&gt;Autocomplete keyboard&lt;/li&gt;
+&lt;li&gt;Free/cheap automatic cloud photo storage&lt;/li&gt;
+&lt;li&gt;Shortcuts to recent contacts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Extras&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contextual predictive typing &lt;em&gt;()&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Photo filters in native photo app&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Interested to see what Google will have later this month at &lt;a href=&quot;TKTKTK&quot;&gt;IO&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Ghost in the Shell & existential questions of identity</title>
