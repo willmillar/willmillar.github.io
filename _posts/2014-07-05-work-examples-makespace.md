@@ -10,7 +10,7 @@ picture: /images/consulting.jpg
 
 ### Mobile homepage wireframes and user testing
 
-In preparation for a national rollout of online ordering, SapientNitro is working closely with Panera make the mobile site simpler and more ordering-friendly, while keeping legacy content. I am the UX designer, and the concepts were informed by our "Future cross-channel prototype" (below).
+In preparation for a national rollout of online ordering, SapientNitro is working closely with Panera to make the mobile site simpler and more ordering-friendly, while keeping legacy content. I am the UX designer, and the concepts were informed by our "Future cross-channel prototype" (below).
 
 I am currently working with Panera and its customers to conduct regular user testing sessions at Panera cafes for the new mobile site.
 
