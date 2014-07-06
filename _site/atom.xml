@@ -4,13 +4,80 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-06-11T23:22:00-04:00</updated>
+ <updated>2014-07-05T20:04:45-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Experience Design Work Examples for MakeSpace</title>
+   <link href="http://willmillar.com/work-examples-makespace"/>
+   <updated>2014-07-05T00:00:00-04:00</updated>
+   <id>http://willmillar.com/work-examples-makespace</id>
+   <content type="html">&lt;h2&gt;1. Prototyping online ordering for Panera Bread&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-panera-prototype2.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Mobile homepage wireframes and user testing&lt;/h3&gt;
+
+&lt;p&gt;In preparation for a national rollout of online ordering, SapientNitro is working closely with Panera make the mobile site simpler and more ordering-friendly, while keeping legacy content. I am the UX designer, and the concepts were informed by our &amp;ldquo;Future cross-channel prototype&amp;rdquo; (below).&lt;/p&gt;
+
+&lt;p&gt;I am currently working with Panera and its customers to conduct regular user testing sessions at Panera cafes for the new mobile site.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-panera-prototype1.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Future cross-channel  prototype&lt;/h3&gt;
+
+&lt;p&gt;SapientNitro worked with Panera to develop a concept prototype for an integrated  design system for mobile, desktop, tablet, and kiosk. I was the UX designer and led the &amp;ldquo;ordering-first&amp;rdquo; strategic initiative which strongly influced the mobile redesign (above).&lt;/p&gt;
+
+&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; href=&quot;http://invis.io/KB10ZIGMZ&quot;&gt;View the mobile prototype&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-panera-cart.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Targeted UX optimizations&lt;/h3&gt;
+
+&lt;p&gt;At SapientNitro, we also work with Panera on small, targeted adjustments to the web design system based on analytics and user feedback. Recently, we made the “Add to Cart” flow more intuitive with simple animations.&lt;/p&gt;
+
+&lt;p class=&quot;center-text&quot;&gt;&lt;a class=&quot;cta&quot; href=&quot;https://sapient.box.com/s/dm9hzqntv3ns8z7kg28j&quot;&gt;View the motion prototype&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;2. Website redesign for Analog Devices&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-analog-product.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Wireframes for navigation, templates, and page content&lt;/h3&gt;
+
+&lt;p&gt;International semiconductor manufacturer Analog Devices selected SapientNitro to redesign and replatform their website in 2013. I was a part of the UX team, which worked with the business to understand the material, with our strategists to innovate in the semiconductor category, and with business analysts to define requirements. We produced detailed wireframes for every unique page template. The site will be launching later this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-analog-scd.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;UX and flows for Analog Devices&amp;rsquo;s circuit board designer webapp&lt;/h3&gt;
+
+&lt;p&gt;SapientNitro also worked to optimize Analog Devices&amp;rsquo;s &amp;ldquo;Signal Chain Designer,&amp;rdquo; a simulation and testing tool for engineers to lay out circuit board designs. I worked closely with engineering managers at Analog to understand the context. We made high-level experience recommendations and detailed UX changes. Testing and feedback has proven that the new experience is easier and more powerful for users.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;3. Web design and data visualization for AlzForum&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work-examples-alzforum-dataviz.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Wireframes for databases, articles, and forums&lt;/h3&gt;
+
+&lt;p&gt;AlzForum is an online resource which collects resources for the Alzheimer&amp;rsquo;s Disease research community. Their site includes articles, interactive databases, and user forums. SapientNitro worked with AlzForum to redesign their website as part of a responsive replatform project. I was a part of the UX team. Together, we introduced Drupal compatible solutions which were affordable to the non-profit organization and well-received by users.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>They&rsquo;re Following .Me</title>
