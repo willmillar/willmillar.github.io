@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Experience Design Work Examples for MakeSpace
+title: Work Examples for MakeSpace
 permalink: work-examples-makespace
 picture: /images/consulting.jpg
 ---
