@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: project
 permalink: "work-examples-makespace"
 picture: /images/consulting.jpg
