@@ -1,7 +1,7 @@
 ---
 published: true
 layout: project
-permalink: "work-examples-makespace"
+permalink: "work-examples-microsoft"
 picture: /images/consulting.jpg
 ---
 
