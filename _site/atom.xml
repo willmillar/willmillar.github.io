@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-07-24T21:59:05-04:00</updated>
+ <updated>2014-07-24T22:05:17-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -15,8 +15,8 @@
  <entry>
    <title>Work Examples for Microsoft</title>
    <link href="http://willmillar.com/work-examples-microsoft"/>
-   <updated>2014-07-24T00:00:00-04:00</updated>
-   <id>http://willmillar.com/work-examples-microsoft</id>
+   <updated>2014-07-22T00:00:00-04:00</updated>
+   <id>http://willmillar.com/work-examples-msft</id>
    <content type="html">&lt;h2&gt;1. Prototyping online ordering for Panera Bread&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/work-examples-panera-prototype2.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
