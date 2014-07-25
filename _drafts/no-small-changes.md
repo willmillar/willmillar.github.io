@@ -1,2 +1,9 @@
+---
+layout: post
+category: blog
+title: TK
+subtitle: TK
 linkout: http://insideintercom.io/there-are-no-small-changes/
+---
+
 > Agreeing to features is deceptively easy. Coding them rarely is.Maintaining them can be a nightmare. When you’re striving for quality, there are no small changes.

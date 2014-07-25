@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-07-24T21:31:38-04:00</updated>
+ <updated>2014-07-24T21:36:16-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -13,13 +13,11 @@
 
  
  <entry>
-   <title>No Small Changes</title>
-   <link href="http://willmillar.com/2014/07/24/no-small-changes/"/>
-   <updated>2014-07-24T18:04:33-04:00</updated>
-   <id>http://willmillar.com/2014/07/24/no-small-changes</id>
-   <content type="html">&lt;p&gt;linkout: http://insideintercom.io/there-are-no-small-changes/&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Agreeing to features is deceptively easy. Coding them rarely is.Maintaining them can be a nightmare. When you’re striving for quality, there are no small changes.&lt;/p&gt;&lt;/blockquote&gt;
+   <title>TK</title>
+   <link href="http://willmillar.com/blog/2014/07/24/no-small-changes/"/>
+   <updated>2014-07-24T21:35:24-04:00</updated>
+   <id>http://willmillar.com/blog/2014/07/24/no-small-changes</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Agreeing to features is deceptively easy. Coding them rarely is.Maintaining them can be a nightmare. When you’re striving for quality, there are no small changes.&lt;/p&gt;&lt;/blockquote&gt;
 </content>
  </entry>
  
