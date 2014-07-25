@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Work Examples for MakeSpace
-permalink: work-examples-makespace
+title: Work Examples for Microsoft
+permalink: work-examples-microsoft
 picture: /images/consulting.jpg
 ---
 ## 1. Prototyping online ordering for Panera Bread
