@@ -6,7 +6,7 @@ permalink: experience-design-consulting
 picture: /images/consulting.jpg
 ---
 
-I am currently an Experience Designer at <a href="http://www.sapient.com/en-us/sapientnitro.html" title="SapientNitro.com">SapientNitro</a> where I research and sketch to design prototypes for large-scale websites. A portfolio of select deliverables is available by request.
+I am currently an Experience Designer at <a href="http://www.sapient.com/en-us/sapientnitro.html" title="SapientNitro.com">SapientNitro</a> where I research and sketch to design **prototypes for large-scale websites.** A portfolio of select deliverables is available by request.
 
 <!--more-->
 

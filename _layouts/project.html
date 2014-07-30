@@ -8,7 +8,7 @@ layout: default
   <div class="post-cover" style="padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), {% if page.picture != null %}url('{{ page.picture }}'){% endif %} repeat 0 0; background-size: cover; background-position: center;">
     {% include nav.html %}
     <h1 class="post-title">{{ page.title }}</h1>
-    <span class="post-date">{{ page.date | date: "%B, %Y" }}</span>
+    <span class="post-date">{{ page.date | date: "%B %Y" }}</span>
   </div>
   {{ content }}
 </div>

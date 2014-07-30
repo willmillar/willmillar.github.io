@@ -1,6 +1,6 @@
 ---
 layout: project
-category: projects
+categories: projects work-examples
 title: Various motion graphics
 permalink: motion-graphics
 picture: /images/sense-cover.jpg
@@ -27,6 +27,13 @@ Motion has been an important part of my design process going back to my start in
 <div class='video'><iframe src='https://player.vimeo.com/video/37973232?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
+
+###### Service overview video
+## Mathplus career guidance
+
+*Mathplus* is a concept service which helps math-inclined students identify potential career paths in high school.
+
+<div class='video'><iframe src='https://player.vimeo.com/video/33514687?title=0&amp;byline=0&amp;portrait=0&amp;color=3a92c9' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
 ###### Expressive motion typography
