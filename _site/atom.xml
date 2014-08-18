@@ -4,7 +4,7 @@
  <title>Will Millar</title>
  <link href="http://willmillar.com/atom.xml" rel="self"/>
  <link href="http://willmillar.com/"/>
- <updated>2014-07-30T07:20:42-04:00</updated>
+ <updated>2014-08-17T20:48:05-04:00</updated>
  <id>http://willmillar.com</id>
  <author>
    <name>Will Millar</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Online ordering prototypes for Panera Bread</title>
-   <link href="http://willmillar.com/panera-prototyping"/>
+   <link href="http://willmillar.com/panera"/>
    <updated>2014-07-29T00:00:00-04:00</updated>
    <id>http://willmillar.com/panera-prototyping</id>
    <content type="html">&lt;p&gt;SapientNitro works closely with Panera Bread for their web presence and digital ordering experience across desktop, mobile, and in-store. I was the lead user experience designer for several projects &lt;strong&gt;defining key ordering flows including check out and order setup.&lt;/strong&gt; We introduced design systems which tested better with users and were easier to build and maintain.&lt;/p&gt;
@@ -503,10 +503,12 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <link href="http://willmillar.com/experience-design-consulting"/>
    <updated>2014-05-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/experience-design-consulting</id>
-   <content type="html">&lt;p&gt;I am currently an Experience Designer at &lt;a href=&quot;http://www.sapient.com/en-us/sapientnitro.html&quot; title=&quot;SapientNitro.com&quot;&gt;SapientNitro&lt;/a&gt; where I research and sketch to design &lt;strong&gt;prototypes for large-scale websites.&lt;/strong&gt; A portfolio of select deliverables is available by request.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I research and sketch to design prototypes for websites for clients like the TD Garden, Panera Bread, and AlzForum&lt;/p&gt;
 
 &lt;!--more--&gt;
 
+
+&lt;p&gt;A portfolio of select deliverables is available by request.&lt;/p&gt;
 
 &lt;h2&gt;Panera Bread&lt;/h2&gt;
 
@@ -658,13 +660,11 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Website redesign for Analog Devices</title>
-   <link href="http://willmillar.com/analog-website"/>
+   <title>Semiconductor manufacturer website redesign</title>
+   <link href="http://willmillar.com/analog"/>
    <updated>2013-08-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/analog-redesign</id>
-   <content type="html">&lt;p&gt;SapientNitro recently worked with semiconductor manufacturer Analog Devices, who will be launching a large redesign later this year. On the UX team, we &lt;strong&gt;defined the design system&lt;/strong&gt; while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements.&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;!-- SapientNitro recently worked with semiconductor manufacturer Analog Devices, who will be launching a large redesign later this year. On the UX team, we **defined the design system** while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements. --&gt;
 
 
 &lt;h2&gt;Wireframes for navigation &amp;amp; page templates&lt;/h2&gt;
@@ -1615,16 +1615,11 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Website redesign for AlzForum</title>
-   <link href="http://willmillar.com/alzforum-redesign"/>
+   <title>Alzheimer&rsquo;s Disease research website redesign</title>
+   <link href="http://willmillar.com/alzforum"/>
    <updated>2012-07-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/alzforum-redesign</id>
-   <content type="html">&lt;p&gt;AlzForum is an online community which collects &lt;strong&gt;resources for the Alzheimer&amp;rsquo;s Disease research community.&lt;/strong&gt; Their site includes articles, interactive databases, and user forums.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;h2&gt;Wireframes for databases &amp;amp; forums&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;Wireframes for databases &amp;amp; forums&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/work-examples-alzforum-dataviz.png&quot; class=&quot;circle&quot;&gt;&lt;/p&gt;
 
@@ -1637,9 +1632,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <link href="http://willmillar.com/gather"/>
    <updated>2012-05-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/gather</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Gather&lt;/em&gt; is a concept service which provides a single access point for &lt;strong&gt;digital learning in schools.&lt;/strong&gt; It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students.&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;!-- *Gather* is a concept service which provides a single access point for **digital learning in schools.** It connects assorted resources and tools to make it easy for teachers to construct their own curriculum in a way that works for students. --&gt;
 
 
 &lt;h6&gt;Challenge&lt;/h6&gt;
@@ -1693,13 +1686,11 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
  </entry>
  
  <entry>
-   <title>Career guidance service for students</title>
+   <title>Career guidance service</title>
    <link href="http://willmillar.com/mathplus"/>
    <updated>2012-04-01T00:00:00-04:00</updated>
    <id>http://willmillar.com/mathplus</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Mathplus&lt;/em&gt; is a concept service which helps math-inclined &lt;strong&gt;students identify potential career paths in high school.&lt;/strong&gt; It aims to assist students in the job market by introducing them to successful professionals, practical applications for their skills, and example career paths.&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;!-- *Mathplus* is a concept service which helps math-inclined **students identify potential career paths in high school.** It aims to assist students in the job market by introducing them to successful professionals, practical applications for their skills, and example career paths. --&gt;
 
 
 &lt;h6&gt;Challenge&lt;/h6&gt;
@@ -1741,9 +1732,7 @@ Body ripping gif: http://i.imgur.com/JPHEE41.gif
    <link href="http://willmillar.com/motion-graphics"/>
    <updated>2012-03-01T00:00:00-05:00</updated>
    <id>http://willmillar.com/motion-graphics</id>
-   <content type="html">&lt;p&gt;Motion has been an important part of my design process going back to my start in TV production in high school where I learned motion design in After Effects.&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;!--more--&gt;
 
 
 &lt;h6&gt;Freelance outreach marketing&lt;/h6&gt;

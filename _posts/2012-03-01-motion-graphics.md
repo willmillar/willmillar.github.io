@@ -5,9 +5,6 @@ title: Various motion graphics
 permalink: motion-graphics
 picture: /images/sense-cover.jpg
 ---
-
-Motion has been an important part of my design process going back to my start in TV production in high school where I learned motion design in After Effects.
-
 <!--more-->
 
 ###### Freelance outreach marketing

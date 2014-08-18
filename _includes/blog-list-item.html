@@ -1,4 +1,22 @@
 <div class="post">
+  <a href="{{ post.url }}">
+    <div class="post-hero" style="background: 
+    linear-gradient(to bottom, rgba(237,231,219,0.00) 0%,
+    rgba(237,231,219,1.00) 80%), 
+    url('{{ post.picture }}') repeat 0 0;">
+
+    /* gradient: */
+background-image: -o-linear-gradient(-89deg, rgba(237,231,219,0.00) 0%, #EDE7DB 80%);
+background-image: -moz-linear-gradient(-89deg, rgba(237,231,219,0.00) 0%, #EDE7DB 82%);
+background-image: -ms-linear-gradient(-89deg, rgba(237,231,219,0.00) 0%, #EDE7DB 82%);
+background-image: linear-gradient(-179deg, rgba(237,231,219,0.00) 0%, #EDE7DB 82%);
+    </div>
+  </a>
+</div>
+
+
+<!--
+<div class="post">
  {% if post.picture != null %}
   <a href="{{ post.url }}">
     <div class="post-cover" style="{% if page.title == 'Home' %}padding-bottom: 18%;{% else %}padding: 18% 0 2% 0;{% endif %} background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .7) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
@@ -30,3 +48,4 @@
   {{ post.excerpt }}
   {% include read-more.html %}
 </div>
+-->

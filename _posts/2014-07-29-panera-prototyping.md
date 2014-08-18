@@ -2,7 +2,7 @@
 layout: project
 title: Online ordering prototypes for Panera Bread
 category: work-examples
-permalink: panera-prototyping
+permalink: panera
 picture: /images/consulting.jpg
 ---
 

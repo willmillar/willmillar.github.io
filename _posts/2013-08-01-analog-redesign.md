@@ -1,14 +1,14 @@
 ---
 layout: project
-title: Website redesign for Analog Devices
+title: Semiconductor manufacturer website redesign
+subtitle: Analog Devices
+description: Defining the design system
 category: work-examples
-permalink: analog-website
+permalink: analog
 picture: /images/work-examples-analog-cover.jpg
 ---
 
-SapientNitro recently worked with semiconductor manufacturer Analog Devices, who will be launching a large redesign later this year. On the UX team, we **defined the design system** while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements.
-
-<!--more-->
+<!-- SapientNitro recently worked with semiconductor manufacturer Analog Devices, who will be launching a large redesign later this year. On the UX team, we **defined the design system** while working closely with the client to understand the business, with strategists to understand electrical enginners, and with business analysis to define requirements. -->
 
 ## Wireframes for navigation & page templates
 

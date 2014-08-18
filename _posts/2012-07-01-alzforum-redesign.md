@@ -1,14 +1,12 @@
 ---
 layout: project
-title: Website redesign for AlzForum
+title: "Alzheimer&rsquo;s Disease research website redesign"
+subtitle: AlzForum
+description: An online community which collects articles, interactive databases, and user forums for the Alzheimer's Disease research community
 category: work-examples
-permalink: alzforum-redesign
+permalink: alzforum
 picture: /images/alzforum-cover.jpg
 ---
-
-AlzForum is an online community which collects **resources for the Alzheimer's Disease research community.** Their site includes articles, interactive databases, and user forums.
-
-<!--more-->
 
 ## Wireframes for databases & forums
 

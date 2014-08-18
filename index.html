@@ -1,34 +1,22 @@
 ---
 layout: default
-title: Home
+title: "Hi I&rsquo;m Will"
 ---
 
-<div class="post-cover" style="background: linear-gradient(to bottom, rgba(214, 214, 218, 0) 30%, rgba(214, 214, 218, 1) 100%), url('/images/portrait-wide.jpg') repeat 0 0; background-size: cover; background-position: center;">
-  {% include nav.html %}
-  <h1 class="tagline secondary">Empathetic design</br>for better experiences</h1>
+<div class="portrait" style="background: linear-gradient(to bottom, rgba(237,231,219,0.00) 0%, 
+rgba(237,231,219,0.20) 40%, 
+rgba(237,231,219,1.00) 100%), 
+url('/images/portrait-2.jpg') repeat 0 0; margin-bottom: -5em; background-size: cover; background-position: center;">
+<h1 id="home-page-title">{{ page.title }}</h1>
+<h2>Empathetic design<br>for better experiences</h2>
+<nav>
+	<a href="#projects">Projects</a>
+	<a href="#contact">Contact</a>
+</nav>
 </div>
+{% include about-me.html %}
+<h2 id="projects">Projects</h2>
 
-<div class="posts">
-
-  {% include about-me.html %}
-
-    {% for post in site.tags.featured %}
-      <div class="post" style="margin-top: 4rem; margin-bottom: 4rem;">
-        <a href="{{ post.url }}">
-          <div class="post-cover" style="padding-bottom: 18%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .5) 100%), url('{{ post.picture }}') repeat 0 0; background-size: cover; background-position: center;">
-            <h3 class="secondary center-text">Featured project</h3>
-            <h2 class="post-title">{{ post.title }}</h2>
-            <span class="post-date">{{ post.date | date: "%B, %Y" }}</span>
-          </div>
-        </a>
-        <p>{{ post.excerpt }}</p>
-        {% include read-more.html %}
-      </div>
-    {% endfor %}
-
-    <h3 class="secondary center-text">Latest post</h3>
-    {% for post in site.categories.blog | limit: 1 %}
-      {% include blog-list-item.html %}
-    {% endfor %}
-
-</div>
+{% for post in site.categories.projects %}
+    {% include project-listing.html %}
+{% endfor %}
