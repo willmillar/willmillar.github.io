@@ -64,12 +64,13 @@ p {
 }
 
 .intro-subtitle {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 50px;
 }
 
 .intro-aside {
-  margin-top: 0;
+  margin-top: 40px;
+  margin-bottom: 0;
 }
 
 .slide-pillpack {
@@ -84,8 +85,7 @@ p {
 }
 
 .slide-lede-txt {
-  padding-top: 20px;
-  margin-bottom: 6px;
+  margin-top: 10px;
   font-weight: bold;
 }
 
@@ -99,7 +99,8 @@ p {
   flex-direction: column;
 }
 
-.footer-email-txt {
+.footer-email-txt a {
+  color: #bbb;
   white-space: normal;
 }
 
