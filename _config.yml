@@ -1,37 +1,23 @@
-# Dependencies
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-pygments:         true
-
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            Will Millar
-tagline:          Experience Designer
+tagline:          Product Designer
 description:      Empathetic design for better experiences
 url:              http://willmillar.com
 
 author:
-  name:           Will Millar
+name:             Will Millar
 
-paginate:         1
+exclude:
+                - __old-site
+
+# Permalinks
+permalink:        pretty
 
 # Custom vars
-version:          1.0.0
+
+version:          6.0.0
 
 github:
   repo:           https://github.com/willmillar/willmillar.github.io
 
 excerpt_separator: <!--more-->
-
-navigation:
-      - text: Will Millar
-        url: /
-      - text: Projects
-        url: /projects/
-        layout: project
-      - text: Blog
-        url: /blog/
-        layout: post
