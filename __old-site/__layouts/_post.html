@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="post 
+    {% if page.category == 'blog' %}blog{% endif %} 
+    {% if page.category == 'projects' %}projects{% endif %}">
+    <div class="post-cover" style="{% if page.picture != null %}padding-bottom: 30%; background: linear-gradient(to bottom, rgba(214, 214, 218, 1) 0%, rgba(214, 214, 218, .3) 100%), url('{{ page.picture }}') repeat 0 0; background-size: cover; background-position: center;{% endif %}">
+    {% include nav.html %}
+      {% if page.linkout != null %}
+        <h1 class="post-title"><a href="{{ page.linkout }}">{{ page.title }}</a> &rarr;</h1>
+        {% if page.subtitle != null %}
+          <p class="center-text subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+        {% else %}
+          <h1 class="post-title">{{ page.title }}</h1>
+          {% if page.subtitle != null %}
+            <p class="center-text subtitle">{{ page.subtitle }}</p>
+          {% endif %}
+      {% endif %}
+      <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    </div>
+    {% if page.picture-caption != null %}
+      <p><small>{{ page.picture-caption }}</small></p>
+    {% endif %}
+  {{ content }}
+
+  {% if page.linkout != null %}
+    <p class="center-text">
+      <a class="cta small-screen" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first | truncate: 15 }} &rarr;</a>
+      <a class="cta large-screen" href="{{ page.linkout }}">via {{ page.linkout | remove:'http://' | remove:'www.' | split:'/' | first }} &rarr;</a>
+    </p>
+  {% endif %}
+
+</div>
+
+{% if page.category == 'blog' %}
+<div class="related">
+  <h2>More posts</h2>
+  <ul class="related-posts">
+    {% for post in site.categories.blog limit:4 %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {% if post.subtitle != null %}
+          <p class="center-text subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+        <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </li>
+    {% endfor %}
+    <li><h3><small><a href="/blog">All posts</a></small></h3></li>
+  </ul>
+</div>
+<p class="center-text" ></p>
+{% endif %}
+
+{% if page.category == 'projects' %}
+<div class="related">
+  <h2>More projects</h2>
+  <ul class="related-posts">
+    {% for post in site.categories.projects limit:5 %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {% if post.subtitle != null %}
+          <p class="center-text subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+        <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

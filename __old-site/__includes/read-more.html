@@ -1,0 +1,8 @@
+<p class="center-text">
+	{% if post.linkout != null %}
+		<a class="cta small-screen" target="_blank" href="{{ post.linkout }}">via {{ post.linkout | remove:'http://' | remove:'www.' | split:'/' | first | truncate: 15 }} &rarr;</a>
+		<a class="cta large-screen" target="_blank" href="{{ post.linkout }}">via {{ post.linkout | remove:'http://' | remove:'www.' | split:'/' | first }} &rarr;</a>
+		{% else %}
+			<a class="cta" href="{{ post.url }}">Read more</a>
+	{% endif %}
+</p>
