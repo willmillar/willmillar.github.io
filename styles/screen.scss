@@ -11,10 +11,11 @@ $font-stack: "franklin-gothic-urw", "Helvetica Neue", Helvetica, Arial, sans-ser
 html, body {
   height: 100%;
   font-family: $font-stack;
+  background-color: #2C2F31;
 }
 
 p, a, h1, h2, h3, h4 {
-  color: #888;
+  color: #BEC7CE;
   white-space: pre-wrap;
 }
 
@@ -28,44 +29,30 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 2em;
   margin-top: 0;
   font-weight: 400;
 }
 
 h2 {
-  font-size: 1.75em;
-  font-weight: 600;
+  font-size: 5em;
+  font-weight: 100;
 }
 
 p {
   line-height: 1.75;
 }
 
-.slide {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  min-height: 100%;
+img { //TODO name class
+  margin-top: 20px;
 }
 
 .slide-txt {
   width: 36em;
 }
 
-.slide-intro {
-  background: #eee;
-  text-align: center;
-}
-
-.intro-title {
-  margin-bottom: 60px;
-}
-
 .intro-subtitle {
-  margin-top: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .intro-aside {
@@ -73,15 +60,15 @@ p {
   margin-bottom: 0;
 }
 
+.slide-intro{
+  text-align: center;
+}
 .slide-pillpack {
-  background: #fff;
 }
 
 .slide-consulting {
-  background: #eee;
 }
 .slide-past {
-  background: #fff;
 }
 
 .slide-lede-txt {
@@ -94,7 +81,6 @@ p {
 }
 
 .footer {
-  background: #333;
   color: #eee;
   flex-direction: column;
 }
