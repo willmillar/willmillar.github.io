@@ -1,0 +1,46 @@
+body {
+  background-color: #FFFDFA;
+  color: #4B4843;
+  font-family: 'Work Sans', Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@media (min-width: 900px) {
+  .container {
+    max-width: 40em;
+  }
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 3em;
+}
+
+h1, p {
+  font-size: 1.25em;
+}
+
+a {
+  color: #4B4843;
+  text-decoration: none;
+  line-height: 30px;
+  background-image: linear-gradient(to bottom,rgba(194, 162, 61, 1) 25%,rgba(194, 162, 61,0) 25%);
+  background-size: 4px 4px;
+  background-position: 0 26px;
+  background-repeat: repeat-x;
+  transition: .05s all;
+}
+
+a:hover {
+  color: rgba(194, 162, 61, 1);
+}
+
+.self-portrait-img {
+  width: 4em;
+  height: 4em;
+}
