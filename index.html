@@ -1,22 +1,24 @@
----
-layout: default
-title: "Hi I&rsquo;m Will"
----
-
-<div class="portrait" style="background: linear-gradient(to bottom, rgba(237,231,219,0.00) 0%, 
-rgba(237,231,219,0.20) 40%, 
-rgba(237,231,219,1.00) 100%), 
-url('/images/portrait-2.jpg') repeat 0 0; margin-bottom: -5em; background-size: cover; background-position: center;">
-<h1 id="home-page-title">{{ page.title }}</h1>
-<h2>Empathetic design<br>for better experiences</h2>
-<nav>
-	<a href="#projects">Projects</a>
-	<a href="#contact">Contact</a>
-</nav>
-</div>
-{% include about-me.html %}
-<h2 id="projects">Projects</h2>
-
-{% for post in site.categories.projects %}
-    {% include project-listing.html %}
-{% endfor %}
+<!doctype html>
+<html>
+    <head>
+        <title>Will Millar</title>
+        <meta name="description" content="I design interfaces to help people do things.">
+        <link rel="stylesheet" href="style.css">
+        <link href='https://fonts.googleapis.com/css?family=Work+Sans:300,700' rel='stylesheet' type='text/css'>
+        <script src="//fast.eager.io/S9q6e3UdJa.js"></script>
+    </head>
+    <body>
+        <section class="container">
+            <header>
+                <h1>Hi, I'm Will. I design </br>interfaces that help </br>people do things.</h1>
+                <img src="self-portrait.png" class="self-portrait-img" alt="Self portrait">
+            </header>
+            <article>
+                <p>I help create a <a href="https://www.pillpack.com/">better pharmacy service</a> at PillPack. I design software for our customers and pharmacists and love doing it.</p>
+                <p>Previously, I worked on user experience for SapientNitro. I designed interaction systems for <a href="https://delivery.panerabread.com/">ordering food at Panera Bread</a>, <a href="http://bostinno.streetwise.co/2014/10/08/td-garden-renovation-before-after-pictures-new-food-prices-garden-wifi-capability-photos/">finding ammenities at the TD Garden arena</a>, and <a href="http://www.alzforum.org/">organizing Alzheimer&rsquo;s Diesease research</a>.</p>
+                <p>Before that, I made <a href="https://vimeo.com/41698023">service design concepts</a> and <a href="https://vimeo.com/channels/850963">motion graphics</a> while studying graphic design at <a href="http://massart.edu/">MassArt</a>.</p>
+                <p><a href="mailto:willmillar@gmail.com">Email me</a> or just <a href="https://www.youtube.com/watch?v=dNkB6vI5vwg">have a nice day</a>!</p>
+            </article>
+        </section>
+    </body>
+</html>
